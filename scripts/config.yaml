@@ -1,0 +1,37 @@
+# Config used by GitHub Actions workflow.
+# Token is NOT stored here — injected via GH_TOKEN environment variable.
+github:
+  token: "placeholder"   # overridden by GH_TOKEN env var at runtime
+  repo:  "sspallai/edl_objects"
+  branch: "main"
+
+update:
+  add_per_run:    500
+  delete_per_run: 200
+
+lists:
+  ip:
+    - lists/ip_lists/ip_list_01.txt
+    - lists/ip_lists/ip_list_02.txt
+    - lists/ip_lists/ip_list_03.txt
+    - lists/ip_lists/ip_list_04.txt
+    - lists/ip_lists/ip_list_05.txt
+
+  url:
+    - lists/url_lists/url_list_01.txt
+    - lists/url_lists/url_list_02.txt
+    - lists/url_lists/url_list_03.txt
+    - lists/url_lists/url_list_04.txt
+    - lists/url_lists/url_list_05.txt
+
+  domain:
+    - lists/domain_lists/domain_list_01.txt
+    - lists/domain_lists/domain_list_02.txt
+    - lists/domain_lists/domain_list_03.txt
+    - lists/domain_lists/domain_list_04.txt
+    - lists/domain_lists/domain_list_05.txt
+    - lists/domain_lists/domain_list_06.txt
+    - lists/domain_lists/domain_list_07.txt
+    - lists/domain_lists/domain_list_08.txt
+    - lists/domain_lists/domain_list_09.txt
+    - lists/domain_lists/domain_list_10.txt

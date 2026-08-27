@@ -1,0 +1,32 @@
+name: EDL Update
+
+on:
+  schedule:
+    - cron: '0 * * * *'   # every hour at :00 UTC
+  workflow_dispatch:       # manual trigger from GitHub UI → Actions tab
+
+permissions:
+  contents: write          # allow committing updated list files back to repo
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+          cache-dependency-path: scripts/requirements.txt
+
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Run EDL update
+        run: python scripts/update_lists.py --config scripts/config.yaml update
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}

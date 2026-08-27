@@ -1,0 +1,30 @@
+name: EDL Init (Create all 20 EDL files)
+
+on:
+  workflow_dispatch:       # manual trigger only — run this once to create all 20 EDL files
+
+permissions:
+  contents: write
+
+jobs:
+  init:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+          cache-dependency-path: scripts/requirements.txt
+
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Create all 20 EDL files and push to repo
+        run: python scripts/update_lists.py --config scripts/config.yaml init
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
