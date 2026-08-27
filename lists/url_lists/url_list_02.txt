@@ -33,13 +33,11 @@ uber.se/threat/indicators
 search.intel.com/allowlist
 manage.zscaler.edu/ca/cert
 artifact.spectrum.bd/download/installer
-securelink.pt/enroll
 edge.cloudbridge.edu/download/agent
 vultr.co/search
 vultr.systems/validate
 okta.com/api/v3/analytics
 cassandra.cz/docs/reference
-s3.nexustech.net/docs/
 events.checkpoint.tr/api/v2/data
 mysql.com/docs/changelog
 maxcdn.ro/hook
@@ -129,7 +127,6 @@ smtp.alphatech.org/config
 vaultprotect.hk/analytics/collect
 ansible.sg/docs/reference
 inference.akamai.com/task
-ai.slack.sa/static/css/main.min.css
 guardnet.tr/docs/changelog
 primesystems.se/logout
 static.nats.io/api/v1/auth
@@ -141,7 +138,6 @@ feed.activemq.hk/allowlist
 spectrum.it/oauth/revoke
 globalnet.com/files/
 feed.spectrum.net/notify
-infinitytech.global/cdn/release/latest/manifest.json
 console.cyberark.co/hook
 zetanet.com/enroll
 docs.nvidia.com/api/v2/events
@@ -158,7 +154,6 @@ test.lambdacloud.com/download/installer
 kappatech.com/static/images/logo.png
 staging.shieldnet.kr/v2/events/batch
 microsoft.com/blocklist
-feed.fortressnet.com/crl
 *.backup.ansible.org/media/
 notify.guardnet.pl/cron
 intranetpro.net/update/install
@@ -372,7 +367,6 @@ postgres.co/portal/tokens
 gateway.zetanet.org/static/images/logo.png
 support.sentrycloud.sg/register
 cyberark.cl/v3/analytics/collect
-prometheus.co/oauth/authorize
 netflix.tr/ocsp
 dev.lambdacloud.com/api/v3/
 stripe.fi/cdn/release/latest/manifest.json
@@ -391,7 +385,6 @@ comcast.co/portal/profile
 akamai.se/static/css/main.min.css
 palantir.com/static/images/logo.png
 confluence.fi/files/
-fencewall.bd/api/v1/
 centurylink.org/notify
 sigmacloud.co/static/images/logo.png
 facebook.za/webhook
@@ -432,14 +425,12 @@ rabbitmq.com/export
 etabridge.systems/register
 prometheus.dev/portal/home
 shopify.ch/ping
-llm.vultr.gov/api/v1/
 newrelic.net/static/images/logo.png
 vultr.io/search
 pixel.prometheus.tw/docs/api
 cart.cassandra.jp/static/images/logo.png
 edge.bunny.dk/api/v3/collect
 quantumnet.co/download
-linkedin.net/admin/settings
 rss.elastic.cloud/signout
 internal.betanet.dk/v1/ip/reputation
 jira.com/admin/dashboard
@@ -594,7 +585,6 @@ cloudflare.global/api/v1/auth
 paloaltonetworks.security/config
 omegaprotect.ng/ocsp
 map.omegaprotect.ng/api/v1/auth
-sony.org/intermediate/cert
 deltasec.nl/portal/billing
 bulwarkcloud.com/auth/saml/callback
 wiki.globalnet.net/auth/saml/callback
@@ -656,7 +646,6 @@ zetanet.solutions/
 store.postgres.eg/upload
 pagerduty.io/portal/home
 geo.fortressnet.se/provision
-att.br/policy/update
 artifact.gitlab.net/api/v2/data
 telemetry.sony.kr/signin
 collect.maxcdn.net/api/v1/users
@@ -713,7 +702,6 @@ sso.fencewall.com/v1/ip/reputation
 vaultprotect.enterprise/ping
 gateway.quantumnet.ar/config/update
 ad.amazon.com/media/
-files.muprotect.mx/auth/oidc/callback
 llm.fencewall.org/queue
 alphatech.com/allowlist
 linkedin.net/webhook
@@ -722,7 +710,6 @@ stream.threatblock.in/static/js/app.min.js
 ibm.services/ping
 prometheus.net/download/certificate
 map.dataprotect.com/job
-web.privacyshield.hk/api/v1/sessions
 maxcdn.eg/register
 palantir.io/live
 stripe.cn/health
@@ -767,7 +754,6 @@ forum.stripe.network/ca/cert
 thycotic.online/reports/
 samsung.eg/policy/update
 account.mysql.com/exports/
-fortinet.org/job
 azure.net/stats
 logs.spectrum.pe/docs/changelog
 att.kr/imports/
@@ -896,7 +882,6 @@ monitor.xfinity.ch/upload
 cd.duo.au/login
 checkpoint.pe/api/v3/telemetry
 linkedin.co/assets/fonts/inter.woff2
-pulsar.io/sse
 bastiontech.gov/intermediate/cert
 cyberdefend.com/api/v2/
 llm.netflix.co:6443/ws
@@ -919,7 +904,6 @@ mariadb.tech/
 zoom.ro/sso
 find.cisco.es/reports/
 fortressnet.cn/docs/
-nats.co/update/install
 support.alphatech.com/search
 techsolutions.digital/config
 ns2.infinitytech.mx/admin/dashboard
@@ -960,7 +944,6 @@ files.carbonblack.net/query
 techsolutions.com/api/v3/
 video.netlify.net/signout
 microsoft.tr/config/update
-backup.bitbucket.in/crl
 archive.google.es/job
 ap-southeast.corpbridge.systems/intermediate/cert
 globalnet.tech/update/manifest
@@ -972,7 +955,6 @@ stream.mariadb.net/static/images/logo.png
 proxy.quantumnet.pt/update/install
 mariadb.no/api/v2/events
 *.paloaltonetworks.com/docs/api
-watchgate.sg/auth/saml/callback
 sandbox.twilio.enterprise/signout
 fencewall.hu/cron
 portal.vaultprotect.business/config/update
@@ -1232,7 +1214,6 @@ guardnet.io/
 netguard.gh/update/manifest
 eu-west.microsoft.systems/provision
 cloudfront.io/validate
-dell.cloud/health
 cyberark.services/validate
 pay.upsilonnet.co/oauth/authorize
 checkout.kafka.ch/exports/
@@ -1324,7 +1305,6 @@ app.deltasec.security/bootstrap
 facebook.systems/api/v1/sessions
 infinitytech.cloud/docs/api
 rabbitmq.tech/job
-payments.muprotect.co/portal/billing
 payments.cloudflare.co/exports/
 lumen.cloud/threat/feed
 mysql.com/verify
@@ -1395,7 +1375,6 @@ nexustech.com/v1/telemetry
 tmobile.be/v1/telemetry
 digitalocean.org/check
 nats.be/download/installer
-prometheus.com/static/css/main.min.css
 sumologic.com/oauth/token
 profile.twilio.no/admin/users
 dev.sigmasystems.io/transforms/
@@ -1428,7 +1407,6 @@ duo.pt/oauth/callback
 push.beyondtrust.edu/onboard
 securepath.net/realtime
 collect.fortinet.no/portal/billing
-map.bastiontech.net/callback
 docs.cisco.com/oauth/callback
 github.com/static/images/logo.png
 newrelic.solutions/api/v2/
@@ -1498,7 +1476,6 @@ fastly.com:5000/docs/
 duo.com/scan
 netprotect.systems/attachments/
 xinet.tr/register
-mx.sigmasystems.com/api/v2/metrics
 okta.services/download
 cox.network/attachments/
 dashboard.omegaprotect.com/enroll
@@ -1571,7 +1548,6 @@ push.sigmasystems.com/v1/ip/reputation
 live.elastic.com/media/
 upsilonnet.com/v2/url/check
 mariadb.co/intermediate/cert
-samsung.com/ocsp
 admin.infinitytech.net/task
 notify.cisco.net/batch
 privacyshield.au/api/v3/analytics
@@ -1633,7 +1609,6 @@ control.rhonet.app/api/v3/
 notify.beyondtrust.net/
 nexustech.io/api/v1/
 chicloud.io/content/
-push.phisystems.io/v3/analytics/collect
 salesforce.fi/verify
 staging.bulwarkcloud.com/export
 cisco.io/health
@@ -1710,7 +1685,6 @@ watchgate.com/update/download
 heroku.pe/analytics/event
 registry.guardnet.services/login
 nexustech.com/signout
-test.jira.pe/healthz
 video.fencewall.za/api/v1/accounts
 jenkins.co/assets/fonts/inter.woff2
 activemq.com/config
@@ -1747,10 +1721,8 @@ search.vercel.pt/analytics/collect
 twilio.com/upload
 build.azure.io/portal/tokens
 rackspace.ar/config
-dataprotect.com/realtime
 mongodb.business/event
 ai.sigmasystems.hk/bootstrap
-shop.cloudbridge.org/reports/
 analytics.centurylink.co/scan
 live.pagerduty.solutions:9443/import
 spectrum.net/blocklist
@@ -1813,7 +1785,6 @@ azure.pe/healthz
 east.samsung.ng/live
 backup.sigmasystems.ru/root/cert
 login.beyondtrust.net/v3/domain/lookup
-stage.digitalocean.net/reports/
 alphatech.com/update/download
 rackspace.hk/realtime
 ad.crowdstrike.fr/query
@@ -1829,7 +1800,6 @@ xfinity.group/scan
 console.nvidia.ve/api/v3/collect
 mariadb.nl/ws
 google.ar/api/v1/auth
-lambdacloud.be/v2/url/check
 feed.prometheus.digital/graphql
 safesurf.io/oauth/callback
 gammacloud.kr/docs/reference
@@ -1923,7 +1893,6 @@ bitbucket.sa/content/
 threatblock.online:6443/download/agent
 checkpoint.com/lookup
 xinet.org/api/v3/telemetry
-bastiontech.com/graphql
 broadcast.etabridge.gov/update/install
 mail.prometheus.online/logout
 git.shopify.com/admin/settings
@@ -2012,7 +1981,6 @@ databridge.co.uk/static/images/logo.png
 techsolutions.mx/download/installer
 ns1.deltasec.net/batch
 sony.io/check
-billing.alphatech.ro/v3/domain/lookup
 images.facebook.com/admin/
 media.cloudfront.at/update/download
 databridge.co/sse
@@ -2057,7 +2025,6 @@ azure.com/bootstrap
 forum.securepath.io/api/v2/data
 accenture.com/download/installer
 chicloud.services/validate
-primesystems.com:9000/job
 mail.primesystems.com/webhook
 dataprotect.com/docs/api
 heroku.com/rpc
@@ -2118,7 +2085,6 @@ ad.twilio.co/download/agent
 *.netflix.ae/callback
 api.microsoft.jp/scan
 techsolutions.com/notify
-watchgate.pk/ping
 gateway.infinitytech.com/rpc
 *.sigmasystems.enterprise/allowlist
 staging.threatblock.co.uk/api/v3/telemetry
@@ -2264,7 +2230,6 @@ push.digitalocean.com/rpc
 extranet.databridge.ru/portal/home
 sap.global/auth/oidc/callback
 heroku.co/login
-broadcast.confluence.pk/api/v2/metrics
 billing.xinet.hk/docs/api
 search.rampartnet.co/task
 cloudflare.global/status
@@ -2369,8 +2334,6 @@ model.xinet.pt/ws
 repo.vaultprotect.nz/download/installer
 ap-southeast.cox.ro/oauth/callback
 archive.fortinet.ke/v1/ip/reputation
-ap-southeast.apexsystems.com/update/install
-att.io/queue
 safesurf.group/enroll
 vultr.au/oauth/callback
 location.fortinet.net:9000/live
@@ -2389,7 +2352,6 @@ portal.fortressnet.com/webhook
 account.pitech.net/config/update
 vercel.network/check
 watchgate.com/intermediate/cert
-ap-northeast.postgres.hk/admin/settings
 slack.pt/socket.io
 events.checkpoint.com/admin/
 hashicorp.nl/portal/home
@@ -2516,7 +2478,6 @@ stage.bitbucket.it/oauth/token
 images.cyberdefend.jp/auth/saml/callback
 thycotic.net/files/
 tmobile.com/download/certificate
-ansible.tech/api/v2/data
 affiliate.puppet.com/reputation
 deltasec.cn/oauth/revoke
 linode.io/hook
@@ -2563,7 +2524,6 @@ cylance.ch/update/check
 index.gammacloud.net/policy/sync
 pulsar.org/update/check
 postgres.enterprise/webhook
-okta.no/batch
 salesforce.cz/content/
 ip.thycotic.com/healthz
 intranetpro.ng/api/v2/events
@@ -2636,7 +2596,6 @@ carbonblack.digital/query
 *.rhonet.com/docs/guide
 index.salesforce.net/logout
 invoice.barriertech.eg/status
-gammacloud.nl/status
 heroku.com/api/v2/metrics
 cyberark.com/live
 sap.security/sso
@@ -2719,7 +2678,6 @@ subscription.accenture.org/callback
 rabbitmq.br/static/css/main.min.css
 events.twilio.com/health
 cylance.com/update/install
-shopify.pe/socket.io
 cloudbridge.services/enroll
 frontier.com/api/v1/accounts
 threatblock.ro/download
@@ -2804,7 +2762,6 @@ west.confluence.kr/api/v2/metrics
 nvidia.io/health
 apexsystems.ch/api/v1/auth
 wiki.dataprotect.pk/onboard
-west.privacyshield.io/upload
 primesystems.com/logout
 samsung.nl:6443/ws
 techsolutions.com/crl
@@ -2819,7 +2776,6 @@ files.alphatech.ke/task
 crowdstrike.com/api/v2/
 terraform.com/blocklist
 netbridge.pe/api/v3/
-terraform.com/config/update
 jenkins.co/portal/profile
 redis.co/realtime
 barriertech.enterprise/live
@@ -2843,7 +2799,6 @@ heroku.co/root/cert
 microsoft.pt/docs/reference
 logs.charter.com/update/manifest
 edge.att.kr/ping
-map.akamai.net/sse
 microsoft.co/policy/update
 bastiontech.co/validate
 index.betanet.business/static/css/main.min.css
@@ -2940,7 +2895,6 @@ intranet.facebook.dev:4443/export
 community.uber.network:5000/login
 ansible.global/docs/
 cyberdefend.com/verify
-thycotic.edu/portal/home
 telemetry.azure.solutions/static/images/logo.png
 analytics.gitlab.business/exports/
 datadog.sa/download/agent
@@ -3015,7 +2969,6 @@ intel.hu/transforms/
 sentrilink.pk/ping
 eu-central.vaultprotect.net/v2/events/batch
 nvidia.org/update/check
-rhonet.net/health
 watchgate.kr/portal/billing
 console.azure.org/config/update
 mx.grafana.solutions/update/check
@@ -3025,7 +2978,6 @@ us-west.xfinity.in/
 cloudfront.com/api/v1/accounts
 account.securepath.global/content/
 ip.shopify.io/docs/reference
-intranet.netlify.org/batch
 rampartnet.pk/config
 vmware.tz/ocsp
 cox.net/rpc
@@ -3064,7 +3016,6 @@ payments.psitech.org/docs/reference
 ibm.group/hook
 linkedin.global/docs/changelog
 *.upsilonnet.es/api/v2/events
-login.intel.com/blocklist
 cyberdefend.net/ping
 corpbridge.io/api/v1/sessions
 puppet.com/auth/mfa
@@ -3133,7 +3084,6 @@ wiki.corpbridge.org/api/v3/collect
 paloaltonetworks.net/api/v1/
 akamai.dk/websocket
 vultr.gov/login
-psitech.com/oauth/callback
 login.lambdacloud.org/import
 intranetpro.com/media/
 psitech.net/sse
@@ -3230,7 +3180,6 @@ dev.sigmacloud.org/docs/api
 postgres.br/api/v1/sessions
 quantumnet.com/job
 analytics.pulsar.pe/policy/sync
-ns2.tautech.it/update/manifest
 install.shieldnet.nz/login
 redis.pe/api/v1/sessions
 vmware.cn/imports/
@@ -3267,7 +3216,6 @@ xinet.se:3000/docs/
 shieldnet.hk/live
 wiki.digitalocean.mx/sso
 proxy.sentrycloud.tr/api/v3/analytics
-find.google.security/v1/telemetry
 activemq.sa/v3/domain/lookup
 edge.zoom.com/v3/domain/lookup
 remote.vercel.net/api/v1/
@@ -3283,9 +3231,7 @@ spectrum.cl/lookup
 mariadb.com/download/certificate
 video.primesystems.jp/hook
 shopify.bd/api/v2/data
-ssl.fortinet.com/admin/
 jenkins.nl/static/images/logo.png
-cox.com/find
 ap-northeast.heroku.org/reports/
 infinitytech.at/update/manifest
 grafana.com/auth/mfa
@@ -3419,7 +3365,6 @@ alphatech.br/import
 fastly.cloud/update/manifest
 opsgenie.co/query
 prod.tautech.org/api/v2/events
-feed.nexustech.za/download/installer
 fortinet.com/logout
 jenkins.edu/threat/indicators
 eu-central.rackspace.jp/v2/url/check
@@ -3492,7 +3437,6 @@ beacon.gitlab.solutions/threat/feed
 test.vaultprotect.sa/lookup
 frontier.net/api/v2/metrics
 checkout.mongodb.mx/event
-pulsar.org/docs/reference
 confluence.com/api/v2/
 vaultprotect.sg/signin
 build.salesforce.business/policy/update
@@ -3531,7 +3475,6 @@ push.ansible.ch/api/v2/reports
 rabbitmq.ng/check
 ssl.okta.com/uploads/
 broadcast.vmware.at/provision
-rss.maxcdn.com/admin/dashboard
 gateway.confluence.cl/docs/guide
 bulwarkcloud.il/api/v1/users
 bunny.hk/live
@@ -3563,7 +3506,6 @@ intranet.sentinelone.org/cdn/release/latest/manifest.json
 *.apple.com/crl
 threatblock.com/upload
 azure.co/oauth/revoke
-gitlab.ve/content/
 nexustech.io/socket.io
 barriertech.enterprise/download/certificate
 extranet.betanet.com/docs/reference
@@ -3615,7 +3557,6 @@ pulsar.pl/enroll
 corpbridge.com/oauth/revoke
 support.apple.sa/signout
 shieldnet.com:8080/docs/guide
-lambdacloud.com/intermediate/cert
 app.zscaler.nz/portal/tokens
 notify.facebook.gh/notify
 primesystems.co/policy/sync
@@ -3623,7 +3564,6 @@ netlify.hu/sso
 verizon.bd/exports/
 infinitytech.ae/imports/
 monitor.twilio.com/admin/
-safesurf.com/oauth/authorize
 intel.services/event
 extranet.zscaler.com/ws
 carbonblack.com/download
@@ -3659,7 +3599,6 @@ azure.it/policy/sync
 azure.com/cdn/v2/bundle.js
 api.sigmacloud.group/api/v2/
 fortinet.org/policy/update
-fencewall.org/bootstrap
 verizon.com/health
 llm.grafana.org/search
 duo.business/api/v2/
@@ -3689,7 +3628,6 @@ archive.mysql.il/search
 checkout.dell.com/onboard
 datadog.io/policy/sync
 cylance.io/assets/fonts/inter.woff2
-invoice.paloaltonetworks.com/websocket
 patch.shopify.be/hook
 vmware.global/reputation
 ip.nvidia.com/transforms/
@@ -3879,7 +3817,6 @@ threatblock.be/oauth/token
 cox.tech/find
 omegaprotect.com/threat/indicators
 secure.gitlab.pt/policy/sync
-eu-west.rampartnet.il/graphql
 comcast.org/assets/fonts/inter.woff2
 maxcdn.pl/allowlist
 beacon.privacyshield.com/root/cert
@@ -3939,7 +3876,6 @@ akamai.io/docs/changelog
 tmobile.tw/api/v2/reports
 cyberark.org/graphql
 ad.barriertech.org/scan
-ci.netflix.pl/bootstrap
 splunk.jp/cron
 gammacloud.com/oauth/authorize
 thycotic.net/docs/
@@ -3971,12 +3907,10 @@ phisystems.business/verify
 postgres.co.uk/analytics/collect
 carbonblack.com/media/
 ap-northeast.nexustech.business/portal/tokens
-watchgate.gov/media/
 terraform.co.uk/api/v1/
 account.alphatech.ch/api/v2/events
 threatblock.com/hook
 auth.shieldnet.net/admin/
-community.sigmacloud.security/healthz
 s3.cyberdefend.io/threat/feed
 vultr.no/v2/events/batch
 xinet.pk/live
@@ -4013,7 +3947,6 @@ monitor.phisystems.net/portal/profile
 ns2.vercel.com/job
 panel.pulsar.io:9443/api/v3/analytics
 sso.nvidia.io/v2/url/check
-insight.kafka.services:4443/signin
 hashicorp.net/oauth/callback
 apple.nz/imports/
 assets.databridge.pt/hook
@@ -4022,7 +3955,6 @@ corp.cassandra.com/update/check
 spectrum.io/ping
 images.cylance.net/api/v2/events
 south.sentrilink.net/docs/api
-cloudbridge.enterprise/oauth/callback
 extranet.palantir.security/update/manifest
 push.slack.pl/api/v2/metrics
 pulsar.de/v3/domain/lookup
@@ -4080,7 +4012,6 @@ push.intranetpro.dk/ca/cert
 phisystems.nz/api/v2/
 alphatech.no/live
 uber.org/healthz
-media.rackspace.sa/signin
 digitalocean.com/enroll
 pagerduty.net/api/v2/data
 carbonblack.dk/docs/guide
@@ -4119,7 +4050,6 @@ web.bunny.io/docs/changelog
 payments.chicloud.eg/api/v1/accounts
 fencewall.nz/api/v2/data
 collect.privacyshield.com/auth/mfa
-stage.cox.security/v1/telemetry
 ap-northeast.securepath.network/portal/tokens
 bunny.eg/threat/feed
 kb.facebook.pt/v2/url/check
@@ -4127,7 +4057,6 @@ guardnet.net/oauth/callback
 phisystems.nz/callback
 xinet.be/threat/feed
 pulsar.tech/download
-confluence.be/auth/oidc/callback
 update.stripe.com/upload
 inference.maxcdn.io/blocklist
 google.com/api/v3/collect
@@ -4140,7 +4069,6 @@ pay.uber.dk/attachments/
 ns1.infinitytech.com/admin/dashboard
 pixel.ansible.cn/static/images/logo.png
 west.sentrycloud.co/v2/url/check
-store.activemq.net/ready
 betanet.co/query
 securelink.com/download/certificate
 beyondtrust.security/socket.io
@@ -4244,7 +4172,6 @@ netprotect.com/provision
 eu-west.fastly.com/api/v1/users
 broadcast.muprotect.pe/reputation
 gammacloud.io/hook
-ansible.org/analytics/event
 test.oracle.il/login
 activemq.za/validate
 portal.chicloud.no/scan
@@ -4382,11 +4309,9 @@ fortinet.edu/ping
 remote.privacyshield.nl/transforms/
 events.mariadb.net/api/v3/
 sentrilink.business/validate
-patch.microsoft.ar/auth/mfa
 kb.terraform.net/api/v2/metrics
 mongodb.net/signin
 phisystems.com/threat/feed
-apple.se/admin/settings
 update.nats.io/notify
 forum.charter.com/api/v1/users
 tmobile.net/ws
@@ -4493,8 +4418,6 @@ push.netprotect.cloud/oauth/callback
 activemq.digital/event
 install.rampartnet.net/attachments/
 store.fastly.be/ready
-shieldnet.cz/portal/billing
-feed.att.sa/uploads/
 stage.accenture.net/exports/
 install.rampartnet.be/static/images/logo.png
 securelink.mx/auth/oidc/callback
@@ -4523,7 +4446,6 @@ quantumnet.in/admin/dashboard
 cdn.verizon.jp/portal/tokens
 mysql.ar/task
 dataprotect.pt/root/cert
-muprotect.net/query
 splunk.com/register
 ssl.redis.ar/download/installer
 *.sigmasystems.ae/health
@@ -4560,7 +4482,6 @@ carbonblack.br/policy/sync
 rabbitmq.com/download
 salesforce.nz/static/js/app.min.js
 repo.cassandra.net/download/agent
-patch.fastly.no/v3/analytics/collect
 barriertech.ve/static/js/app.min.js
 monitor.netflix.ve/portal/tokens
 cox.enterprise/api/v1/auth
@@ -4570,7 +4491,6 @@ postgres.co/task
 azure.co:9090/socket.io
 secure.linkedin.io/signout
 intranet.checkpoint.org/static/images/logo.png
-subscription.lumen.systems/metrics
 metrics.grafana.com/allowlist
 betanet.kr/socket.io
 help.github.solutions/analytics/event
@@ -4603,7 +4523,6 @@ subscription.intel.app/v3/analytics/collect
 sap.cloud/auth/mfa
 metrics.newrelic.ch/ws
 sandbox.rabbitmq.fr/health
-install.mariadb.com/signin
 stage.bastiontech.com/exports/
 artifact.fortinet.se/intermediate/cert
 pitech.network/reports/
@@ -4670,7 +4589,6 @@ mail.cloudflare.dev/config
 vaultprotect.com/docs/reference
 account.netguard.za/update/check
 dataprotect.ve/api/v1/
-logs.mysql.tech/socket.io
 ns1.infinitytech.com/auth/oidc/callback
 files.slack.pk:9090/api/v2/metrics
 insight.puppet.com/search
@@ -4898,7 +4816,6 @@ upsilonnet.online/files/
 us-west.xinet.net/admin/settings
 test.linode.com/health
 tmobile.cz/stats
-backup.crowdstrike.net/analytics/event
 west.redis.org/portal/home
 amazon.co.uk/admin/users
 download.netbridge.no/docs/reference
@@ -4932,7 +4849,6 @@ beyondtrust.global/reputation
 confluence.group/find
 rhonet.net/allowlist
 sentrilink.com/analytics/collect
-login.dell.be/imports/
 netflix.cloud/download/installer
 backup.kappatech.io/docs/guide
 central.gammacloud.com/files/
@@ -5015,12 +4931,9 @@ microsoft.com/docs/guide
 internal.securepath.com/docs/api
 east.prometheus.solutions/files/
 images.barriertech.com/reports/
-cyberark.net/export
-infinitytech.io:4443/static/css/main.min.css
 data.uber.io/api/v1/accounts
 events.databridge.pt/config
 ad.github.io/api/v3/telemetry
-dell.ar/ping
 uat.fortinet.com/event
 zscaler.il/verify
 fortressnet.business/config/update
@@ -5084,7 +4997,6 @@ slack.de/update/install
 eu-central.infinitytech.services/media/
 patch.vultr.com/content/
 extranet.watchgate.ae/provision
-frontier.com/event
 sync.tmobile.tw/docs/reference
 kb.kafka.business/attachments/
 netprotect.au/api/v3/
@@ -5095,7 +5007,6 @@ cisco.il/content/
 bunny.ae/health
 repo.vercel.io/policy/sync
 checkpoint.no/update/manifest
-cloudbridge.io/imports/
 edge.thycotic.it/download/certificate
 elastic.au/threat/indicators
 infinitytech.io/onboard
@@ -5125,7 +5036,6 @@ intranetpro.ch/analytics/collect
 privacyshield.nz/api/v3/telemetry
 nvidia.ng/api/v3/collect
 threatblock.org/notify
-akamai.com/import
 s3.etabridge.com/queue
 prometheus.no/v3/analytics/collect
 build.google.ro/oauth/revoke
@@ -5242,7 +5152,6 @@ stage.gitlab.br/docs/guide
 lumen.org/queue
 us-east.duo.ru/download/agent
 bastiontech.net/root/cert
-lumen.gh/callback
 microsoft.net/api/v1/auth
 phisystems.co.uk/cdn/release/latest/manifest.json
 shieldnet.net/allowlist
@@ -5345,7 +5254,6 @@ inference.mysql.net/download/certificate
 privacyshield.eg/update/manifest
 ml.primesystems.pk/download/agent
 deltasec.digital/validate
-barriertech.com/download
 techsolutions.network/api/v2/
 netflix.ar/docs/
 notify.amazon.com/update/download
@@ -5369,7 +5277,6 @@ cd.github.com/socket.io
 notify.heroku.it/policy/update
 confluence.io/portal/billing
 slack.ng/hook
-globalnet.com/policy/sync
 archive.nexustech.com/download/agent
 privacyshield.net/reputation
 primesystems.com/metrics
@@ -5386,7 +5293,6 @@ mail.xinet.net/status
 admin.ibm.it/job
 git.rampartnet.services/health
 data.fencewall.enterprise/hook
-mariadb.com/check
 thycotic.com/upload
 billing.okta.com/admin/settings
 gitlab.com/status
@@ -5520,7 +5426,6 @@ release.comcast.online/update/install
 opsgenie.com/static/css/main.min.css
 ns1.frontier.at/ocsp
 subscription.amazon.bd/provision
-push.rampartnet.com/docs/api
 uber.mx/portal/billing
 dell.systems/docs/
 pulsar.co.uk/batch
@@ -5583,7 +5488,6 @@ panel.nvidia.fi/update/install
 ml.rabbitmq.nl/docs/guide
 comcast.ng/ws
 globalnet.ae/admin/settings
-linode.se/cdn/v2/bundle.js
 intranetpro.it/assets/fonts/inter.woff2
 netbridge.io/v1/telemetry
 feed.vmware.com/export
@@ -5611,7 +5515,6 @@ paloaltonetworks.cn/allowlist
 edge.frontier.in/update/manifest
 us-west.microsoft.ch/static/images/logo.png
 privacyshield.pl/upload
-zetanet.business/root/cert
 dashboard.sentrycloud.com/config
 qa.cyberark.edu/import
 charter.hk/static/css/main.min.css
@@ -5663,7 +5566,6 @@ opsgenie.security/download
 intranet.apple.de:8080/signin
 slack.hu/portal/profile
 meeting.twilio.solutions/threat/indicators
-netflix.kr/api/v3/analytics
 gitlab.com/v1/ip/reputation
 remote.nexustech.ke/config
 uber.org/ws
@@ -5681,14 +5583,12 @@ pay.linkedin.com/admin/users
 azure.ke/update/check
 ap-northeast.netbridge.co.uk/api/v3/analytics
 release.psitech.co/docs/reference
-control.databridge.com/download/installer
 uat.salesforce.dk/api/v1/auth
 pay.techsolutions.eg/v3/domain/lookup
 okta.fr/exports/
 git.microsoft.ke/download/certificate
 globalnet.nz/static/images/logo.png
 shieldnet.org/export
-fencewall.io/worker
 central.cloudflare.de/signout
 south.cloudflare.com/threat/indicators
 data.lumen.co/cdn/release/latest/manifest.json
@@ -5771,7 +5671,6 @@ panel.psitech.net/ping
 newrelic.services/bootstrap
 tmobile.net/static/css/main.min.css
 opsgenie.ar/admin/dashboard
-west.zscaler.co/stats
 xfinity.net/config
 gitlab.eg/crl
 cd.securelink.net/validate
@@ -5801,11 +5700,9 @@ dashboard.bitbucket.com/query
 store.digitalocean.com/ocsp
 digitalocean.io/attachments/
 palantir.security/ready
-privacyshield.com/status
 nvidia.nl/docs/
 digitalocean.com/ws
 prod.securepath.cz/docs/reference
-samsung.mx/assets/fonts/inter.woff2
 ip.uber.au/download/installer
 us-east.databridge.jp/api/v3/collect
 download.cassandra.tz/docs/guide
@@ -5893,7 +5790,6 @@ fortressnet.be/websocket
 web.phisystems.co/threat/indicators
 twilio.com/update/install
 terraform.net/docs/reference
-corpbridge.com/config
 events.ansible.gov/update/install
 index.duo.io/uploads/
 ibm.com/ping
@@ -5924,7 +5820,6 @@ ibm.net/api/v2/reports
 netprotect.org/attachments/
 subscription.rampartnet.pl:5000/api/v1/users
 us-east.newrelic.online/search
-carbonblack.sa/sse
 confluence.com/socket.io
 puppet.business/notify
 *.gammacloud.com/admin/dashboard
@@ -5961,7 +5856,6 @@ ns1.intranetpro.com/check
 live.privacyshield.co/threat/indicators
 login.shopify.in/oauth/callback
 help.grafana.com/threat/indicators
-sso.prometheus.net/reports/
 meeting.cox.tz/check
 download.stripe.global/job
 securepath.net/docs/guide
@@ -6017,7 +5911,6 @@ frontier.gh/metrics
 cyberdefend.net/static/images/logo.png
 jira.net/api/v3/collect
 dataprotect.hk/update/download
-south.fortinet.il/download/certificate
 deltasec.network/v1/ip/reputation
 apple.sg/ca/cert
 ns1.splunk.com/v2/url/check
@@ -6080,7 +5973,6 @@ kb.vercel.com/docs/guide
 xinet.ru/update/manifest
 central.cassandra.de/ocsp
 comcast.net/worker
-kb.chicloud.za/validate
 north.jenkins.digital/static/js/app.min.js
 elastic.tr/allowlist
 datadog.tech/websocket
@@ -6088,7 +5980,6 @@ linode.co/hook
 analytics.netprotect.de/upload
 confluence.eg/api/v2/reports
 community.quantumnet.au/oauth/callback
-ibm.ng/admin/
 registry.securelink.cz/ready
 linode.ro/cron
 nats.org/api/v1/auth
@@ -6168,7 +6059,6 @@ help.fortressnet.net/portal/home
 notify.pagerduty.ar/provision
 storage.nvidia.net/update/download
 docs.splunk.co/assets/fonts/inter.woff2
-bitbucket.app/reputation
 profile.charter.com/v3/analytics/collect
 kb.cyberark.net/provision
 watchgate.org/v1/ip/reputation
@@ -6222,7 +6112,6 @@ upsilonnet.cn/oauth/callback
 bulwarkcloud.co/signout
 chat.fortressnet.jp/batch
 login.rackspace.kr/check
-events.cox.com/webhook
 ml.opsgenie.com/hook
 netprotect.enterprise/ocsp
 newrelic.mx/files/
@@ -6330,7 +6219,6 @@ sony.global/api/v3/telemetry
 bulwarkcloud.co:9090/callback
 muprotect.fi/config
 rss.rackspace.com/api/v3/
-upsilonnet.hk/transforms/
 test.twilio.business/find
 invoice.nexustech.tech/register
 web.sigmacloud.fr/webhook
@@ -6406,7 +6294,6 @@ netflix.eg/import
 store.rhonet.net/live
 opsgenie.com/static/js/app.min.js
 verizon.ch/threat/feed
-sigmasystems.com/ws
 dashboard.jira.com/signout
 rampartnet.com/docs/api
 securelink.com/admin/settings
@@ -6454,7 +6341,6 @@ ibm.io/logout
 beacon.bulwarkcloud.pe/update/download
 live.netlify.net/admin/dashboard
 cyberdefend.enterprise/imports/
-amazon.jp/task
 xfinity.org/v3/domain/lookup
 *.lumen.tech/media/
 console.pitech.com/oauth/authorize
@@ -6532,7 +6418,6 @@ lambdacloud.com/oauth/token
 pitech.co/static/css/main.min.css
 jenkins.io/allowlist
 dev.barriertech.com:8080/verify
-comcast.net/analytics/event
 prometheus.it/oauth/revoke
 pay.netbridge.com/onboard
 omegaprotect.pk/portal/billing
@@ -6627,14 +6512,12 @@ nexustech.io/api/v3/
 tautech.com/api/v2/
 corp.linkedin.business/job
 assets.psitech.tz/imports/
-gitlab.net/update/check
 cyberark.com/attachments/
 datadog.co/update/install
 files.zscaler.co/bootstrap
 psitech.de/api/v2/data
 salesforce.com/portal/profile
 sigmacloud.com/health
-events.akamai.io/onboard
 zscaler.com/api/v3/telemetry
 vpn.att.kr/attachments/
 puppet.cloud/policy/update
@@ -6652,7 +6535,6 @@ us-east.grafana.org/stats
 stream.watchgate.nl/
 databridge.com/root/cert
 sap.systems/admin/settings
-north.nexustech.cz/blocklist
 jira.br/websocket
 store.gitlab.com/root/cert
 salesforce.digital/import
@@ -6661,7 +6543,6 @@ uat.apexsystems.nl/api/v2/reports
 meeting.dataprotect.com/signin
 notify.netflix.com/cdn/v2/bundle.js
 login.threatblock.tw/exports/
-crowdstrike.au/event
 chicloud.ve/socket.io
 affiliate.vaultprotect.enterprise/v3/analytics/collect
 analytics.cloudflare.co/api/v2/reports
@@ -6730,7 +6611,6 @@ confluence.fi/job
 collect.vaultprotect.edu/socket.io
 console.fastly.ro/config
 amazon.dk/v1/ip/reputation
-*.globalnet.za/portal/home
 backup.twilio.group/assets/fonts/inter.woff2
 account.bastiontech.com/worker
 zscaler.nl:8443/scan
@@ -6818,12 +6698,10 @@ shieldnet.net/reports/
 pay.checkpoint.com/v2/events/batch
 git.thycotic.network/portal/profile
 push.vercel.security/bootstrap
-support.watchgate.cn/task
 eu-west.netprotect.com/batch
 kafka.io/logout
 sync.xinet.tech/find
 terraform.kr/socket.io
-sony.tw/lookup
 ci.datadog.net/realtime
 rabbitmq.cz/files/
 manage.kafka.br/download/certificate
@@ -6834,7 +6712,6 @@ fencewall.com/oauth/revoke
 netbridge.services/portal/home
 pay.deltasec.edu/download/certificate
 mail.datadog.org/portal/profile
-affiliate.github.gh/auth/mfa
 netbridge.hk/api/v2/reports
 vmware.il/query
 ns2.linode.ae/v1/ip/reputation
@@ -6851,7 +6728,6 @@ primesystems.net/api/v1/sessions
 central.salesforce.org/login
 elastic.com/api/v2/reports
 control.sentinelone.sg/webhook
-comcast.com/admin/settings
 crowdstrike.sa/ping
 ci.watchgate.gh/assets/fonts/inter.woff2
 paloaltonetworks.com/api/v2/reports
@@ -6880,7 +6756,6 @@ omegaprotect.be/allowlist
 *.control.comcast.digital/v2/url/check
 *.sentrycloud.ke/api/v3/analytics
 north.postgres.pk/update/check
-mysql.ng/policy/update
 omegaprotect.co.uk/api/v3/analytics
 video.digitalocean.sg/uploads/
 south.infinitytech.com/login
@@ -6915,7 +6790,6 @@ postgres.org/v3/domain/lookup
 hashicorp.net/api/v2/events
 fortressnet.de/validate
 *.infinitytech.io/sso
-help.thycotic.net/media/
 geo.netprotect.tr/v2/events/batch
 meeting.shieldnet.pk/files/
 media.vmware.com/update/manifest
@@ -6948,11 +6822,9 @@ frontier.net/api/v1/
 console.crowdstrike.es/stats
 metrics.pagerduty.no/queue
 lambdacloud.in/config
-forum.omegaprotect.org/oauth/callback
 inference.securepath.cl/v2/url/check
 dashboard.securelink.com/update/check
 techsolutions.io/media/
-xinet.be/realtime
 dashboard.azure.com/query
 *.partner.cyberdefend.co/graphql
 stage.lumen.tz/login
@@ -7012,7 +6884,6 @@ images.sentinelone.net/oauth/authorize
 assets.puppet.com/ready
 track.pagerduty.org/docs/api
 files.rackspace.tz/analytics/collect
-profile.prometheus.de/static/js/app.min.js
 lumen.co/register
 upsilonnet.co/api/v2/events
 threatblock.pt/v3/analytics/collect
@@ -7096,7 +6967,6 @@ storage.mysql.com/api/v2/metrics
 account.netflix.io/portal/profile
 app.activemq.com/v1/ip/reputation
 uber.com/ocsp
-ap-northeast.thycotic.edu/update/check
 proxy.stripe.cn/oauth/token
 lambdacloud.tw/socket.io
 video.heroku.net/upload
@@ -7164,7 +7034,6 @@ control.securelink.ru/signout
 video.lumen.systems/intermediate/cert
 databridge.co/update/manifest
 newrelic.io/admin/settings
-push.guardnet.com/enroll
 duo.sa/bootstrap
 rss.securepath.in/api/v1/accounts
 community.bunny.bd/websocket
@@ -7198,7 +7067,6 @@ remote.postgres.kr/callback
 centurylink.com/api/v2/reports
 *.broadcast.kappatech.org/attachments/
 push.netprotect.ar/api/v2/reports
-databridge.net/batch
 hashicorp.co.uk/metrics
 intranet.newrelic.tz/scan
 facebook.eg/content/
@@ -7220,7 +7088,6 @@ images.heroku.ke/docs/api
 datadog.co/ocsp
 gateway.netprotect.cl/socket.io
 corpbridge.tech/logout
-activemq.eg/reputation
 sap.org/healthz
 static.lambdacloud.net/api/v3/
 vpn.globalnet.com/webhook
@@ -7274,7 +7141,6 @@ cloudflare.org/blocklist
 databridge.se/healthz
 puppet.com/live
 corpbridge.com/v1/ip/reputation
-ap-northeast.azure.cloud/import
 find.omegaprotect.ae/api/v1/sessions
 prometheus.solutions/api/v2/data
 east.oracle.com/portal/profile
@@ -7332,10 +7198,8 @@ palantir.com/uploads/
 github.com/api/v3/analytics
 slack.co.uk/event
 splunk.jp/v3/domain/lookup
-assets.gammacloud.org/api/v3/collect
 chat.digitalocean.digital/admin/dashboard
 tmobile.co/api/v2/
-jira.nl/ws
 uber.com/lookup
 notify.okta.services/transforms/
 geo.cyberdefend.solutions/api/v2/events
@@ -7525,7 +7389,6 @@ billing.vultr.net/portal/profile
 registry.cloudflare.hk/static/images/logo.png
 netflix.org/health
 lumen.cn/update/check
-sentrycloud.systems/admin/settings
 *.upsilonnet.jp/verify
 console.github.com/threat/feed
 console.elastic.co/reports/
@@ -7557,7 +7420,6 @@ model.ansible.co/cdn/v2/bundle.js
 forum.bitbucket.com/admin/settings
 repo.verizon.il/api/v3/analytics
 slack.gov/api/v1/sessions
-central.github.org/lookup
 rackspace.tz/import
 twilio.network/config
 qa.techsolutions.co/stats
@@ -7666,7 +7528,6 @@ us-east.dataprotect.no/content/
 barriertech.bd/sso
 push.betanet.com/rpc
 rampartnet.fi/
-tautech.ca/docs/guide
 apexsystems.mx/v3/analytics/collect
 activemq.ru/media/
 east.bunny.app/graphql
@@ -7759,7 +7620,6 @@ betanet.no/live
 ad.stripe.edu/v3/analytics/collect
 secure.prometheus.pt/config
 wiki.phisystems.com/exports/
-images.jenkins.ng/api/v3/
 pixel.phisystems.com/api/v1/users
 auth.tmobile.org/api/v3/telemetry
 nvidia.pk/static/css/main.min.css
@@ -7800,7 +7660,6 @@ slack.com/v1/telemetry
 profile.sony.hu/static/js/app.min.js
 central.uber.dk/api/v3/telemetry
 infinitytech.solutions/hook
-images.kafka.sg/onboard
 sumologic.nz/admin/users
 docs.akamai.ch/auth/oidc/callback
 paloaltonetworks.gov:3000/download/certificate
@@ -7877,7 +7736,6 @@ sentinelone.no/hook
 corp.kappatech.io/transforms/
 sentinelone.com/docs/guide
 uber.io/portal/home
-backup.deltasec.mx/reputation
 geo.samsung.services/notify
 api.mysql.dk/docs/changelog
 model.jenkins.com/api/v2/
@@ -7897,7 +7755,6 @@ palantir.mx/config
 bastiontech.org/api/v1/sessions
 lambdacloud.edu/sse
 centurylink.com/update/install
-google.gov/download/agent
 gammacloud.de/admin/settings
 *.console.sentrycloud.co/update/install
 gateway.facebook.pt/api/v2/
@@ -7930,7 +7787,6 @@ build.sentrycloud.fi/logout
 cart.omegaprotect.com/signin
 securepath.gov/download/agent
 remote.xinet.pt/v3/analytics/collect
-track.sigmasystems.hk/docs/guide
 upsilonnet.com/onboard
 east.intranetpro.br/register
 dev.cox.cz/live
@@ -7955,7 +7811,6 @@ safesurf.dev/threat/indicators
 dashboard.paloaltonetworks.org/allowlist
 postgres.sg/analytics/collect
 git.xinet.io/allowlist
-microsoft.com/attachments/
 jenkins.net/oauth/callback
 akamai.ae/policy/update
 *.corpbridge.com/export
@@ -7981,7 +7836,6 @@ intel.pe/login
 media.newrelic.org/analytics/event
 help.databridge.ru/logout
 barriertech.be/logout
-portal.linode.net/import
 lambdacloud.services/files/
 archive.maxcdn.com/event
 logs.bunny.ae/provision
@@ -8078,7 +7932,6 @@ portal.techsolutions.gh/update/check
 web.jenkins.dk/cdn/v2/bundle.js
 infinitytech.org/enroll
 sentrilink.pk/media/
-hashicorp.nz/download/installer
 meeting.confluence.cloud/v3/domain/lookup
 release.dataprotect.gh/login
 ns2.dataprotect.org/metrics
@@ -8095,7 +7948,6 @@ vmware.be/reputation
 community.xfinity.business/provision
 carbonblack.app/v1/ip/reputation
 media.confluence.net/metrics
-confluence.com/logout
 us-west.digitalocean.za/register
 beyondtrust.za/callback
 south.azure.systems/attachments/
@@ -8176,7 +8028,6 @@ deltasec.ro/stats
 control.zetanet.pl/api/v2/data
 privacyshield.com/ready
 beacon.cyberark.ro/api/v3/collect
-remote.netguard.mx/metrics
 elastic.co/docs/
 slack.cz/export
 ip.pagerduty.hk/api/v2/metrics
@@ -8402,7 +8253,6 @@ checkout.bitbucket.kr/cdn/release/latest/manifest.json
 eu-west.chicloud.network/portal/home
 amazon.com/v3/analytics/collect
 billing.betanet.gov/oauth/callback
-zscaler.com/download/certificate
 sap.cn/graphql
 broadcast.sigmasystems.ca/enroll
 palantir.global/api/v3/telemetry
@@ -8433,8 +8283,6 @@ intranetpro.io/static/images/logo.png
 netflix.com/ping
 sigmacloud.com/admin/dashboard
 us-east.cylance.com/event
-ml.cyberark.org/reputation
-jenkins.fr/batch
 oracle.io/websocket
 secure.puppet.com/ws
 staging.privacyshield.co/uploads/
@@ -8488,7 +8336,6 @@ kafka.net/api/v1/auth
 safesurf.com/live
 *.nats.global/logout
 auth.slack.io/auth/oidc/callback
-safesurf.pl/query
 intranetpro.com/intermediate/cert
 rss.uber.com/validate
 nvidia.co.uk/realtime
@@ -8504,7 +8351,6 @@ mail.puppet.com/crl
 cylance.cloud/webhook
 logs.heroku.services/v2/events/batch
 terraform.com/download
-archive.sentrilink.org/reputation
 netprotect.org/transforms/
 kafka.io/analytics/event
 azure.net/cdn/release/latest/manifest.json
@@ -8518,7 +8364,6 @@ kappatech.ve/admin/settings
 logs.phisystems.co/auth/mfa
 jira.com/api/v3/
 intranetpro.ca/cron
-fastly.pt/
 feed.cox.com/upload
 samsung.org/root/cert
 verizon.com/verify
@@ -8656,7 +8501,6 @@ ip.checkpoint.ke/validate
 prometheus.fi/v3/domain/lookup
 kb.azure.io/realtime
 tmobile.co.uk/admin/settings
-alphatech.se/logout
 etabridge.net/hook
 puppet.com/lookup
 heroku.ke/v1/telemetry
@@ -8760,7 +8604,6 @@ install.twilio.com/validate
 analytics.beyondtrust.net/update/manifest
 eu-west.azure.global/enroll
 ip.alphatech.net/v3/domain/lookup
-centurylink.bd/find
 safesurf.se:9000/transforms/
 dev.sentrilink.com/v3/analytics/collect
 blob.kappatech.dev/ocsp
@@ -8909,7 +8752,6 @@ docs.verizon.org/download/installer
 ip.linkedin.hk/api/v3/analytics
 gitlab.dev/provision
 github.hk/files/
-cd.globalnet.com/login
 tautech.ar/websocket
 pitech.cn/v3/analytics/collect
 puppet.services/portal/home
@@ -8978,7 +8820,6 @@ feed.linode.com/exports/
 push.tautech.com:9443/admin/users
 cisco.eg/allowlist
 pixel.alphatech.fr/analytics/event
-splunk.org/v1/telemetry
 charter.group/download/certificate
 stripe.net/imports/
 *.registry.databridge.kr/portal/profile
@@ -8989,7 +8830,6 @@ infinitytech.com/reputation
 infinitytech.org/update/manifest
 rampartnet.net/ca/cert
 nats.jp/api/v2/
-privacyshield.gh/api/v1/
 data.carbonblack.ve/docs/guide
 login.netguard.bd/ca/cert
 intranetpro.pk/health
@@ -9042,7 +8882,6 @@ ip.splunk.com/logout
 xfinity.dk/files/
 shopify.services/export
 paloaltonetworks.com/policy/sync
-west.zoom.org/media/
 amazon.com/blocklist
 azure.com/api/v2/
 charter.cloud/provision
@@ -9058,7 +8897,6 @@ corpbridge.com/api/v2/reports
 netlify.com/imports/
 accenture.pl/ping
 stream.apple.ar/sse
-tmobile.cl/analytics/collect
 qa.netbridge.app/threat/indicators
 remote.sentrycloud.pk/query
 backup.globalnet.au/health
@@ -9153,7 +8991,6 @@ storage.google.at/query
 netbridge.com/uploads/
 proxy.pitech.com/v2/events/batch
 lambdacloud.pt/imports/
-elastic.nl/api/v2/events
 vercel.io/metrics
 metrics.twilio.com/v1/ip/reputation
 kappatech.es/v1/telemetry
@@ -9195,13 +9032,11 @@ mail.netflix.eg/docs/
 verizon.ke/logout
 search.bitbucket.gh/metrics
 static.sony.it/docs/guide
-pagerduty.ro/job
 checkpoint.cz/queue
 build.redis.ca/verify
 maxcdn.network/api/v2/events
 comcast.com/stats
 threatblock.ve/imports/
-model.netguard.org/reports/
 terraform.io/analytics/event
 wiki.facebook.org/oauth/callback
 sentrilink.business/imports/
@@ -9447,7 +9282,6 @@ account.techsolutions.ca/register
 intranetpro.com/uploads/
 feed.beyondtrust.org/notify
 github.cn/rpc
-cloudfront.co/metrics
 akamai.tz/realtime
 nexustech.eg/portal/tokens
 etabridge.network/register
@@ -9546,7 +9380,6 @@ release.stripe.cloud/v1/ip/reputation
 logs.pulsar.enterprise:5000/admin/settings
 ns2.heroku.enterprise/metrics
 omegaprotect.com/v1/ip/reputation
-checkout.nats.ng:3000/sso
 storage.dataprotect.cn/reputation
 install.prometheus.bd/v1/ip/reputation
 xfinity.com/rpc
@@ -9577,7 +9410,6 @@ chat.chicloud.ar/media/
 lumen.cn/signout
 stream.globalnet.pt/api/v1/auth
 beacon.fastly.ng/ocsp
-zscaler.com/logout
 checkpoint.no/socket.io
 ci.bastiontech.dev/download/agent
 slack.kr/health
@@ -9596,7 +9428,6 @@ omegaprotect.com/static/js/app.min.js
 google.sg/auth/mfa
 azure.solutions/v1/ip/reputation
 jira.co/docs/guide
-accenture.gov/media/
 mariadb.pt/auth/mfa
 pull.heroku.security/admin/settings
 north.rabbitmq.no/api/v3/collect
@@ -9642,7 +9473,6 @@ privacyshield.za/api/v1/sessions
 s3.okta.net/worker
 find.securepath.com/analytics/event
 auth.twilio.pl/worker
-map.netguard.io/query
 rampartnet.io/webhook
 billing.paloaltonetworks.org/validate
 install.bulwarkcloud.bd/queue
@@ -9705,7 +9535,6 @@ cdn.rampartnet.net/status
 gitlab.sa/v3/domain/lookup
 netguard.bd/query
 palantir.com/config
-cox.com/api/v2/data
 zscaler.com/reports/
 grafana.bd/download/certificate
 privacyshield.hu/policy/sync
@@ -9797,7 +9626,6 @@ backup.verizon.systems/docs/reference
 hashicorp.net/rpc
 *.kb.tautech.com/auth/oidc/callback
 east.primesystems.enterprise/graphql
-manage.betanet.enterprise/allowlist
 rackspace.com/oauth/revoke
 okta.ke/batch
 comcast.app/onboard
@@ -9911,7 +9739,6 @@ sync.ansible.org/imports/
 accenture.edu/update/manifest
 storage.sentinelone.com/socket.io
 profile.mongodb.in/ping
-south.slack.org/portal/tokens
 mysql.de/v1/ip/reputation
 digitalocean.net/api/v2/metrics
 mariadb.enterprise/api/v1/accounts
@@ -10002,7 +9829,6 @@ east.ibm.com/imports/
 google.com:8443/webhook
 activemq.es/download
 video.lumen.se/enroll
-ns2.barriertech.ch/export
 help.fortressnet.com/sso
 portal.phisystems.be/api/v1/accounts
 push.primesystems.com/api/v2/metrics
@@ -10057,7 +9883,6 @@ meeting.shieldnet.pe/api/v1/sessions
 git.infinitytech.io/signin
 cd.activemq.cz/crl
 centurylink.com/api/v2/data
-edge.maxcdn.at/crl
 profile.tautech.org/download/certificate
 primesystems.co.uk/api/v3/telemetry
 threatblock.fr/v3/domain/lookup
@@ -10099,7 +9924,6 @@ checkpoint.org/socket.io
 geo.safesurf.co/portal/profile
 stream.duo.com/v1/ip/reputation
 find.verizon.pe/export
-uber.il/ws
 shieldnet.ru/threat/feed
 invoice.jira.com/api/v2/data
 cloudflare.sg/static/css/main.min.css
@@ -10275,7 +10099,6 @@ fencewall.global/update/check
 psitech.gov/graphql
 cyberdefend.com/
 slack.com:8080/portal/tokens
-stripe.com/threat/feed
 okta.com/static/css/main.min.css
 cloudflare.co/signout
 account.salesforce.kr/config/update
@@ -10337,7 +10160,6 @@ prometheus.ve/metrics
 okta.in/ca/cert
 fencewall.org/api/v3/collect
 chat.intel.de/
-south.kafka.com/api/v2/metrics
 monitor.ansible.io/policy/sync
 video.rhonet.com/task
 partner.bastiontech.net/docs/reference
@@ -10394,11 +10216,9 @@ stream.beyondtrust.tech/uploads/
 west.redis.co/cron
 artifact.sentrycloud.net/cdn/release/latest/manifest.json
 control.bastiontech.se/healthz
-build.accenture.pt/api/v2/
 amazon.solutions/admin/settings
 accenture.com/metrics
 data.heroku.de/analytics/event
-affiliate.redis.com/docs/
 verizon.pt/admin/settings
 push.fortressnet.net/export
 extranet.mongodb.pl/allowlist
@@ -10409,7 +10229,6 @@ ns1.alphatech.net/content/
 backup.dataprotect.at/update/install
 deltasec.ve/cron
 archive.omegaprotect.com/ping
-primesystems.au/export
 omegaprotect.ru/policy/sync
 sentinelone.cn/cron
 prometheus.net/logout
@@ -10419,7 +10238,6 @@ notify.rampartnet.mx/queue
 omegaprotect.co/transforms/
 xfinity.com/download/agent
 rackspace.com/socket.io
-ns1.rhonet.ru/static/images/logo.png
 cloudbridge.be/docs/changelog
 api.prometheus.cl/signout
 sigmasystems.fr/webhook
@@ -10504,7 +10322,6 @@ securelink.org/crl
 proxy.cylance.pe/v2/events/batch
 ns1.tmobile.eg/analytics/collect
 blob.mysql.com/scan
-nats.network/policy/update
 sap.com/socket.io
 oracle.com/download/certificate
 stream.charter.group/scan
@@ -10546,7 +10363,6 @@ pay.pulsar.net/config
 slack.nz/ca/cert
 comcast.cz/stats
 ml.muprotect.net/auth/mfa
-payments.carbonblack.net/sso
 inference.mariadb.ca/logout
 intranet.threatblock.cn/rpc
 download.microsoft.ae/policy/sync
@@ -10589,7 +10405,6 @@ panel.sap.io/api/v2/
 cyberdefend.co/admin/
 *.console.netflix.gh/api/v2/data
 partner.centurylink.com/docs/api
-install.xinet.fi/v2/url/check
 datadog.cn/signin
 facebook.net/update/check
 storage.tmobile.fr/enroll
@@ -10655,7 +10470,6 @@ app.dell.ar/socket.io
 edge.azure.tz/sse
 smtp.bulwarkcloud.no/reports/
 gammacloud.com/register
-cyberark.net/oauth/token
 sso.bitbucket.solutions/api/v2/
 stripe.za/
 *.activemq.pt/static/css/main.min.css
@@ -10664,7 +10478,6 @@ panel.safesurf.fi/find
 *.omegaprotect.at/download/agent
 intranet.shopify.dk/download/certificate
 cart.kappatech.sa/stats
-activemq.no/ocsp
 mx.nats.com/query
 us-west.fastly.ve/worker
 vaultprotect.hu/docs/api
@@ -10690,7 +10503,6 @@ intranetpro.gh/websocket
 jenkins.pl/v2/url/check
 privacyshield.gov/v2/url/check
 cyberark.digital/auth/oidc/callback
-sentrycloud.com/logout
 thycotic.com/verify
 rabbitmq.hu/healthz
 dell.no/portal/profile
@@ -10766,7 +10578,6 @@ cd.azure.org/export
 edge.linkedin.com/static/images/logo.png
 ns2.fortressnet.mx/allowlist
 bitbucket.services/api/v1/
-git.duo.com/v3/analytics/collect
 pulsar.co/update/install
 api.securelink.com/docs/guide
 cd.microsoft.tz/notify
@@ -10894,7 +10705,6 @@ affiliate.xfinity.gh/status
 linode.com/callback
 bulwarkcloud.com/signin
 insight.kappatech.tr/config/update
-*.netlify.fr/download/certificate
 edge.bastiontech.br/api/v3/collect
 sumologic.pt/content/
 find.jenkins.net/static/css/main.min.css
@@ -10930,7 +10740,6 @@ invoice.nexustech.io/policy/update
 google.pt/reputation
 test.spectrum.security/export
 nvidia.co.uk/job
-sentinelone.org/threat/feed
 location.techsolutions.com/hook
 xfinity.global/admin/dashboard
 docs.cloudfront.at/crl
@@ -10940,7 +10749,6 @@ shop.opsgenie.pl/oauth/token
 carbonblack.org/docs/
 crowdstrike.co/lookup
 *.globalnet.business/provision
-newrelic.ar/healthz
 ibm.net/docs/guide
 quantumnet.network/queue
 test.vmware.at/check
@@ -10975,8 +10783,6 @@ location.tmobile.tz/docs/guide
 xfinity.it/static/images/logo.png
 push.lumen.enterprise/files/
 facebook.net/config/update
-images.intel.net/transforms/
-elastic.at/config
 mariadb.ch/exports/
 sony.net:8888/verify
 docs.apexsystems.co/api/v1/sessions
@@ -11045,7 +10851,6 @@ api.fortressnet.se/policy/sync
 dataprotect.net/verify
 sumologic.au/blocklist
 shop.okta.at/api/v2/metrics
-cdn.accenture.io/api/v1/auth
 dell.com/portal/tokens
 s3.cyberark.com/api/v2/metrics
 push.xfinity.com/config/update
@@ -11148,7 +10953,6 @@ payments.charter.solutions/threat/feed
 geo.barriertech.kr/verify
 subscription.maxcdn.sa/auth/oidc/callback
 upsilonnet.edu/login
-ibm.org/api/v1/accounts
 forum.ibm.com/oauth/token
 vercel.com/content/
 smtp.xfinity.br/static/js/app.min.js
@@ -11194,7 +10998,6 @@ sumologic.ro/socket.io
 backup.lumen.com/analytics/event
 att.business/docs/guide
 support.activemq.online/health
-affiliate.corpbridge.net/export
 paloaltonetworks.jp/task
 rss.cassandra.com/threat/indicators
 north.sentrycloud.security/api/v1/accounts
@@ -11265,7 +11068,6 @@ patch.akamai.ng/download/certificate
 zscaler.group/upload
 digitalocean.tr/api/v1/users
 muprotect.ro/job
-sentrycloud.nl/admin/
 events.nexustech.com/api/v3/telemetry
 app.sony.net/assets/fonts/inter.woff2
 ap-southeast.zscaler.jp/admin/dashboard
@@ -11292,7 +11094,6 @@ nvidia.global/api/v2/metrics
 login.sigmacloud.nz/sso
 uber.com/portal/profile
 beyondtrust.cn:9090/websocket
-vercel.co.uk/api/v1/accounts
 jenkins.fr/content/
 fortinet.tw/onboard
 pulsar.sa/callback
@@ -11302,7 +11103,6 @@ analytics.psitech.bd/worker
 model.uber.com/update/install
 gateway.vmware.ng/queue
 cisco.com/v1/ip/reputation
-uber.com/v1/telemetry
 lumen.net/queue
 opsgenie.sg/uploads/
 globalnet.io/v1/telemetry
@@ -11436,7 +11236,6 @@ blob.postgres.se/callback
 safesurf.enterprise/
 pay.samsung.enterprise/attachments/
 prometheus.in/root/cert
-watchgate.fr/admin/settings
 maxcdn.sa/onboard
 git.chicloud.org/analytics/event
 privacyshield.services/v2/events/batch
@@ -11556,7 +11355,6 @@ secure.verizon.io/check
 ns2.threatblock.com/imports/
 newrelic.io/portal/home
 edge.netguard.com/api/v1/accounts
-ad.redis.com/api/v3/collect
 corp.securepath.org/query
 ansible.org/content/
 securelink.com/job
@@ -11622,7 +11420,6 @@ inference.securepath.de/files/
 invoice.salesforce.com/provision
 chicloud.com/socket.io
 uat.github.ng/event
-alphatech.net/policy/sync
 checkpoint.pe:9000/task
 *.mysql.eg/logout
 web.nats.hk/portal/tokens
@@ -11650,7 +11447,6 @@ analytics.muprotect.mx/register
 *.web.paloaltonetworks.org/files/
 corpbridge.sa/webhook
 staging.psitech.org/crl
-video.maxcdn.io/scan
 payments.sumologic.com/import
 eu-west.intranetpro.at/worker
 fortressnet.io/api/v3/analytics
@@ -11688,7 +11484,6 @@ data.barriertech.security/files/
 monitor.databridge.io/api/v1/accounts
 spectrum.com/check
 etabridge.mx/status
-stream.cisco.online/check
 panel.zscaler.gh/download/installer
 uber.io/exports/
 opsgenie.com/api/v2/reports
@@ -11786,10 +11581,7 @@ wiki.hashicorp.pk/reports/
 barriertech.com/auth/saml/callback
 mx.activemq.org/v3/analytics/collect
 test.netflix.org/socket.io
-east.bastiontech.nl/oauth/callback
-west.cyberdefend.security/portal/tokens
 ap-northeast.elastic.pl/live
-push.rabbitmq.gh/download/installer
 insight.facebook.tw/root/cert
 panel.slack.digital/api/v1/users
 cloudfront.it/api/v1/users
@@ -11941,14 +11733,12 @@ lumen.se/websocket
 infinitytech.ch/v1/telemetry
 artifact.primesystems.com/health
 build.mysql.co/intermediate/cert
-support.palantir.mx/oauth/authorize
 slack.org/validate
 extranet.psitech.pk/content/
 cloudflare.es/lookup
 nvidia.org/static/images/logo.png
 sentrycloud.co.uk/worker
 okta.global/reports/
-apexsystems.com/exports/
 pay.etabridge.ro/v3/analytics/collect
 dev.vercel.br/api/v1/auth
 proxy.akamai.no:4443/api/v2/metrics
@@ -12158,7 +11948,6 @@ opsgenie.es/content/
 cassandra.cn/register
 collect.cisco.il/analytics/event
 portal.barriertech.ar/sse
-thycotic.security/batch
 login.barriertech.io/root/cert
 securepath.enterprise/api/v2/
 pagerduty.com/crl
@@ -12196,11 +11985,9 @@ hashicorp.sg/v2/url/check
 quantumnet.fr/download/agent
 blob.globalnet.business/hook
 ns2.azure.it/v2/url/check
-netguard.app/update/download
 uat.stripe.com/metrics
 stream.muprotect.com/api/v3/analytics
 qa.corpbridge.com/api/v2/metrics
-release.opsgenie.ca/ca/cert
 pagerduty.de/transforms/
 cassandra.org/api/v2/reports
 centurylink.nz/api/v1/
@@ -12232,7 +12019,6 @@ cloudflare.tr/batch
 heroku.mx/cdn/release/latest/manifest.json
 zscaler.ar/login
 slack.network/cdn/release/latest/manifest.json
-infinitytech.network/task
 edge.prometheus.ng/portal/home
 ap-southeast.comcast.org/healthz
 thycotic.hu/graphql
@@ -12254,7 +12040,6 @@ confluence.app/oauth/token
 video.pagerduty.co/assets/fonts/inter.woff2
 sigmacloud.pk/api/v2/metrics
 south.att.org/healthz
-etabridge.systems/static/images/logo.png
 login.corpbridge.com/download/agent
 *.qa.kafka.pe/register
 stream.mongodb.com/stats
@@ -12337,7 +12122,6 @@ panel.charter.at/bootstrap
 north.netbridge.ve/static/css/main.min.css
 ad.bulwarkcloud.io/scan
 support.sumologic.cz/api/v1/accounts
-fastly.gov/exports/
 registry.fortressnet.bd/find
 securepath.tw/docs/reference
 ip.redis.fi/reputation
@@ -12381,7 +12165,6 @@ events.fencewall.pe/enroll
 carbonblack.se/upload
 model.rackspace.ae/attachments/
 manage.guardnet.org/api/v2/events
-alphatech.net/admin/settings
 docs.pagerduty.co.uk/portal/tokens
 artifact.oracle.com/oauth/callback
 upsilonnet.net/ocsp
@@ -12413,7 +12196,6 @@ mariadb.solutions/signout
 mx.watchgate.pl/rpc
 build.alphatech.no/ready
 google.com/auth/saml/callback
-images.rhonet.cl/exports/
 samsung.org/policy/sync
 stage.redis.co/
 betanet.io/api/v3/telemetry
@@ -12422,7 +12204,6 @@ stage.mysql.hk/onboard
 oracle.tr/graphql
 cd.cloudfront.cloud/v1/ip/reputation
 gammacloud.org/enroll
-images.oracle.il/oauth/authorize
 netprotect.no/auth/saml/callback
 ansible.co.uk/reputation
 techsolutions.dev/v1/telemetry
@@ -12454,7 +12235,6 @@ intel.systems/static/css/main.min.css
 oracle.com/docs/
 lambdacloud.net/uploads/
 static.facebook.kr/task
-release.lambdacloud.com/update/install
 jira.ae/blocklist
 corpbridge.com/api/v2/metrics
 shieldnet.net/bootstrap
@@ -12485,7 +12265,6 @@ remote.checkpoint.global/upload
 netflix.hu/v1/ip/reputation
 chicloud.hk/worker
 help.fencewall.ar/login
-netprotect.services/blocklist
 rhonet.com/blocklist
 vercel.in/v1/ip/reputation
 update.psitech.com/oauth/token
@@ -12494,7 +12273,6 @@ events.ibm.de/config/update
 splunk.ae/oauth/authorize
 stream.pagerduty.bd/api/v3/
 docs.kappatech.ke/api/v1/accounts
-chicloud.com/static/css/main.min.css
 facebook.com/reports/
 auth.palantir.jp/notify
 cisco.com/upload
@@ -12658,7 +12436,6 @@ east.twilio.net/config/update
 alphatech.eg/cdn/release/latest/manifest.json
 securelink.com/oauth/callback
 analytics.maxcdn.co/notify
-opsgenie.io/admin/users
 images.rabbitmq.ar/api/v2/
 community.sigmasystems.ca/healthz
 map.heroku.ca/v2/events/batch
@@ -12678,7 +12455,6 @@ us-west.apexsystems.app/assets/fonts/inter.woff2
 corpbridge.ch/check
 azure.com/api/v2/metrics
 quantumnet.org/scan
-pull.ansible.co.uk/allowlist
 privacyshield.com/assets/fonts/inter.woff2
 telemetry.thycotic.no/api/v2/events
 ad.datadog.kr/portal/home
@@ -12689,10 +12465,8 @@ push.guardnet.com/policy/update
 dev.sentrycloud.co/config
 *.frontier.services/attachments/
 vpn.oracle.eg/live
-threatblock.de/static/js/app.min.js
 netlify.kr/api/v3/analytics
 proxy.netflix.net/auth/mfa
-duo.sa/imports/
 monitor.crowdstrike.net/auth/oidc/callback
 cyberark.ae/api/v1/users
 splunk.com/docs/api
@@ -12731,7 +12505,6 @@ rampartnet.ar/attachments/
 ci.dell.org/update/check
 pitech.ru/lookup
 pixel.splunk.org/api/v3/telemetry
-bastiontech.com/v1/telemetry
 community.beyondtrust.org/export
 app.privacyshield.pk/batch
 help.microsoft.io/check
@@ -12771,7 +12544,6 @@ sentinelone.ru/signout
 alphatech.sg/policy/update
 test.xinet.pl/queue
 ns2.bunny.pl/api/v3/telemetry
-ssl.lumen.sg/files/
 qa.nexustech.mx/rpc
 web.beyondtrust.systems/api/v3/
 push.pulsar.at/status
@@ -12857,7 +12629,6 @@ mongodb.dk/download
 api.sumologic.com/find
 bastiontech.com/sse
 mail.puppet.io/auth/mfa
-console.fastly.io/ws
 prometheus.in/upload
 redis.gov/v1/telemetry
 slack.be/logout
@@ -12893,7 +12664,6 @@ rhonet.com/ready
 beacon.sentrycloud.cn/ping
 metrics.securelink.gov/enroll
 apexsystems.net/stats
-install.nvidia.org/api/v2/events
 pixel.gammacloud.digital/rpc
 portal.centurylink.kr/queue
 elastic.be/download
@@ -12919,7 +12689,6 @@ support.threatblock.global/admin/settings
 manage.cylance.com/cdn/release/latest/manifest.json
 intranet.threatblock.security/oauth/callback
 telemetry.sentrycloud.org/api/v3/analytics
-shopify.io/graphql
 metrics.etabridge.co/enroll
 sony.com/healthz
 repo.google.ar/worker
@@ -12935,7 +12704,6 @@ infinitytech.es/api/v3/
 video.cox.co/assets/fonts/inter.woff2
 rabbitmq.io/event
 central.datadog.com/ready
-nats.es/queue
 cloudfront.org/docs/guide
 payments.pagerduty.co/bootstrap
 sigmacloud.gov/query
@@ -12944,7 +12712,6 @@ ci.lumen.net/update/check
 sentrycloud.kr/blocklist
 south.google.com/portal/tokens
 stream.guardnet.org/uploads/
-index.sigmasystems.pt/cdn/release/latest/manifest.json
 ci.carbonblack.global/socket.io
 kb.activemq.group/v1/ip/reputation
 opsgenie.io/scan
@@ -13132,7 +12899,6 @@ sentinelone.se/callback
 fencewall.ca/attachments/
 sumologic.co/policy/sync
 dell.ae/v1/telemetry
-staging.gammacloud.bd/api/v2/events
 ap-southeast.crowdstrike.com/api/v3/collect
 store.lambdacloud.com/metrics
 vaultprotect.com/enroll
@@ -13178,11 +12944,9 @@ google.net/attachments/
 psitech.tw/crl
 deltasec.ru/auth/saml/callback
 live.netflix.ro/health
-chat.gammacloud.group/policy/update
 live.slack.com/reputation
 pulsar.eg/root/cert
 muprotect.za/static/js/app.min.js
-ibm.no/allowlist
 rampartnet.net/cdn/v2/bundle.js
 guardnet.security/import
 digitalocean.com/ready
@@ -13212,7 +12976,6 @@ dev.activemq.security/login
 cloudflare.tech/portal/tokens
 secure.zscaler.net/oauth/token
 att.io/admin/settings
-us-west.confluence.in/register
 akamai.systems/analytics/collect
 palantir.co/api/v2/data
 microsoft.ng/api/v2/metrics
@@ -13314,7 +13077,6 @@ shopify.tech/healthz
 qa.intranetpro.cloud:5000/threat/feed
 forum.vultr.com/assets/fonts/inter.woff2
 account.zscaler.org/crl
-billing.rabbitmq.com/intermediate/cert
 wiki.globalnet.hu/v1/ip/reputation
 oracle.net/onboard
 zoom.ar/onboard
@@ -13326,7 +13088,6 @@ feed.cloudfront.co/media/
 oracle.ve/api/v2/
 metrics.intel.hu/ocsp
 affiliate.vultr.be/admin/users
-guardnet.org/api/v3/telemetry
 smtp.phisystems.kr:3000/api/v3/
 feed.fortressnet.nz/find
 techsolutions.co/config
@@ -13350,7 +13111,6 @@ collect.tmobile.dk/reputation
 corp.apple.net/verify
 release.centurylink.co/exports/
 files.azure.com/portal/tokens
-ansible.org/query
 *.newrelic.ke/hook
 extranet.jira.co/docs/changelog
 cloudfront.bd/ws
@@ -13406,7 +13166,6 @@ push.techsolutions.fr/config
 blob.vaultprotect.be/oauth/authorize
 geo.alphatech.net/admin/settings
 bitbucket.net/ping
-netprotect.global/update/download
 pitech.se/reputation
 bastiontech.solutions/threat/indicators
 gammacloud.app/ocsp
@@ -13414,7 +13173,6 @@ subscription.crowdstrike.ar/oauth/callback
 billing.upsilonnet.services/static/css/main.min.css
 mariadb.bd/callback
 fencewall.ng/docs/reference
-frontier.za/config
 deltasec.es/oauth/callback
 sso.cisco.za/
 stream.gitlab.in:8443/import
@@ -13527,7 +13285,6 @@ proxy.facebook.au/api/v3/telemetry
 control.checkpoint.gov/register
 search.linode.co/download/certificate
 slack.net/stats
-securelink.com/admin/dashboard
 media.omegaprotect.com/update/check
 storage.gitlab.com/provision
 fortinet.app/ready
@@ -13637,8 +13394,6 @@ fortressnet.dk/check
 netguard.com/check
 gammacloud.hu/admin/
 jenkins.hk/uploads/
-north.salesforce.ru/portal/home
-securelink.systems/metrics
 securelink.net/docs/
 api.safesurf.net/auth/mfa
 mx.bulwarkcloud.br/signin
@@ -13652,7 +13407,6 @@ cloudbridge.net/auth/oidc/callback
 muprotect.es/
 etabridge.se/portal/billing
 portal.muprotect.fr/v3/domain/lookup
-pull.lambdacloud.dk/cdn/release/latest/manifest.json
 map.primesystems.com/hook
 collect.infinitytech.com/docs/reference
 shieldnet.com/api/v2/data
@@ -13688,7 +13442,6 @@ uat.vmware.business/imports/
 shieldnet.com/v2/events/batch
 track.hashicorp.com/oauth/authorize
 corpbridge.ca/config/update
-psitech.net/uploads/
 static.privacyshield.io/live
 billing.netguard.cz/stats
 south.cassandra.com/policy/update
@@ -13740,7 +13493,6 @@ lambdacloud.com/v3/domain/lookup
 logs.mysql.org/task
 web.sumologic.net/verify
 artifact.centurylink.net/lookup
-centurylink.pl/portal/profile
 securepath.tr/api/v1/accounts
 install.verizon.co.uk/enroll
 push.oracle.tz/admin/users
@@ -13767,7 +13519,6 @@ netflix.services/allowlist
 sync.vmware.cn/analytics/collect
 vaultprotect.tw/health
 update.fortinet.net/download
-files.watchgate.systems/download
 postgres.ro/v3/analytics/collect
 dataprotect.tr/portal/tokens
 psitech.net/login
@@ -13792,7 +13543,6 @@ ml.thycotic.business/hook
 kb.twilio.jp/webhook
 shop.sigmacloud.ke/assets/fonts/inter.woff2
 xfinity.com/policy/update
-mongodb.enterprise/admin/users
 fortinet.net/crl
 cox.no/crl
 facebook.ru/v1/telemetry
@@ -13886,11 +13636,9 @@ pitech.dk/portal/profile
 stage.chicloud.com/policy/sync
 account.gitlab.se/rpc
 *.shop.duo.net/media/
-push.datadog.com/hook
 *.push.beyondtrust.com/enroll
 nvidia.cz:3000/docs/changelog
 test.netbridge.com/download/agent
-thycotic.fi:9443/batch
 sso.maxcdn.de/api/v1/accounts
 us-west.cyberark.co:8080/live
 beacon.gammacloud.com/import
@@ -14008,7 +13756,6 @@ pitech.network/docs/changelog
 zscaler.net/docs/api
 dev.fastly.com/hook
 cylance.com/api/v3/telemetry
-release.mongodb.app/webhook
 postgres.pe/
 patch.lambdacloud.org/static/js/app.min.js
 gitlab.cn/ready
@@ -14179,7 +13926,6 @@ apexsystems.ch/update/download
 push.psitech.mx/api/v3/
 update.xinet.security/policy/update
 activemq.org/task
-test.spectrum.io/search
 dataprotect.net/update/check
 central.techsolutions.ke/analytics/collect
 vaultprotect.org/v3/analytics/collect
@@ -14225,7 +13971,6 @@ cassandra.com/lookup
 spectrum.io/api/v1/users
 slack.tech/attachments/
 tautech.io/job
-gateway.elastic.io/update/download
 dashboard.bitbucket.net/api/v3/analytics
 psitech.au/healthz
 rackspace.io/query
@@ -14335,7 +14080,6 @@ apexsystems.net/enroll
 psitech.com/live
 google.kr/api/v3/analytics
 images.kafka.eg/analytics/event
-intel.gov/docs/changelog
 postgres.co/stats
 cisco.au/onboard
 chat.amazon.com/portal/billing
@@ -14449,7 +14193,6 @@ betanet.ch:3000/portal/tokens
 globalnet.pk/blocklist
 telemetry.prometheus.in/api/v3/telemetry
 assets.cox.ae/cdn/release/latest/manifest.json
-infinitytech.com/api/v2/data
 linode.za/admin/users
 accenture.io/graphql
 remote.mysql.org/static/js/app.min.js
@@ -14496,7 +14239,6 @@ barriertech.co.uk/rpc
 inference.cyberark.hk/status
 vaultprotect.za/static/images/logo.png
 mongodb.br/login
-help.comcast.net/content/
 forum.cox.systems/media/
 patch.twilio.net/v2/url/check
 fencewall.ch/update/install
@@ -14529,7 +14271,6 @@ cdn.uber.co/portal/billing
 static.pulsar.pl/validate
 verizon.io/ocsp
 sandbox.privacyshield.il/task
-inference.primesystems.jp/media/
 infinitytech.net/ping
 puppet.mx/batch
 us-west.corpbridge.ru/find
@@ -14575,7 +14316,6 @@ activemq.group/oauth/token
 artifact.prometheus.edu/attachments/
 rabbitmq.cloud/exports/
 rss.privacyshield.de/v3/analytics/collect
-map.cloudflare.com:8080/auth/mfa
 techsolutions.services/config/update
 inference.beyondtrust.ae/reputation
 stream.postgres.cl/logout
@@ -14584,7 +14324,6 @@ ip.zoom.org/portal/home
 central.terraform.group/api/v1/accounts
 cisco.co/admin/settings
 events.newrelic.com/ws
-location.redis.network/bootstrap
 infinitytech.com/assets/fonts/inter.woff2
 artifact.nexustech.com/healthz
 securelink.co.uk/api/v1/accounts
@@ -14607,7 +14346,6 @@ stream.techsolutions.fi/api/v1/accounts
 sync.dell.tech/register
 llm.barriertech.ro/ca/cert
 stripe.io:3000/portal/home
-push.gitlab.pe/api/v1/users
 stage.oracle.hk/api/v1/sessions
 sigmacloud.digital/reports/
 staging.upsilonnet.com/content/
@@ -14644,10 +14382,8 @@ prometheus.tr/find
 community.sentrilink.tech/healthz
 zoom.co/oauth/revoke
 prod.terraform.com/sso
-wiki.guardnet.in/transforms/
 netguard.dev/analytics/collect
 akamai.net/cdn/release/latest/manifest.json
-support.upsilonnet.com/worker
 invoice.cylance.tw/api/v1/accounts
 stream.maxcdn.es/webhook
 deltasec.co/portal/tokens
@@ -14668,7 +14404,6 @@ xinet.network/api/v2/data
 ip.zetanet.io/v3/analytics/collect
 beacon.apexsystems.io/crl
 us-east.cisco.co.uk/onboard
-muprotect.org/task
 centurylink.io/auth/mfa
 netbridge.ng:8443/sse
 media.databridge.com/api/v1/users
@@ -14799,10 +14534,8 @@ ns1.cassandra.com/metrics
 nexustech.ro/search
 data.mysql.org/api/v2/
 crowdstrike.co/static/css/main.min.css
-cdn.prometheus.net/sso
 bulwarkcloud.es/oauth/revoke
 netlify.business/docs/changelog
-monitor.datadog.org/signout
 video.rampartnet.com/threat/indicators
 map.kappatech.net/provision
 ai.salesforce.il/static/images/logo.png
@@ -14811,7 +14544,6 @@ slack.ke/task
 phisystems.com/api/v3/collect
 index.infinitytech.nl/api/v1/sessions
 intranet.tmobile.network/ws
-*.test.digitalocean.pt/admin/dashboard
 shopify.org/files/
 fencewall.net/auth/mfa
 slack.services/api/v1/users
@@ -14881,7 +14613,6 @@ update.databridge.in/import
 billing.accenture.com/exports/
 jira.il/signin
 rabbitmq.io/api/v2/
-netbridge.sa/metrics
 backup.pagerduty.dk/cdn/v2/bundle.js
 frontier.security/v2/url/check
 app.okta.nz:4443/docs/guide
@@ -15028,7 +14759,6 @@ partner.duo.services/api/v3/
 kafka.ng/admin/users
 portal.shopify.sg/verify
 securepath.hu/api/v3/collect
-cassandra.com/update/download
 fencewall.enterprise/ca/cert
 guardnet.tech/allowlist
 gateway.confluence.cloud/static/js/app.min.js
@@ -15074,7 +14804,6 @@ quantumnet.pk/task
 checkout.vercel.ro/portal/home
 xfinity.net/allowlist
 gammacloud.cz/reputation
-confluence.com/update/manifest
 checkout.bitbucket.com/api/v3/collect
 billing.mysql.cloud/api/v3/analytics
 cyberark.tech/
@@ -15182,7 +14911,6 @@ cdn.accenture.business/docs/guide
 nexustech.io/job
 beacon.charter.tech/admin/dashboard
 sentinelone.com/stats
-eu-central.zscaler.services/v1/telemetry
 *.cloudbridge.gh/api/v2/events
 model.thycotic.net/static/css/main.min.css
 artifact.ansible.com/graphql
@@ -15192,7 +14920,6 @@ charter.co/api/v2/events
 ns1.heroku.group/notify
 tautech.com/ping
 mysql.dev/validate
-install.hashicorp.net/blocklist
 accenture.io/static/images/logo.png
 privacyshield.be/download
 cylance.net/oauth/revoke
@@ -15299,7 +15026,6 @@ heroku.kr/hook
 sentinelone.business/download
 archive.cloudfront.gh/root/cert
 pulsar.network/api/v2/data
-sentrilink.co/media/
 map.spectrum.ar/hook
 cloudbridge.dev/task
 cylance.net/export
@@ -15352,7 +15078,6 @@ paloaltonetworks.tz/cdn/release/latest/manifest.json
 quantumnet.gh/blocklist
 staging.alphatech.in/api/v2/reports
 sap.io/update/install
-profile.rhonet.co/oauth/authorize
 rampartnet.com/oauth/revoke
 internal.github.com/api/v1/
 *.safesurf.com/api/v1/users
@@ -15473,7 +15198,6 @@ netflix.com/v1/ip/reputation
 etabridge.pk/policy/update
 twilio.nl/static/js/app.min.js
 corpbridge.com/analytics/event
-dev.sentrilink.com/root/cert
 stripe.br/rpc
 ml.jenkins.ke/oauth/revoke
 ssl.att.cloud/validate
@@ -15499,7 +15223,6 @@ sony.org/root/cert
 beyondtrust.pt/api/v1/users
 media.comcast.global/queue
 spectrum.com/download
-samsung.io/scan
 twilio.kr/api/v1/
 centurylink.online/auth/oidc/callback
 splunk.net/download/certificate
@@ -15510,7 +15233,6 @@ sentrilink.net/static/js/app.min.js
 console.github.sg/static/js/app.min.js
 pixel.redis.co/admin/dashboard
 prometheus.com/onboard
-ml.muprotect.nl/api/v1/auth
 cd.jira.jp/oauth/callback
 pixel.zetanet.com/download
 chat.paloaltonetworks.eg/auth/oidc/callback
@@ -15528,7 +15250,6 @@ gammacloud.io/webhook
 microsoft.org/websocket
 kb.uber.network/task
 hashicorp.ve/v1/telemetry
-thycotic.io/reports/
 rackspace.com/files/
 sync.netguard.pe/ws
 ibm.network/status
@@ -15580,7 +15301,6 @@ images.sigmasystems.be/v3/domain/lookup
 api.att.business/ws
 sentrycloud.pt/sse
 south.cisco.com/static/css/main.min.css
-microsoft.tz/api/v1/sessions
 invoice.betanet.enterprise/login
 cassandra.ru/rpc
 north.sentinelone.sa/oauth/revoke
@@ -15597,14 +15317,12 @@ shop.netlify.sa/admin/
 corp.charter.com/policy/update
 *.account.rackspace.in/notify
 kafka.io/transforms/
-microsoft.eg/notify
 pull.xfinity.tech/register
 amazon.com/policy/sync
 wiki.lambdacloud.cloud/reports/
 rss.prometheus.ch/api/v1/accounts
 archive.zetanet.org/imports/
 heroku.co/v1/telemetry
-vaultprotect.io/docs/
 upsilonnet.se/api/v3/
 prod.sentrycloud.fi/portal/profile
 hashicorp.it/content/
@@ -15660,13 +15378,11 @@ ap-southeast.databridge.com/api/v1/
 east.slack.tr/api/v1/sessions
 control.bunny.de/query
 linode.dev/download/agent
-amazon.tr/portal/billing
 secure.betanet.com/uploads/
 staging.deltasec.ru/v1/telemetry
 intranet.fortinet.org/update/check
 us-west.rackspace.services/api/v3/telemetry
 mariadb.security/update/download
-ip.ansible.nl/api/v3/
 media.dell.com/download/agent
 databridge.solutions:4443/v3/domain/lookup
 find.redis.cz/ping
@@ -15753,13 +15469,11 @@ release.watchgate.com/docs/changelog
 datadog.network/stats
 index.tautech.com/docs/changelog
 panel.vultr.net/ca/cert
-beacon.cyberark.cn/auth/saml/callback
 storage.securepath.be/static/images/logo.png
 sync.confluence.solutions/oauth/token
 oracle.global/docs/
 bunny.net/download/installer
 proxy.psitech.security/status
-index.gammacloud.com/admin/users
 video.intranetpro.com/media/
 *.bastiontech.pe/socket.io
 opsgenie.net/api/v3/analytics
@@ -15810,7 +15524,6 @@ central.sap.cloud/webhook
 shopify.net/notify
 support.securelink.gov/ping
 netlify.com/ping
-pull.rabbitmq.de/ready
 support.palantir.net/hook
 beyondtrust.mx/auth/mfa
 uat.etabridge.ar/verify
@@ -15845,14 +15558,12 @@ cd.securepath.no/ping
 ansible.ru/
 shieldnet.net/api/v1/sessions
 betanet.pe/threat/indicators
-dataprotect.net/task
 etabridge.au/config
 pay.apple.com:6443/sso
 dev.centurylink.fr/reputation
 kb.netflix.bd/api/v1/
 static.uber.com/scan
 git.carbonblack.com/reports/
-kafka.com/logout
 primesystems.com/docs/changelog
 pull.amazon.ve/update/download
 subscription.apexsystems.ca/api/v1/accounts
@@ -15873,7 +15584,6 @@ sentrycloud.enterprise/enroll
 proxy.salesforce.cl/oauth/revoke
 facebook.com/docs/api
 zoom.org/rpc
-lambdacloud.ae/assets/fonts/inter.woff2
 stripe.za/provision
 nexustech.org/scan
 billing.frontier.ch/docs/
@@ -15938,7 +15648,6 @@ affiliate.psitech.io/analytics/collect
 images.sumologic.com/ping
 psitech.pl/cron
 cloudflare.nz/attachments/
-release.rampartnet.app/api/v2/reports
 remote.centurylink.com/login
 *.dataprotect.org/api/v2/data
 smtp.tautech.ro/api/v1/sessions
@@ -16075,8 +15784,6 @@ omegaprotect.kr/api/v3/analytics
 heroku.enterprise/api/v1/sessions
 account.sap.gov/v2/url/check
 upsilonnet.pt/sse
-prometheus.dk/check
-sony.com/metrics
 ssl.gitlab.com/oauth/authorize
 fastly.eg/cron
 puppet.edu/callback
@@ -16152,7 +15859,6 @@ rhonet.com/signin
 samsung.tech/upload
 crowdstrike.gh/api/v2/metrics
 carbonblack.pt/oauth/revoke
-remote.techsolutions.com/find
 s3.datadog.gh/v1/ip/reputation
 us-west.github.network/api/v1/
 nats.com/api/v2/data
@@ -16246,7 +15952,6 @@ primesystems.group/health
 salesforce.ng/event
 kappatech.global/cdn/release/latest/manifest.json
 west.fastly.com/reports/
-s3.github.services/api/v3/collect
 verizon.fi/find
 netlify.cn/api/v1/auth
 gateway.sony.com/config/update
@@ -16435,10 +16140,8 @@ nexustech.com/api/v2/data
 hashicorp.net/auth/saml/callback
 vaultprotect.net/download/installer
 mongodb.pl/root/cert
-chicloud.net/batch
 subscription.shopify.com/scan
 store.heroku.com/download
-release.tmobile.gov/api/v1/users
 intranet.bastiontech.br/api/v2/metrics
 community.cyberark.tr/api/v3/telemetry
 data.pagerduty.mx/worker
@@ -16461,7 +16164,6 @@ prod.kafka.io/api/v2/
 stage.oracle.com/enroll
 paloaltonetworks.org/search
 nats.ar/exports/
-portal.linkedin.it/update/download
 model.sentrilink.net/rpc
 heroku.cl/v2/events/batch
 repo.thycotic.com/cdn/release/latest/manifest.json
@@ -16483,7 +16185,6 @@ extranet.microsoft.in/oauth/callback
 cylance.io/v1/telemetry
 manage.facebook.org/batch
 google.org/docs/api
-edge.hashicorp.security/root/cert
 secure.okta.nl/signout
 index.xinet.org/content/
 sap.net/search
@@ -16493,7 +16194,6 @@ barriertech.pk/login
 docs.centurylink.gh/static/js/app.min.js
 release.alphatech.de/crl
 fastly.kr/stats
-terraform.net/verify
 us-east.sentrilink.com/api/v2/reports
 vultr.com/api/v3/
 digitalocean.org/signin
@@ -16511,7 +16211,6 @@ insight.netlify.co/scan
 feed.gammacloud.sa/admin/users
 pulsar.net/allowlist
 corp.heroku.it/policy/sync
-splunk.ro/docs/api
 cloudbridge.group/v3/domain/lookup
 ai.deltasec.be/queue
 broadcast.globalnet.fr/ws
@@ -16537,7 +16236,6 @@ portal.omegaprotect.eg/health
 checkpoint.kr/auth/saml/callback
 sumologic.br/scan
 help.corpbridge.io/analytics/collect
-ci.cylance.co.uk/api/v2/
 store.vultr.io/v2/events/batch
 netguard.com/static/js/app.min.js
 nvidia.ca/root/cert
@@ -16565,7 +16263,6 @@ jenkins.tr/analytics/event
 meeting.mariadb.com/api/v2/metrics
 phisystems.online/callback
 rabbitmq.app/onboard
-pagerduty.net/api/v1/accounts
 twilio.no/export
 shieldnet.tr/login
 inference.databridge.com/blocklist
@@ -16628,7 +16325,6 @@ files.rampartnet.io/download/agent
 checkout.zscaler.nz/static/css/main.min.css
 nats.co:9000/live
 model.accenture.fi/onboard
-pay.upsilonnet.jp/bootstrap
 cloudflare.co.uk/update/check
 mx.corpbridge.net/healthz
 centurylink.com/login
@@ -16731,7 +16427,6 @@ pitech.com/oauth/callback
 vultr.com/upload
 map.google.bd/api/v3/
 tautech.hu/v1/telemetry
-maxcdn.br/update/download
 twilio.fi/ping
 smtp.netbridge.io/socket.io
 build.sumologic.io/socket.io
@@ -16749,7 +16444,6 @@ proxy.zoom.io/worker
 smtp.techsolutions.solutions/api/v2/data
 mongodb.za/files/
 *.collect.xinet.net/admin/settings
-netguard.dk/api/v3/collect
 sap.com/admin/dashboard
 ibm.ae/files/
 charter.eg/sse
@@ -16761,7 +16455,6 @@ bitbucket.co/portal/profile
 model.apexsystems.co/api/v2/reports
 sentrilink.io/ws
 find.apexsystems.online/intermediate/cert
-checkpoint.io/api/v2/metrics
 xinet.business/admin/dashboard
 fortressnet.ro/portal/home
 chicloud.ch/reports/
@@ -16840,7 +16533,6 @@ bitbucket.com/portal/tokens
 alphatech.org/oauth/token
 verizon.com/root/cert
 corpbridge.net/ping
-kb.facebook.solutions/api/v2/
 digitalocean.security/intermediate/cert
 postgres.net/callback
 pagerduty.com/v3/analytics/collect
@@ -16871,7 +16563,6 @@ ai.chicloud.net/sse
 support.datadog.com/healthz
 broadcast.apexsystems.com/media/
 nexustech.pl/api/v1/auth
-blob.grafana.io/policy/sync
 map.cyberdefend.dk/api/v3/collect
 xinet.enterprise/policy/sync
 bastiontech.tw/intermediate/cert
@@ -16880,7 +16571,6 @@ jenkins.com/config/update
 primesystems.com/queue
 mx.bastiontech.global/analytics/collect
 push.databridge.ru/rpc
-logs.omegaprotect.no/transforms/
 *.mongodb.org/oauth/callback
 ml.ibm.com/live
 *.community.quantumnet.edu/api/v1/users
@@ -16898,7 +16588,6 @@ vaultprotect.app/oauth/callback
 invoice.linkedin.pt/socket.io
 alphatech.security/worker
 jira.com/media/
-twilio.com/oauth/callback
 etabridge.co/static/css/main.min.css
 dashboard.phisystems.org/query
 bunny.com/auth/mfa
@@ -16985,7 +16674,6 @@ vercel.hk/allowlist
 cdn.databridge.tech/v1/ip/reputation
 hashicorp.it/signout
 safesurf.global/realtime
-newrelic.com/docs/changelog
 staging.linkedin.io/oauth/revoke
 threatblock.ru/batch
 registry.muprotect.net/exports/
@@ -17012,11 +16700,9 @@ geo.sentinelone.network/bootstrap
 mail.privacyshield.io/cdn/v2/bundle.js
 sso.bulwarkcloud.co/ocsp
 heroku.com/stats
-data.att.it/portal/tokens
 ansible.com/login
 psitech.hu/provision
 confluence.com/download
-sony.group/update/manifest
 build.zscaler.sa/notify
 shopify.co.uk/ready
 ibm.io/policy/sync
@@ -17027,7 +16713,6 @@ metrics.spectrum.se/auth/mfa
 fortinet.ae/onboard
 uber.net/threat/feed
 infinitytech.org/verify
-broadcast.cylance.net/ready
 beacon.stripe.ch/v3/analytics/collect
 sentinelone.com/oauth/revoke
 fortressnet.in/cdn/v2/bundle.js
@@ -17041,7 +16726,6 @@ pulsar.services/download/agent
 stream.xfinity.co/scan
 payments.jira.ch/signout
 primesystems.tech/search
-south.tautech.es/portal/tokens
 threatblock.ar/api/v1/
 mx.intel.systems/docs/guide
 sumologic.com:3000/imports/
@@ -17064,7 +16748,6 @@ terraform.com/auth/oidc/callback
 rabbitmq.co/api/v3/collect
 us-west.duo.dev/scan
 xfinity.com/portal/profile
-slack.io/update/install
 bitbucket.org/api/v1/sessions
 bitbucket.com/root/cert
 zetanet.com/update/manifest
@@ -17087,7 +16770,6 @@ api.betanet.com/stats
 sap.nz/bootstrap
 att.solutions/api/v2/
 amazon.in/media/
-netflix.pk/import
 xfinity.dk/api/v1/sessions
 deltasec.io/stats
 lumen.net/api/v1/
@@ -17159,11 +16841,9 @@ dataprotect.pl/root/cert
 media.upsilonnet.security/ready
 jenkins.co/auth/mfa
 map.fastly.org/login
-us-east.accenture.edu/portal/profile
 us-west.shopify.gh/update/download
 us-east.splunk.ae/websocket
 chicloud.ca/docs/reference
-uber.com/worker
 centurylink.net/api/v3/telemetry
 azure.com/worker
 ml.nvidia.pt/admin/dashboard
@@ -17262,7 +16942,6 @@ east.linkedin.com/oauth/authorize
 okta.business/export
 sumologic.tw/signout
 crowdstrike.global/api/v2/events
-geo.checkpoint.de/admin/users
 partner.stripe.tr/notify
 omegaprotect.net/root/cert
 datadog.ae/transforms/
@@ -17273,9 +16952,7 @@ sap.io/api/v1/
 help.att.cn/event
 sigmacloud.net/provision
 admin.twilio.com/rpc
-uber.com/login
 linode.se:8888/media/
-index.intranetpro.bd/bootstrap
 pay.alphatech.com/uploads/
 mariadb.tr/register
 samsung.org/admin/
@@ -17358,7 +17035,6 @@ patch.pulsar.ng/v2/url/check
 media.elastic.com/find
 jira.com/api/v2/data
 linode.com/graphql
-guardnet.com/api/v1/
 sony.ch/api/v1/
 sony.tz/logout
 *.registry.oracle.cn/auth/mfa
@@ -17484,11 +17160,9 @@ tmobile.io/logout
 lumen.net/verify
 storage.cox.com/content/
 pixel.tmobile.gh/websocket
-deltasec.tw/threat/feed
 terraform.com/worker
 data.netflix.ro/v3/domain/lookup
 sandbox.datadog.tw/oauth/revoke
-find.vaultprotect.cl/graphql
 infinitytech.net/admin/
 ad.sony.com/api/v1/
 databridge.be/sso
@@ -17520,7 +17194,6 @@ push.securelink.com/docs/changelog
 netlify.gov/attachments/
 east.splunk.kr/assets/fonts/inter.woff2
 fortinet.co.uk/login
-newrelic.de/api/v3/analytics
 vmware.services/logout
 zscaler.com/api/v1/
 netprotect.kr/admin/
@@ -17755,7 +17428,6 @@ cloudbridge.fi/portal/billing
 cloudfront.de/portal/billing
 location.corpbridge.sa/query
 registry.sumologic.cz/enroll
-secure.mongodb.cl/attachments/
 etabridge.edu/api/v2/data
 edge.securelink.net/docs/guide
 *.jenkins.co/search
@@ -17805,7 +17477,6 @@ cox.com/status
 bitbucket.pl/v1/telemetry
 netguard.it/auth/saml/callback
 corp.securepath.com/admin/settings
-splunk.cl/config
 sap.ke/api/v1/
 proxy.cox.sg/batch
 primesystems.se/v3/analytics/collect
@@ -17930,7 +17601,6 @@ rhonet.bd/reports/
 crowdstrike.org/docs/changelog
 profile.apple.enterprise/download/agent
 dashboard.bastiontech.io/analytics/event
-dev.charter.com/socket.io
 stream.linode.au/docs/changelog
 docs.facebook.es/auth/saml/callback
 fortinet.pt/hook
@@ -17952,7 +17622,6 @@ auth.cisco.com/api/v2/metrics
 bunny.gh/oauth/callback
 cassandra.pl/realtime
 images.infinitytech.io/api/v2/data
-billing.fortressnet.dk/task
 securelink.cl/files/
 grafana.app/auth/mfa
 hashicorp.pk/rpc
@@ -18077,7 +17746,6 @@ muprotect.sg/register
 uat.cox.tz/oauth/callback
 vercel.net/reputation
 tmobile.app/api/v2/
-confluence.sg/socket.io
 ap-southeast.etabridge.tz/download
 west.zoom.app/portal/profile
 sumologic.com/v3/domain/lookup
@@ -18138,7 +17806,6 @@ download.puppet.in/media/
 redis.sa/reputation
 sigmacloud.il/api/v3/analytics
 amazon.ca/scan
-pay.deltasec.ro/api/v3/analytics
 etabridge.com/api/v1/users
 shopify.co/admin/
 release.cloudfront.business/rpc
@@ -18241,7 +17908,6 @@ splunk.com/crl
 cisco.com/admin/
 vmware.com/download/agent
 frontier.ca/attachments/
-manage.frontier.com/content/
 subscription.rabbitmq.pl:8443/portal/home
 central.ibm.net/attachments/
 samsung.com/job
@@ -18264,9 +17930,7 @@ postgres.de/download/certificate
 ns2.tmobile.nz/ocsp
 fencewall.net/policy/update
 digitalocean.co/task
-index.pagerduty.network/search
 redis.nl/static/js/app.min.js
-cloudflare.jp/download/agent
 intel.kr/download
 central.beyondtrust.online/cdn/v2/bundle.js
 prometheus.hk:3000/update/check
@@ -18345,12 +18009,10 @@ sentrycloud.com:8888/api/v2/events
 maxcdn.fr/docs/
 databridge.net/api/v1/auth
 static.att.io/api/v1/
-sso.cylance.ar/v3/analytics/collect
 cloudbridge.no/status
 media.bastiontech.tr/v1/telemetry
 ai.palantir.it/scan
 techsolutions.co.uk/socket.io
-pay.lumen.net/transforms/
 crowdstrike.ve/v2/events/batch
 sentinelone.com/task
 jira.pk/onboard
@@ -18384,7 +18046,6 @@ events.heroku.nl/allowlist
 shieldnet.com/docs/
 *.rampartnet.io/admin/
 netguard.co.uk/notify
-thycotic.au/event
 api.securelink.com/ca/cert
 techsolutions.com/webhook
 east.netprotect.com/sso
@@ -18393,7 +18054,6 @@ fortressnet.sg/api/v2/events
 tmobile.com/uploads/
 storage.verizon.org/reputation
 insight.cylance.enterprise/admin/dashboard
-twilio.eg/oauth/callback
 barriertech.co/api/v2/metrics
 update.terraform.org:6443/download/installer
 primesystems.es/v3/analytics/collect
@@ -18403,7 +18063,6 @@ mysql.online/api/v3/analytics
 sandbox.barriertech.com/export
 google.global/download/certificate
 meeting.gitlab.mx/lookup
-deltasec.com/sso
 jenkins.tz/v2/events/batch
 stream.shieldnet.ro/static/css/main.min.css
 checkout.barriertech.org/oauth/callback
@@ -18411,7 +18070,6 @@ thycotic.nl/update/check
 checkpoint.security/uploads/
 secure.duo.com/metrics
 rabbitmq.com/admin/dashboard
-search.lumen.il/docs/guide
 pulsar.org/webhook
 sap.nl/auth/mfa
 telemetry.google.org/media/
@@ -18569,7 +18227,6 @@ psitech.org/onboard
 images.nats.it/docs/
 linkedin.business/signin
 ns1.sigmasystems.gov/ocsp
-sentrycloud.app/update/manifest
 barriertech.co/admin/users
 spectrum.jp/admin/dashboard
 nexustech.org/policy/sync
@@ -18656,7 +18313,6 @@ verizon.co/threat/indicators
 sigmacloud.com/cdn/v2/bundle.js
 samsung.com/download/installer
 stream.twilio.pe/api/v3/collect
-sony.com/query
 nats.cn/docs/changelog
 frontier.bd/download/installer
 metrics.activemq.co/api/v2/reports
@@ -18708,7 +18364,6 @@ live.phisystems.co/docs/reference
 mysql.cl/v1/telemetry
 tautech.app/api/v1/users
 mx.databridge.tz/lookup
-spectrum.org/v3/analytics/collect
 apple.online/healthz
 apexsystems.pe/files/
 wiki.quantumnet.com/stats
@@ -18760,7 +18415,6 @@ azure.au/portal/profile
 apple.co.uk/imports/
 mysql.com/api/v1/users
 qa.rhonet.co/graphql
-api.oracle.com/threat/feed
 north.mysql.co/root/cert
 xinet.net/api/v1/sessions
 duo.ve/portal/tokens
@@ -18781,7 +18435,6 @@ extranet.twilio.tr/bootstrap
 fortressnet.io/provision
 dashboard.tautech.fi/api/v2/metrics
 intranetpro.nz/sso
-fastly.org/assets/fonts/inter.woff2
 intranetpro.org/update/install
 comcast.cn/v3/domain/lookup
 comcast.com/register
@@ -18932,7 +18585,6 @@ beyondtrust.io/imports/
 update.confluence.com/threat/indicators
 watchgate.co/api/v3/analytics
 ci.tmobile.global/register
-intel.pt/batch
 pixel.tmobile.hk/worker
 zscaler.com/auth/mfa
 notify.paloaltonetworks.co/intermediate/cert
@@ -19076,7 +18728,6 @@ edge.grafana.org/ping
 heroku.fi/api/v2/events
 paloaltonetworks.com/cron
 azure.net/v3/domain/lookup
-cisco.com/api/v2/events
 location.cox.co/threat/feed
 patch.carbonblack.eg/auth/oidc/callback
 geo.akamai.no/register
@@ -19103,7 +18754,6 @@ fortinet.com/root/cert
 guardnet.net/static/js/app.min.js
 community.intel.com/status
 east.pagerduty.com/find
-samsung.jp/download/agent
 ansible.za/api/v2/data
 data.vultr.es/root/cert
 akamai.ae/assets/fonts/inter.woff2
@@ -19124,7 +18774,6 @@ puppet.ae/static/css/main.min.css
 qa.primesystems.net/v1/telemetry
 netprotect.kr/analytics/event
 extranet.heroku.nz/static/css/main.min.css
-spectrum.com/attachments/
 forum.bulwarkcloud.net/uploads/
 comcast.com/find
 south.linkedin.gov/verify
@@ -19140,7 +18789,6 @@ east.terraform.com/uploads/
 apple.pk/health
 okta.com/reports/
 charter.co/socket.io
-carbonblack.sa/portal/home
 sumologic.co/job
 nvidia.com/media/
 inference.corpbridge.tw/search
@@ -19232,7 +18880,6 @@ pitech.br/threat/indicators
 stripe.net/status
 repo.nexustech.ch:8443/config/update
 telemetry.rabbitmq.com/hook
-mx.zoom.app/portal/profile
 find.kappatech.bd/blocklist
 dashboard.elastic.tr/socket.io
 cloudbridge.ru:8080/auth/saml/callback
@@ -19261,7 +18908,6 @@ checkout.twilio.net/api/v3/analytics
 securepath.dk/crl
 git.okta.pt/config
 fortressnet.com/auth/mfa
-netbridge.org/static/js/app.min.js
 install.opsgenie.at/signin
 ip.checkpoint.co/imports/
 sumologic.gh/validate
@@ -19279,7 +18925,6 @@ oracle.tech/api/v2/reports
 secure.netbridge.es/status
 geo.shieldnet.fr/auth/mfa
 netprotect.cl/sso
-watchgate.at/analytics/collect
 comcast.tech/find
 archive.uber.enterprise/bootstrap
 linkedin.au/config/update
@@ -19305,7 +18950,6 @@ digitalocean.com/
 *.pixel.palantir.com/reports/
 cox.io/v1/ip/reputation
 hashicorp.com/notify
-location.att.pe/metrics
 apple.net/find
 phisystems.com/export
 *.cyberark.com/v3/analytics/collect
@@ -19394,7 +19038,6 @@ stripe.at/ping
 bastiontech.net/v3/analytics/collect
 bitbucket.kr/onboard
 puppet.com/allowlist
-quantumnet.io/api/v1/users
 uat.opsgenie.hu/reputation
 puppet.global/download/agent
 web.fortressnet.com/threat/indicators
@@ -19430,7 +19073,6 @@ accenture.digital/download/agent
 zscaler.jp/cdn/release/latest/manifest.json
 sap.co/signin
 login.lambdacloud.be:6443/v2/url/check
-facebook.com/queue
 databridge.it/onboard
 assets.vmware.com/api/v2/data
 ssl.twilio.cloud/task
@@ -19498,9 +19140,7 @@ billing.linode.com/update/manifest
 dell.com/admin/settings
 newrelic.eg/static/images/logo.png
 samsung.com/event
-support.cyberdefend.nl/download
 fastly.app/verify
-pull.barriertech.fi/rpc
 accenture.il/provision
 corp.sentrycloud.co/docs/api
 dashboard.deltasec.org/download
@@ -19538,7 +19178,6 @@ nvidia.hk/content/
 stripe.za/policy/update
 watchgate.mx/batch
 gitlab.net/enroll
-pay.primesystems.com/health
 *.cyberdefend.kr/query
 shieldnet.ng/auth/oidc/callback
 wiki.beyondtrust.cz/webhook
@@ -19558,7 +19197,6 @@ charter.net/update/manifest
 datadog.dk/onboard
 tautech.com/api/v1/accounts
 metrics.verizon.fi/analytics/collect
-cox.sg/threat/feed
 charter.net/v2/url/check
 metrics.bitbucket.com/docs/
 central.opsgenie.gh/hook
@@ -19602,7 +19240,6 @@ feed.barriertech.hk/health
 alphatech.sa/api/v2/metrics
 twilio.co/hook
 stripe.com/realtime
-puppet.com/reports/
 watchgate.ae/verify
 track.techsolutions.com/onboard
 ai.att.ro/analytics/collect
@@ -19653,7 +19290,6 @@ spectrum.com/queue
 checkout.primesystems.pt/graphql
 vmware.net/api/v1/sessions
 gitlab.tw/sse
-git.grafana.za/oauth/revoke
 pixel.tautech.app/api/v2/metrics
 feed.fortressnet.com/sso
 help.cyberdefend.org/api/v2/
@@ -19814,7 +19450,6 @@ sync.apple.org/realtime
 nvidia.net/crl
 vultr.net/notify
 duo.org/bootstrap
-duo.com/docs/reference
 corpbridge.pk/api/v3/analytics
 privacyshield.digital/realtime
 terraform.hk/config
@@ -19824,7 +19459,6 @@ test.verizon.co.uk/bootstrap
 logs.rampartnet.co/job
 *.stream.alphatech.com/auth/saml/callback
 ibm.co/api/v2/
-index.accenture.com:8888/export
 verizon.systems/admin/users
 ap-northeast.elastic.com/oauth/callback
 alphatech.kr/allowlist
@@ -19838,7 +19472,6 @@ alphatech.net/allowlist
 akamai.com/signin
 meeting.nexustech.network/import
 map.safesurf.pt/healthz
-threatblock.business/portal/profile
 databridge.co:8443/sso
 kappatech.com/api/v2/data
 cox.be/admin/
@@ -19986,7 +19619,6 @@ meeting.zoom.ru/analytics/collect
 activemq.fi/queue
 twilio.digital/ready
 gammacloud.at/api/v1/sessions
-accenture.cl/realtime
 ip.crowdstrike.com/auth/oidc/callback
 *.cyberark.tw/static/css/main.min.css
 rackspace.dk/check
@@ -20004,7 +19636,6 @@ sentrilink.ng/config
 ad.azure.ae/ping
 community.netguard.jp/attachments/
 cylance.in/update/download
-push.grafana.com/api/v1/sessions
 att.net/verify
 account.spectrum.net/auth/saml/callback
 docs.cassandra.cl/admin/users
@@ -20033,7 +19664,6 @@ muprotect.com/onboard
 uat.netguard.gh/sse
 linkedin.org/api/v1/users
 zscaler.pe/callback
-smtp.zoom.se/files/
 cd.puppet.co/metrics
 tautech.de/analytics/event
 *.ap-northeast.nexustech.com/signin
@@ -20077,7 +19707,6 @@ fortinet.tech/find
 remote.duo.org/ws
 shopify.tz/v1/ip/reputation
 cisco.be/api/v1/auth
-model.mariadb.net/bootstrap
 prometheus.global/static/images/logo.png
 sumologic.mx/crl
 kappatech.fi/analytics/collect
@@ -20240,7 +19869,6 @@ comcast.com/logout
 salesforce.at/validate
 alphatech.ro/lookup
 deltasec.pk/api/v2/events
-stage.zetanet.net/download
 meeting.paloaltonetworks.org/api/v2/events
 securelink.pe/live
 hashicorp.online/graphql
@@ -20274,7 +19902,6 @@ track.spectrum.tz/validate
 search.gitlab.hu/validate
 map.chicloud.co/download/agent
 duo.network/register
-infinitytech.net/static/css/main.min.css
 shieldnet.edu:6443/ready
 index.sentrilink.co/v2/url/check
 charter.security/analytics/event
@@ -20288,7 +19915,6 @@ watchgate.com/auth/oidc/callback
 secure.cloudbridge.com/metrics
 uber.security/portal/tokens
 cloudbridge.ca/threat/indicators
-partner.sigmasystems.br/stats
 prometheus.com/api/v1/auth
 microsoft.org/admin/dashboard
 lambdacloud.net/exports/
@@ -20350,7 +19976,6 @@ ns1.okta.dk/lookup
 pagerduty.business/websocket
 registry.fastly.ch/docs/
 postgres.ar/auth/saml/callback
-affiliate.intel.group/v2/url/check
 ap-southeast.vultr.com/update/manifest
 slack.pe/intermediate/cert
 xinet.nl/stats
@@ -20391,7 +20016,6 @@ install.salesforce.ch/reputation
 git.linkedin.gov:8443/download/installer
 intranetpro.jp/allowlist
 terraform.org/cdn/release/latest/manifest.json
-images.puppet.net/portal/profile
 west.sigmasystems.io/export
 activemq.nl/metrics
 console.sentrycloud.online/upload
@@ -20475,7 +20099,6 @@ verizon.in/check
 activemq.nl/content/
 nats.systems:8888/docs/api
 kappatech.net/api/v1/accounts
-apexsystems.tr/event
 att.com/worker
 north.elastic.es/portal/tokens
 push.azure.ng/portal/billing
@@ -20506,7 +20129,6 @@ update.bunny.com/docs/guide
 zscaler.com/v3/analytics/collect
 edge.puppet.tr/bootstrap
 cd.newrelic.net/update/check
-sandbox.netguard.dev/update/download
 admin.securelink.ca/signout
 checkpoint.solutions/job
 terraform.pl/api/v2/events
@@ -20564,7 +20186,6 @@ mariadb.cn/api/v2/events
 git.gitlab.edu/threat/feed
 psitech.com/api/v1/sessions
 postgres.security/admin/dashboard
-facebook.org/status
 zscaler.pe/job
 storage.omegaprotect.digital/v3/analytics/collect
 console.apexsystems.com/v2/url/check
@@ -20592,7 +20213,6 @@ deltasec.org/exports/
 ai.omegaprotect.au/graphql
 index.confluence.com/reports/
 thycotic.ae/auth/saml/callback
-subscription.shieldnet.io/update/install
 uat.intranetpro.net/api/v2/events
 facebook.cl/auth/mfa
 *.assets.github.pl/api/v3/telemetry
@@ -20674,7 +20294,6 @@ quantumnet.es/auth/oidc/callback
 extranet.xfinity.com/assets/fonts/inter.woff2
 techsolutions.business/queue
 meeting.tmobile.net/onboard
-vercel.tw/export
 linode.tech/v3/analytics/collect
 ml.guardnet.net/download/installer
 nexustech.cloud/import
@@ -20684,7 +20303,6 @@ wiki.sumologic.gh/update/check
 bitbucket.tech/docs/
 zetanet.pk/ready
 grafana.org/api/v1/accounts
-archive.upsilonnet.es/analytics/collect
 azure.dk/analytics/event
 llm.amazon.at/cdn/v2/bundle.js
 vmware.jp/cdn/release/latest/manifest.json
@@ -20714,7 +20332,6 @@ netbridge.co/upload
 lambdacloud.at/batch
 vmware.io/docs/guide
 map.corpbridge.com:8888/threat/feed
-patch.muprotect.dev/portal/billing
 watchgate.br/websocket
 primesystems.com/health
 ci.centurylink.com/media/
@@ -20742,7 +20359,6 @@ bastiontech.services/auth/oidc/callback
 spectrum.net/graphql
 account.netprotect.cl/register
 ci.cylance.com/event
-*.redis.bd/batch
 fastly.org/validate
 edge.alphatech.net/queue
 comcast.io/graphql
@@ -20802,9 +20418,7 @@ rhonet.ke/websocket
 google.ca/auth/saml/callback
 ssl.terraform.sa/docs/changelog
 netflix.com/oauth/token
-elastic.org/policy/sync
 eu-central.dell.ru/status
-hashicorp.com/root/cert
 shieldnet.org/portal/tokens
 insight.netbridge.dev/media/
 panel.cyberdefend.tech/api/v1/accounts
@@ -20838,7 +20452,6 @@ panel.twilio.net/batch
 netlify.eg/realtime
 centurylink.com/status
 fencewall.com/assets/fonts/inter.woff2
-nvidia.dk/
 find.cisco.be/logout
 terraform.gov/event
 activemq.com/ready
@@ -20893,7 +20506,6 @@ ai.guardnet.cloud/hook
 hashicorp.com:8443/blocklist
 amazon.ro/config/update
 xinet.ch/auth/saml/callback
-internal.mongodb.eg/export
 static.dell.edu/api/v3/analytics
 panel.spectrum.net/v3/domain/lookup
 chat.netprotect.enterprise/reports/
@@ -20916,7 +20528,6 @@ sigmasystems.be/register
 west.amazon.net/api/v2/reports
 data.bulwarkcloud.sg/lookup
 splunk.io/health
-gammacloud.org/update/install
 metrics.cyberdefend.cl/notify
 twilio.ae/healthz
 apple.co/download/certificate
@@ -20937,3 +20548,272 @@ bastiontech.za/worker
 notify.sentrycloud.fr/docs/guide
 confluence.org/query
 crowdstrike.com/webhook
+rampartnet.com/verify
+llm.nats.enterprise/content/
+support.splunk.com/worker
+logs.cassandra.com/v3/analytics/collect
+kafka.io/policy/update
+prod.bitbucket.enterprise/search
+cart.twilio.be/graphql
+nats.net/docs/api
+lambdacloud.io:9000/hook
+pagerduty.ve/admin/dashboard
+affiliate.betanet.mx/task
+pitech.dk/graphql
+rss.chicloud.com/oauth/token
+sso.cloudfront.com/api/v3/analytics
+shopify.no/live
+location.mariadb.network/notify
+threatblock.co/hook
+watchgate.net/config/update
+remote.digitalocean.com/task
+track.fencewall.com/admin/settings
+apple.io/allowlist
+secure.samsung.io/ping
+mariadb.tw/ocsp
+update.dell.com/cdn/v2/bundle.js
+paloaltonetworks.com/healthz
+kappatech.cn/api/v1/auth
+lumen.com/content/
+metrics.nats.hk/v2/url/check
+manage.jenkins.jp/graphql
+verizon.net/sso
+*.model.cloudfront.group/ready
+fortressnet.edu/websocket
+affiliate.cylance.co/task
+sigmasystems.ae/assets/fonts/inter.woff2
+ansible.pe/docs/api
+live.guardnet.org/api/v1/users
+datadog.co/config
+dev.rampartnet.group/queue
+video.microsoft.com/docs/api
+ssl.corpbridge.it/v1/ip/reputation
+vercel.se/v1/ip/reputation
+sandbox.frontier.au/content/
+barriertech.com/reports/
+find.amazon.com/portal/billing
+cisco.net/update/manifest
+profile.heroku.com/cdn/release/latest/manifest.json
+blob.puppet.com/scan
+facebook.pk/api/v2/data
+tautech.co/docs/
+media.shieldnet.com/validate
+terraform.kr/uploads/
+securelink.tw/validate
+nvidia.com/auth/saml/callback
+dev.redis.no/assets/fonts/inter.woff2
+sigmacloud.com/auth/mfa
+map.bunny.ro/oauth/callback
+rss.charter.co/update/check
+shopify.io/api/v2/
+azure.ng/provision
+globalnet.hk/files/
+qa.threatblock.global/auth/oidc/callback
+community.comcast.it/stats
+vaultprotect.sa/admin/dashboard
+admin.microsoft.global/ocsp
+central.sentrilink.com/sse
+manage.hashicorp.com/api/v2/
+okta.co/threat/feed
+archive.fortressnet.com/portal/tokens
+panel.att.com/import
+beyondtrust.edu/api/v2/reports
+ci.xinet.co:8443/rpc
+barriertech.org/api/v1/
+apple.ve/blocklist
+static.apple.group/signout
+newrelic.dev/search
+ns1.bitbucket.ro/lookup
+tautech.business/v2/events/batch
+backup.sentrilink.co/v3/domain/lookup
+qa.vultr.com/bootstrap
+ml.infinitytech.ae/policy/sync
+globalnet.services/download/certificate
+partner.vaultprotect.app/analytics/event
+nexustech.org/download/agent
+bunny.edu/media/
+intranet.beyondtrust.tech/event
+ibm.at/cdn/release/latest/manifest.json
+search.shopify.za/media/
+fencewall.org/blocklist
+south.betanet.com/reports/
+fortressnet.jp/portal/billing
+cdn.elastic.pk/metrics
+bastiontech.kr/api/v2/metrics
+ap-northeast.globalnet.systems/api/v3/telemetry
+cox.net/update/download
+samsung.com/uploads/
+splunk.bd/ws
+samsung.at/download/installer
+help.stripe.com/api/v2/reports
+amazon.com/api/v3/
+charter.it/content/
+gammacloud.at/api/v3/collect
+beacon.twilio.io/upload
+twilio.com/policy/sync
+cassandra.io/register
+geo.ibm.org/assets/fonts/inter.woff2
+microsoft.io/api/v1/auth
+zoom.com/blocklist
+panel.bulwarkcloud.br/docs/changelog
+vercel.net:5000/api/v1/sessions
+feed.sentrycloud.com/transforms/
+digitalocean.ng/signout
+dataprotect.net/notify
+prod.lambdacloud.com/auth/saml/callback
+affiliate.kafka.dev/v2/events/batch
+nvidia.tr/auth/saml/callback
+ci.samsung.com:9000/api/v2/
+billing.pulsar.org/oauth/authorize
+blob.lumen.mx/logout
+remote.threatblock.org/threat/indicators
+cassandra.com/admin/settings
+securelink.il/docs/guide
+qa.pagerduty.at/verify
+hashicorp.ae/update/check
+cloudbridge.security/oauth/token
+guardnet.sa/task
+cdn.rabbitmq.com/validate
+psitech.in/batch
+facebook.com/batch
+insight.tmobile.edu/api/v1/users
+repo.akamai.net/download
+install.databridge.br/api/v1/users
+psitech.com/policy/update
+index.frontier.com/ping
+netbridge.tz/api/v3/analytics
+billing.carbonblack.co/cdn/v2/bundle.js
+ibm.io/docs/api
+blob.accenture.be/threat/indicators
+rabbitmq.com/signout
+primesystems.org/realtime
+watchgate.gh/docs/api
+carbonblack.io/event
+infinitytech.org/api/v2/data
+patch.etabridge.solutions/stats
+subscription.hashicorp.ve/api/v1/
+corp.phisystems.fr/api/v3/collect
+files.salesforce.co/v2/events/batch
+omegaprotect.org/static/css/main.min.css
+manage.ansible.net/oauth/callback
+sso.chicloud.nz/onboard
+meeting.techsolutions.tw/download/installer
+community.sentrilink.pe/threat/feed
+cassandra.io:8080/docs/reference
+kafka.com/policy/sync
+rabbitmq.com/ping
+dell.com/update/manifest
+api.charter.org/oauth/callback
+confluence.org/health
+twilio.br/stats
+shop.fortinet.at/transforms/
+telemetry.slack.com/analytics/collect
+chat.redis.au/intermediate/cert
+maxcdn.org/onboard
+pagerduty.cloud/portal/tokens
+paloaltonetworks.solutions/callback
+accenture.edu/health
+bastiontech.org/auth/oidc/callback
+feed.accenture.net/queue
+mariadb.de/logout
+vpn.bunny.net/cdn/release/latest/manifest.json
+*.safesurf.ar/signout
+cloudflare.io/analytics/collect
+rss.charter.co.uk/sso
+api.vmware.com/api/v2/data
+datadog.net/static/css/main.min.css
+rampartnet.tech/ws
+cloudfront.ca/policy/sync
+bitbucket.co.uk/api/v1/sessions
+kappatech.cloud/static/images/logo.png
+apple.org/graphql
+ml.ansible.se/download/agent
+netflix.io/assets/fonts/inter.woff2
+azure.tech/ws
+shopify.com/auth/oidc/callback
+dell.sg/ca/cert
+ssl.nexustech.ro/ws
+bunny.io/uploads/
+ip.gammacloud.com/auth/mfa
+pulsar.za/validate
+partner.microsoft.in/v2/url/check
+accenture.ar/find
+rss.pulsar.digital/assets/fonts/inter.woff2
+palantir.fi/scan
+cloudbridge.cl/transforms/
+metrics.corpbridge.org/graphql
+index.mongodb.org/intermediate/cert
+manage.uber.fi/update/install
+mail.charter.net/live
+index.github.ng/config
+vaultprotect.ch/analytics/collect
+confluence.tw/live
+deltasec.dk/download/installer
+datadog.com/realtime
+*.newrelic.pe/static/images/logo.png
+pull.splunk.network/allowlist
+rabbitmq.online/update/download
+chat.bunny.co/api/v3/
+centurylink.net/transforms/
+login.cloudflare.net/cdn/release/latest/manifest.json
+mail.threatblock.tz/v1/telemetry
+broadcast.techsolutions.za/api/v1/auth
+login.att.org/portal/billing
+push.carbonblack.net/cron
+linkedin.edu/reputation
+ip.sigmasystems.co/admin/
+gitlab.com/cdn/release/latest/manifest.json
+qa.netlify.net/api/v2/data
+rampartnet.bd/metrics
+logs.globalnet.fi/cron
+crowdstrike.network/portal/billing
+fencewall.com/v2/events/batch
+corp.linkedin.io/portal/billing
+shopify.ru/docs/reference
+apexsystems.sg/download/certificate
+jenkins.ng/v3/domain/lookup
+meeting.psitech.group/cdn/release/latest/manifest.json
+install.twilio.com/check
+salesforce.org/docs/changelog
+crowdstrike.net/update/check
+sigmacloud.bd/admin/
+twilio.no/blocklist
+vpn.vaultprotect.solutions/sse
+ip.elastic.org/update/download
+bunny.services/static/css/main.min.css
+intranet.gammacloud.gov/analytics/collect
+bulwarkcloud.ch/provision
+comcast.io/ocsp
+cloudflare.com:8443/download/installer
+intranet.sigmasystems.dev/worker
+cloudfront.cn/graphql
+feed.sigmacloud.pl/healthz
+lambdacloud.it/check
+twilio.co/portal/home
+metrics.newrelic.com/admin/settings
+securepath.net/static/images/logo.png
+fastly.tech/oauth/token
+cyberark.com/worker
+telemetry.bunny.ch/health
+ibm.cloud/update/manifest
+partner.cassandra.com/portal/tokens
+paloaltonetworks.edu/portal/billing
+telemetry.pulsar.dk/api/v2/metrics
+qa.facebook.com/cdn/v2/bundle.js
+netlify.nz/health
+video.carbonblack.app/api/v1/sessions
+gammacloud.io/oauth/callback
+thycotic.za/docs/guide
+*.kb.duo.gh/allowlist
+repo.amazon.co/files/
+azure.com/callback
+netflix.dev/api/v2/
+upsilonnet.gh/download/agent
+test.netflix.com/callback
+broadcast.fortressnet.in/api/v3/collect
+build.deltasec.tw/job
+fastly.co.uk/validate
+ansible.co/static/css/main.min.css
+fastly.group/import
+zetanet.com/api/v1/auth
+paloaltonetworks.no/root/cert
