@@ -248,7 +248,6 @@ static.pulsar.ru/api/v3/telemetry
 west.palantir.cz/v1/telemetry
 dev.intranetpro.be/task
 alphatech.io/worker
-east.oracle.co/threat/indicators
 elastic.co/export
 track.securelink.com/register
 ns2.elastic.net/live
@@ -302,7 +301,6 @@ verizon.it/sse
 zetanet.hk/check
 mongodb.pk/callback
 web.puppet.org/realtime
-ssl.xfinity.com/validate
 nvidia.com/api/v1/
 smtp.fortinet.io:8888/api/v3/telemetry
 guardnet.net/intermediate/cert
@@ -457,7 +455,6 @@ rss.dataprotect.org/verify
 app.sony.pl/static/js/app.min.js
 chicloud.de/download/installer
 phisystems.ro/logout
-pagerduty.cloud/analytics/collect
 us-east.terraform.com/docs/changelog
 assets.cylance.security/sso
 push.privacyshield.io/crl
@@ -612,7 +609,6 @@ test.phisystems.fr/transforms/
 barriertech.gh/worker
 samsung.com/api/v1/accounts
 spectrum.io/rpc
-salesforce.business/cdn/release/latest/manifest.json
 linkedin.sa/ocsp
 carbonblack.ve/auth/saml/callback
 registry.splunk.cz/download/installer
@@ -634,7 +630,6 @@ corpbridge.pl/api/v2/data
 watchgate.network/task
 bitbucket.dev/ping
 sap.fr/static/js/app.min.js
-push.rampartnet.com/verify
 metrics.omegaprotect.org/assets/fonts/inter.woff2
 zoom.fi/v2/url/check
 sync.rhonet.com/imports/
@@ -661,7 +656,6 @@ patch.heroku.tz/threat/indicators
 monitor.newrelic.no/cron
 files.corpbridge.za/api/v1/sessions
 privacyshield.io/api/v1/
-invoice.microsoft.ng/v3/domain/lookup
 postgres.com/healthz
 llm.sentinelone.ar/cdn/release/latest/manifest.json
 tmobile.com/imports/
@@ -897,7 +891,6 @@ metrics.pitech.au/v2/url/check
 stream.beyondtrust.com/login
 beacon.cloudfront.pk/update/manifest
 wiki.barriertech.de/onboard
-barriertech.io/intermediate/cert
 xfinity.network/ws
 vmware.com/admin/settings
 cylance.co/register
@@ -958,7 +951,6 @@ control.guardnet.net/api/v3/
 ap-southeast.att.hu/api/v1/users
 forum.kafka.at/socket.io
 *.uat.grafana.cn/worker
-elastic.tech/verify
 meeting.sigmacloud.enterprise/v1/telemetry
 telemetry.nexustech.com/docs/guide
 remote.gammacloud.io:8888/logout
@@ -1009,7 +1001,6 @@ frontier.services/realtime
 manage.bastiontech.com/static/css/main.min.css
 web.netbridge.com/portal/profile
 release.rabbitmq.com/admin/dashboard
-central.netflix.gov/v2/url/check
 globalnet.com/callback
 *.cart.att.cz/exports/
 rhonet.ch/transforms/
@@ -1047,7 +1038,6 @@ hashicorp.org/portal/billing
 smtp.cloudbridge.org/static/js/app.min.js
 internal.gitlab.dev/oauth/callback
 nexustech.com/transforms/
-search.datadog.br/transforms/
 netprotect.dk/validate
 video.postgres.pl/api/v1/users
 infinitytech.tw/ocsp
@@ -1091,7 +1081,6 @@ eu-central.palantir.bd/auth/saml/callback
 beyondtrust.com/intermediate/cert
 google.io/onboard
 sigmasystems.com/portal/home
-nexustech.fr/upload
 nvidia.org/notify
 kappatech.com/signout
 carbonblack.org/download
@@ -1162,7 +1151,6 @@ privacyshield.io/webhook
 jenkins.com/cdn/v2/bundle.js
 subscription.maxcdn.com/signin
 zetanet.com/ws
-sap.com/cdn/v2/bundle.js
 mx.alphatech.pt/cron
 datadog.com/download/certificate
 cylance.com/auth/mfa
@@ -1237,7 +1225,6 @@ inference.vercel.mx/threat/indicators
 support.databridge.org/root/cert
 blob.checkpoint.tr/stats
 collect.chicloud.systems/admin/settings
-analytics.stripe.solutions/ca/cert
 tautech.net/media/
 sso.xfinity.nz/metrics
 secure.fastly.fr/api/v2/data
@@ -1461,13 +1448,11 @@ eu-west.thycotic.au/api/v2/data
 cyberdefend.sa/upload
 rhonet.ca/live
 ai.pagerduty.net/login
-push.carbonblack.net/enroll
 cyberark.com/v3/analytics/collect
 ap-northeast.threatblock.gov/api/v3/collect
 llm.rhonet.jp/provision
 xinet.pe/verify
 build.grafana.net/socket.io
-broadcast.jenkins.com/download
 bulwarkcloud.il/worker
 data.tautech.net/onboard
 ai.nexustech.no/docs/api
@@ -1615,7 +1600,6 @@ jenkins.jp/config/update
 pay.tmobile.com/oauth/callback
 spectrum.nl/reputation
 digitalocean.co/upload
-techsolutions.cn/auth/mfa
 partner.heroku.systems/auth/oidc/callback
 test.netlify.cloud/login
 elastic.cloud/onboard
@@ -1662,7 +1646,6 @@ corp.cloudflare.fr/threat/feed
 guardnet.hk/crl
 cox.org/docs/reference
 edge.cylance.com/oauth/token
-vercel.edu/cdn/release/latest/manifest.json
 fencewall.com/v3/analytics/collect
 zetanet.org/assets/fonts/inter.woff2
 map.uber.com/api/v3/telemetry
@@ -1740,7 +1723,6 @@ thycotic.ca/portal/billing
 proxy.ibm.solutions/download/agent
 betanet.io/api/v3/analytics
 affiliate.psitech.kr:8443/imports/
-mongodb.at/update/manifest
 grafana.com/oauth/callback
 puppet.ru/queue
 cloudflare.co/find
@@ -1790,11 +1772,9 @@ live.fortinet.com/api/v2/events
 sandbox.heroku.sa/export
 staging.netlify.de/static/js/app.min.js
 artifact.heroku.security/bootstrap
-ns2.facebook.fr/logout
 feed.sentrilink.ng/policy/sync
 remote.linkedin.sg/verify
 control.cloudflare.dev/oauth/revoke
-secure.redis.net/stats
 ap-northeast.netprotect.fi/api/v3/telemetry
 samsung.org:8443/config
 guardnet.com/validate
@@ -2113,7 +2093,6 @@ amazon.nz/v3/domain/lookup
 ip.okta.sg/crl
 vercel.net/policy/update
 west.frontier.hk/download/certificate
-apexsystems.se/intermediate/cert
 kappatech.kr/oauth/token
 lumen.net/ws
 central.jira.il/lookup
@@ -2419,7 +2398,6 @@ build.puppet.ve/admin/
 netprotect.ca/policy/sync
 gitlab.edu/update/check
 pagerduty.io/auth/mfa
-profile.nats.digital/api/v1/auth
 media.grafana.se/update/check
 azure.com/auth/saml/callback
 *.panel.elastic.sg/auth/oidc/callback
@@ -2824,7 +2802,6 @@ linkedin.dev/realtime
 carbonblack.no/rpc
 jira.au/provision
 duo.pt/files/
-facebook.io/api/v1/
 netbridge.network/rpc
 blob.mongodb.com/rpc
 install.bulwarkcloud.se/signin
@@ -3397,7 +3374,6 @@ video.bitbucket.dev/policy/update
 *.synth-0200302.invalid/auth/mfa
 *.synth-0200303.invalid/auth/mfa
 *.synth-0200306.invalid/auth/mfa
-*.synth-0200307.invalid/auth/mfa
 *.synth-0200309.invalid/auth/mfa
 *.synth-0200310.invalid/auth/mfa
 *.synth-0200311.invalid/auth/mfa
@@ -3415,7 +3391,6 @@ video.bitbucket.dev/policy/update
 *.synth-0200328.invalid/auth/mfa
 *.synth-0200329.invalid/auth/mfa
 *.synth-0200330.invalid/auth/mfa
-*.synth-0200331.invalid/auth/mfa
 *.synth-0200332.invalid/auth/mfa
 *.synth-0200333.invalid/auth/mfa
 *.synth-0200334.invalid/auth/mfa
@@ -3460,7 +3435,6 @@ video.bitbucket.dev/policy/update
 *.synth-0200386.invalid/auth/mfa
 *.synth-0200387.invalid/auth/mfa
 *.synth-0200388.invalid/auth/mfa
-*.synth-0200389.invalid/auth/mfa
 *.synth-0200390.invalid/auth/mfa
 *.synth-0200391.invalid/auth/mfa
 *.synth-0200393.invalid/auth/mfa
@@ -3510,7 +3484,6 @@ video.bitbucket.dev/policy/update
 *.synth-0200445.invalid/auth/mfa
 *.synth-0200446.invalid/auth/mfa
 *.synth-0200447.invalid/auth/mfa
-*.synth-0200448.invalid/auth/mfa
 *.synth-0200450.invalid/auth/mfa
 *.synth-0200451.invalid/auth/mfa
 *.synth-0200452.invalid/auth/mfa
@@ -3801,7 +3774,6 @@ video.bitbucket.dev/policy/update
 *.synth-0200794.invalid/auth/mfa
 *.synth-0200796.invalid/auth/mfa
 *.synth-0200797.invalid/auth/mfa
-*.synth-0200798.invalid/auth/mfa
 *.synth-0200799.invalid/auth/mfa
 *.synth-0200800.invalid/auth/mfa
 *.synth-0200801.invalid/auth/mfa
@@ -4114,7 +4086,6 @@ video.bitbucket.dev/policy/update
 *.synth-0201167.invalid/auth/mfa
 *.synth-0201168.invalid/auth/mfa
 *.synth-0201169.invalid/auth/mfa
-*.synth-0201170.invalid/auth/mfa
 *.synth-0201172.invalid/auth/mfa
 *.synth-0201173.invalid/auth/mfa
 *.synth-0201174.invalid/auth/mfa
@@ -4135,7 +4106,6 @@ video.bitbucket.dev/policy/update
 *.synth-0201192.invalid/auth/mfa
 *.synth-0201193.invalid/auth/mfa
 *.synth-0201194.invalid/auth/mfa
-*.synth-0201196.invalid/auth/mfa
 *.synth-0201197.invalid/auth/mfa
 *.synth-0201198.invalid/auth/mfa
 *.synth-0201199.invalid/auth/mfa
@@ -4656,7 +4626,6 @@ video.bitbucket.dev/policy/update
 *.synth-0201804.invalid/auth/mfa
 *.synth-0201805.invalid/auth/mfa
 *.synth-0201806.invalid/auth/mfa
-*.synth-0201807.invalid/auth/mfa
 *.synth-0201808.invalid/auth/mfa
 *.synth-0201810.invalid/auth/mfa
 *.synth-0201811.invalid/auth/mfa
@@ -4956,17 +4925,14 @@ video.bitbucket.dev/policy/update
 *.synth-0202164.invalid/auth/mfa
 *.synth-0202165.invalid/auth/mfa
 *.synth-0202167.invalid/auth/mfa
-*.synth-0202169.invalid/auth/mfa
 *.synth-0202170.invalid/auth/mfa
 *.synth-0202171.invalid/auth/mfa
-*.synth-0202172.invalid/auth/mfa
 *.synth-0202174.invalid/auth/mfa
 *.synth-0202176.invalid/auth/mfa
 *.synth-0202177.invalid/auth/mfa
 *.synth-0202180.invalid/auth/mfa
 *.synth-0202182.invalid/auth/mfa
 *.synth-0202183.invalid/auth/mfa
-*.synth-0202187.invalid/auth/mfa
 *.synth-0202188.invalid/auth/mfa
 *.synth-0202190.invalid/auth/mfa
 *.synth-0202191.invalid/auth/mfa
@@ -5015,7 +4981,6 @@ video.bitbucket.dev/policy/update
 *.synth-0202241.invalid/auth/mfa
 *.synth-0202242.invalid/auth/mfa
 *.synth-0202244.invalid/auth/mfa
-*.synth-0202245.invalid/auth/mfa
 *.synth-0202246.invalid/auth/mfa
 *.synth-0202247.invalid/auth/mfa
 *.synth-0202248.invalid/auth/mfa
@@ -5122,7 +5087,6 @@ video.bitbucket.dev/policy/update
 *.synth-0202377.invalid/auth/mfa
 *.synth-0202378.invalid/auth/mfa
 *.synth-0202379.invalid/auth/mfa
-*.synth-0202380.invalid/auth/mfa
 *.synth-0202382.invalid/auth/mfa
 *.synth-0202383.invalid/auth/mfa
 *.synth-0202384.invalid/auth/mfa
@@ -5462,7 +5426,6 @@ video.bitbucket.dev/policy/update
 *.synth-0202781.invalid/auth/mfa
 *.synth-0202782.invalid/auth/mfa
 *.synth-0202783.invalid/auth/mfa
-*.synth-0202784.invalid/auth/mfa
 *.synth-0202785.invalid/auth/mfa
 *.synth-0202787.invalid/auth/mfa
 *.synth-0202788.invalid/auth/mfa
@@ -5559,7 +5522,6 @@ video.bitbucket.dev/policy/update
 *.synth-0202894.invalid/auth/mfa
 *.synth-0202895.invalid/auth/mfa
 *.synth-0202896.invalid/auth/mfa
-*.synth-0202897.invalid/auth/mfa
 *.synth-0202899.invalid/auth/mfa
 *.synth-0202902.invalid/auth/mfa
 *.synth-0202904.invalid/auth/mfa
@@ -5849,7 +5811,6 @@ video.bitbucket.dev/policy/update
 *.synth-0203245.invalid/auth/mfa
 *.synth-0203247.invalid/auth/mfa
 *.synth-0203248.invalid/auth/mfa
-*.synth-0203249.invalid/auth/mfa
 *.synth-0203251.invalid/auth/mfa
 *.synth-0203253.invalid/auth/mfa
 *.synth-0203254.invalid/auth/mfa
@@ -6078,7 +6039,6 @@ video.bitbucket.dev/policy/update
 *.synth-0203519.invalid/auth/mfa
 *.synth-0203520.invalid/auth/mfa
 *.synth-0203521.invalid/auth/mfa
-*.synth-0203522.invalid/auth/mfa
 *.synth-0203523.invalid/auth/mfa
 *.synth-0203524.invalid/auth/mfa
 *.synth-0203526.invalid/auth/mfa
@@ -6232,13 +6192,11 @@ video.bitbucket.dev/policy/update
 *.synth-0203702.invalid/auth/mfa
 *.synth-0203703.invalid/auth/mfa
 *.synth-0203705.invalid/auth/mfa
-*.synth-0203706.invalid/auth/mfa
 *.synth-0203707.invalid/auth/mfa
 *.synth-0203711.invalid/auth/mfa
 *.synth-0203712.invalid/auth/mfa
 *.synth-0203713.invalid/auth/mfa
 *.synth-0203714.invalid/auth/mfa
-*.synth-0203715.invalid/auth/mfa
 *.synth-0203716.invalid/auth/mfa
 *.synth-0203717.invalid/auth/mfa
 *.synth-0203718.invalid/auth/mfa
@@ -6443,7 +6401,6 @@ video.bitbucket.dev/policy/update
 *.synth-0203949.invalid/auth/mfa
 *.synth-0203950.invalid/auth/mfa
 *.synth-0203951.invalid/auth/mfa
-*.synth-0203953.invalid/auth/mfa
 *.synth-0203954.invalid/auth/mfa
 *.synth-0203955.invalid/auth/mfa
 *.synth-0203956.invalid/auth/mfa
@@ -6527,7 +6484,6 @@ video.bitbucket.dev/policy/update
 *.synth-0204049.invalid/auth/mfa
 *.synth-0204051.invalid/auth/mfa
 *.synth-0204052.invalid/auth/mfa
-*.synth-0204053.invalid/auth/mfa
 *.synth-0204054.invalid/auth/mfa
 *.synth-0204055.invalid/auth/mfa
 *.synth-0204056.invalid/auth/mfa
@@ -6671,8 +6627,6 @@ video.bitbucket.dev/policy/update
 *.synth-0204223.invalid/auth/mfa
 *.synth-0204224.invalid/auth/mfa
 *.synth-0204226.invalid/auth/mfa
-*.synth-0204227.invalid/auth/mfa
-*.synth-0204228.invalid/auth/mfa
 *.synth-0204229.invalid/auth/mfa
 *.synth-0204231.invalid/auth/mfa
 *.synth-0204232.invalid/auth/mfa
@@ -6708,7 +6662,6 @@ video.bitbucket.dev/policy/update
 *.synth-0204270.invalid/auth/mfa
 *.synth-0204271.invalid/auth/mfa
 *.synth-0204273.invalid/auth/mfa
-*.synth-0204274.invalid/auth/mfa
 *.synth-0204275.invalid/auth/mfa
 *.synth-0204276.invalid/auth/mfa
 *.synth-0204277.invalid/auth/mfa
@@ -6815,7 +6768,6 @@ video.bitbucket.dev/policy/update
 *.synth-0204391.invalid/auth/mfa
 *.synth-0204392.invalid/auth/mfa
 *.synth-0204393.invalid/auth/mfa
-*.synth-0204394.invalid/auth/mfa
 *.synth-0204395.invalid/auth/mfa
 *.synth-0204396.invalid/auth/mfa
 *.synth-0204397.invalid/auth/mfa
@@ -7020,7 +6972,6 @@ video.bitbucket.dev/policy/update
 *.synth-0204633.invalid/auth/mfa
 *.synth-0204634.invalid/auth/mfa
 *.synth-0204635.invalid/auth/mfa
-*.synth-0204636.invalid/auth/mfa
 *.synth-0204638.invalid/auth/mfa
 *.synth-0204639.invalid/auth/mfa
 *.synth-0204640.invalid/auth/mfa
@@ -7053,7 +7004,6 @@ video.bitbucket.dev/policy/update
 *.synth-0204669.invalid/auth/mfa
 *.synth-0204670.invalid/auth/mfa
 *.synth-0204671.invalid/auth/mfa
-*.synth-0204672.invalid/auth/mfa
 *.synth-0204673.invalid/auth/mfa
 *.synth-0204674.invalid/auth/mfa
 *.synth-0204675.invalid/auth/mfa
@@ -7228,7 +7178,6 @@ video.bitbucket.dev/policy/update
 *.synth-0204864.invalid/auth/mfa
 *.synth-0204865.invalid/auth/mfa
 *.synth-0204867.invalid/auth/mfa
-*.synth-0204868.invalid/auth/mfa
 *.synth-0204870.invalid/auth/mfa
 *.synth-0204871.invalid/auth/mfa
 *.synth-0204873.invalid/auth/mfa
@@ -7320,7 +7269,6 @@ video.bitbucket.dev/policy/update
 *.synth-0204981.invalid/auth/mfa
 *.synth-0204982.invalid/auth/mfa
 *.synth-0204983.invalid/auth/mfa
-*.synth-0204985.invalid/auth/mfa
 *.synth-0204986.invalid/auth/mfa
 *.synth-0204987.invalid/auth/mfa
 *.synth-0204989.invalid/auth/mfa
@@ -7438,7 +7386,6 @@ video.bitbucket.dev/policy/update
 *.synth-0205120.invalid/auth/mfa
 *.synth-0205121.invalid/auth/mfa
 *.synth-0205122.invalid/auth/mfa
-*.synth-0205123.invalid/auth/mfa
 *.synth-0205124.invalid/auth/mfa
 *.synth-0205125.invalid/auth/mfa
 *.synth-0205128.invalid/auth/mfa
@@ -7603,7 +7550,6 @@ video.bitbucket.dev/policy/update
 *.synth-0205315.invalid/auth/mfa
 *.synth-0205317.invalid/auth/mfa
 *.synth-0205318.invalid/auth/mfa
-*.synth-0205319.invalid/auth/mfa
 *.synth-0205320.invalid/auth/mfa
 *.synth-0205321.invalid/auth/mfa
 *.synth-0205322.invalid/auth/mfa
@@ -8095,7 +8041,6 @@ video.bitbucket.dev/policy/update
 *.synth-0205897.invalid/auth/mfa
 *.synth-0205899.invalid/auth/mfa
 *.synth-0205900.invalid/auth/mfa
-*.synth-0205901.invalid/auth/mfa
 *.synth-0205902.invalid/auth/mfa
 *.synth-0205903.invalid/auth/mfa
 *.synth-0205904.invalid/auth/mfa
@@ -8107,7 +8052,6 @@ video.bitbucket.dev/policy/update
 *.synth-0205910.invalid/auth/mfa
 *.synth-0205911.invalid/auth/mfa
 *.synth-0205912.invalid/auth/mfa
-*.synth-0205913.invalid/auth/mfa
 *.synth-0205914.invalid/auth/mfa
 *.synth-0205916.invalid/auth/mfa
 *.synth-0205917.invalid/auth/mfa
@@ -8178,7 +8122,6 @@ video.bitbucket.dev/policy/update
 *.synth-0206000.invalid/auth/mfa
 *.synth-0206002.invalid/auth/mfa
 *.synth-0206004.invalid/auth/mfa
-*.synth-0206005.invalid/auth/mfa
 *.synth-0206006.invalid/auth/mfa
 *.synth-0206010.invalid/auth/mfa
 *.synth-0206011.invalid/auth/mfa
@@ -8255,7 +8198,6 @@ video.bitbucket.dev/policy/update
 *.synth-0206094.invalid/auth/mfa
 *.synth-0206095.invalid/auth/mfa
 *.synth-0206097.invalid/auth/mfa
-*.synth-0206098.invalid/auth/mfa
 *.synth-0206099.invalid/auth/mfa
 *.synth-0206100.invalid/auth/mfa
 *.synth-0206101.invalid/auth/mfa
@@ -8497,7 +8439,6 @@ video.bitbucket.dev/policy/update
 *.synth-0206386.invalid/auth/mfa
 *.synth-0206387.invalid/auth/mfa
 *.synth-0206388.invalid/auth/mfa
-*.synth-0206389.invalid/auth/mfa
 *.synth-0206390.invalid/auth/mfa
 *.synth-0206394.invalid/auth/mfa
 *.synth-0206395.invalid/auth/mfa
@@ -8528,7 +8469,6 @@ video.bitbucket.dev/policy/update
 *.synth-0206422.invalid/auth/mfa
 *.synth-0206423.invalid/auth/mfa
 *.synth-0206425.invalid/auth/mfa
-*.synth-0206427.invalid/auth/mfa
 *.synth-0206429.invalid/auth/mfa
 *.synth-0206430.invalid/auth/mfa
 *.synth-0206431.invalid/auth/mfa
@@ -8896,7 +8836,6 @@ video.bitbucket.dev/policy/update
 *.synth-0206867.invalid/auth/mfa
 *.synth-0206868.invalid/auth/mfa
 *.synth-0206869.invalid/auth/mfa
-*.synth-0206870.invalid/auth/mfa
 *.synth-0206871.invalid/auth/mfa
 *.synth-0206872.invalid/auth/mfa
 *.synth-0206873.invalid/auth/mfa
@@ -8994,7 +8933,6 @@ video.bitbucket.dev/policy/update
 *.synth-0206980.invalid/auth/mfa
 *.synth-0206981.invalid/auth/mfa
 *.synth-0206982.invalid/auth/mfa
-*.synth-0206983.invalid/auth/mfa
 *.synth-0206984.invalid/auth/mfa
 *.synth-0206985.invalid/auth/mfa
 *.synth-0206986.invalid/auth/mfa
@@ -9077,7 +9015,6 @@ video.bitbucket.dev/policy/update
 *.synth-0207080.invalid/auth/mfa
 *.synth-0207081.invalid/auth/mfa
 *.synth-0207082.invalid/auth/mfa
-*.synth-0207083.invalid/auth/mfa
 *.synth-0207084.invalid/auth/mfa
 *.synth-0207085.invalid/auth/mfa
 *.synth-0207086.invalid/auth/mfa
@@ -9277,7 +9214,6 @@ video.bitbucket.dev/policy/update
 *.synth-0207321.invalid/auth/mfa
 *.synth-0207322.invalid/auth/mfa
 *.synth-0207323.invalid/auth/mfa
-*.synth-0207324.invalid/auth/mfa
 *.synth-0207325.invalid/auth/mfa
 *.synth-0207326.invalid/auth/mfa
 *.synth-0207327.invalid/auth/mfa
@@ -9357,7 +9293,6 @@ video.bitbucket.dev/policy/update
 *.synth-0207418.invalid/auth/mfa
 *.synth-0207420.invalid/auth/mfa
 *.synth-0207421.invalid/auth/mfa
-*.synth-0207422.invalid/auth/mfa
 *.synth-0207423.invalid/auth/mfa
 *.synth-0207424.invalid/auth/mfa
 *.synth-0207425.invalid/auth/mfa
@@ -9990,7 +9925,6 @@ video.bitbucket.dev/policy/update
 *.synth-0208161.invalid/auth/mfa
 *.synth-0208162.invalid/auth/mfa
 *.synth-0208163.invalid/auth/mfa
-*.synth-0208164.invalid/auth/mfa
 *.synth-0208165.invalid/auth/mfa
 *.synth-0208166.invalid/auth/mfa
 *.synth-0208167.invalid/auth/mfa
@@ -10029,7 +9963,6 @@ video.bitbucket.dev/policy/update
 *.synth-0208206.invalid/auth/mfa
 *.synth-0208209.invalid/auth/mfa
 *.synth-0208210.invalid/auth/mfa
-*.synth-0208211.invalid/auth/mfa
 *.synth-0208212.invalid/auth/mfa
 *.synth-0208213.invalid/auth/mfa
 *.synth-0208215.invalid/auth/mfa
@@ -10120,7 +10053,6 @@ video.bitbucket.dev/policy/update
 *.synth-0208317.invalid/auth/mfa
 *.synth-0208318.invalid/auth/mfa
 *.synth-0208320.invalid/auth/mfa
-*.synth-0208321.invalid/auth/mfa
 *.synth-0208322.invalid/auth/mfa
 *.synth-0208323.invalid/auth/mfa
 *.synth-0208324.invalid/auth/mfa
@@ -10208,7 +10140,6 @@ video.bitbucket.dev/policy/update
 *.synth-0208422.invalid/auth/mfa
 *.synth-0208423.invalid/auth/mfa
 *.synth-0208424.invalid/auth/mfa
-*.synth-0208426.invalid/auth/mfa
 *.synth-0208427.invalid/auth/mfa
 *.synth-0208428.invalid/auth/mfa
 *.synth-0208429.invalid/auth/mfa
@@ -10342,7 +10273,6 @@ video.bitbucket.dev/policy/update
 *.synth-0208571.invalid/auth/mfa
 *.synth-0208572.invalid/auth/mfa
 *.synth-0208573.invalid/auth/mfa
-*.synth-0208575.invalid/auth/mfa
 *.synth-0208577.invalid/auth/mfa
 *.synth-0208580.invalid/auth/mfa
 *.synth-0208582.invalid/auth/mfa
@@ -10398,7 +10328,6 @@ video.bitbucket.dev/policy/update
 *.synth-0208647.invalid/auth/mfa
 *.synth-0208648.invalid/auth/mfa
 *.synth-0208649.invalid/auth/mfa
-*.synth-0208650.invalid/auth/mfa
 *.synth-0208652.invalid/auth/mfa
 *.synth-0208653.invalid/auth/mfa
 *.synth-0208654.invalid/auth/mfa
@@ -10445,7 +10374,6 @@ video.bitbucket.dev/policy/update
 *.synth-0208708.invalid/auth/mfa
 *.synth-0208709.invalid/auth/mfa
 *.synth-0208710.invalid/auth/mfa
-*.synth-0208711.invalid/auth/mfa
 *.synth-0208712.invalid/auth/mfa
 *.synth-0208713.invalid/auth/mfa
 *.synth-0208714.invalid/auth/mfa
@@ -10605,7 +10533,6 @@ video.bitbucket.dev/policy/update
 *.synth-0208907.invalid/auth/mfa
 *.synth-0208910.invalid/auth/mfa
 *.synth-0208911.invalid/auth/mfa
-*.synth-0208913.invalid/auth/mfa
 *.synth-0208914.invalid/auth/mfa
 *.synth-0208915.invalid/auth/mfa
 *.synth-0208916.invalid/auth/mfa
@@ -10726,7 +10653,6 @@ video.bitbucket.dev/policy/update
 *.synth-0209059.invalid/auth/mfa
 *.synth-0209060.invalid/auth/mfa
 *.synth-0209061.invalid/auth/mfa
-*.synth-0209062.invalid/auth/mfa
 *.synth-0209064.invalid/auth/mfa
 *.synth-0209065.invalid/auth/mfa
 *.synth-0209066.invalid/auth/mfa
@@ -10770,7 +10696,6 @@ video.bitbucket.dev/policy/update
 *.synth-0209107.invalid/auth/mfa
 *.synth-0209109.invalid/auth/mfa
 *.synth-0209110.invalid/auth/mfa
-*.synth-0209111.invalid/auth/mfa
 *.synth-0209113.invalid/auth/mfa
 *.synth-0209114.invalid/auth/mfa
 *.synth-0209116.invalid/auth/mfa
@@ -11431,7 +11356,6 @@ video.bitbucket.dev/policy/update
 *.synth-0209874.invalid/auth/mfa
 *.synth-0209875.invalid/auth/mfa
 *.synth-0209876.invalid/auth/mfa
-*.synth-0209877.invalid/auth/mfa
 *.synth-0209878.invalid/auth/mfa
 *.synth-0209879.invalid/auth/mfa
 *.synth-0209880.invalid/auth/mfa
@@ -11498,7 +11422,6 @@ video.bitbucket.dev/policy/update
 *.synth-0209950.invalid/auth/mfa
 *.synth-0209952.invalid/auth/mfa
 *.synth-0209953.invalid/auth/mfa
-*.synth-0209954.invalid/auth/mfa
 *.synth-0209955.invalid/auth/mfa
 *.synth-0209956.invalid/auth/mfa
 *.synth-0209957.invalid/auth/mfa
@@ -11532,7 +11455,6 @@ video.bitbucket.dev/policy/update
 *.synth-0209990.invalid/auth/mfa
 *.synth-0209992.invalid/auth/mfa
 *.synth-0209993.invalid/auth/mfa
-*.synth-0209994.invalid/auth/mfa
 *.synth-0209995.invalid/auth/mfa
 *.synth-0209996.invalid/auth/mfa
 *.synth-0209997.invalid/auth/mfa
@@ -11548,7 +11470,6 @@ video.bitbucket.dev/policy/update
 *.synth-0210008.invalid/auth/mfa
 *.synth-0210009.invalid/auth/mfa
 *.synth-0210011.invalid/auth/mfa
-*.synth-0210012.invalid/auth/mfa
 *.synth-0210013.invalid/auth/mfa
 *.synth-0210014.invalid/auth/mfa
 *.synth-0210015.invalid/auth/mfa
@@ -11560,7 +11481,6 @@ video.bitbucket.dev/policy/update
 *.synth-0210023.invalid/auth/mfa
 *.synth-0210024.invalid/auth/mfa
 *.synth-0210027.invalid/auth/mfa
-*.synth-0210028.invalid/auth/mfa
 *.synth-0210029.invalid/auth/mfa
 *.synth-0210030.invalid/auth/mfa
 *.synth-0210031.invalid/auth/mfa
@@ -11793,7 +11713,6 @@ video.bitbucket.dev/policy/update
 *.synth-0210304.invalid/auth/mfa
 *.synth-0210305.invalid/auth/mfa
 *.synth-0210306.invalid/auth/mfa
-*.synth-0210307.invalid/auth/mfa
 *.synth-0210308.invalid/auth/mfa
 *.synth-0210310.invalid/auth/mfa
 *.synth-0210311.invalid/auth/mfa
@@ -11859,7 +11778,6 @@ video.bitbucket.dev/policy/update
 *.synth-0210376.invalid/auth/mfa
 *.synth-0210377.invalid/auth/mfa
 *.synth-0210378.invalid/auth/mfa
-*.synth-0210379.invalid/auth/mfa
 *.synth-0210381.invalid/auth/mfa
 *.synth-0210382.invalid/auth/mfa
 *.synth-0210384.invalid/auth/mfa
@@ -11867,7 +11785,6 @@ video.bitbucket.dev/policy/update
 *.synth-0210387.invalid/auth/mfa
 *.synth-0210388.invalid/auth/mfa
 *.synth-0210389.invalid/auth/mfa
-*.synth-0210390.invalid/auth/mfa
 *.synth-0210391.invalid/auth/mfa
 *.synth-0210392.invalid/auth/mfa
 *.synth-0210393.invalid/auth/mfa
@@ -11924,7 +11841,6 @@ video.bitbucket.dev/policy/update
 *.synth-0210461.invalid/auth/mfa
 *.synth-0210462.invalid/auth/mfa
 *.synth-0210463.invalid/auth/mfa
-*.synth-0210464.invalid/auth/mfa
 *.synth-0210465.invalid/auth/mfa
 *.synth-0210466.invalid/auth/mfa
 *.synth-0210468.invalid/auth/mfa
@@ -11960,9 +11876,7 @@ video.bitbucket.dev/policy/update
 *.synth-0210506.invalid/auth/mfa
 *.synth-0210507.invalid/auth/mfa
 *.synth-0210509.invalid/auth/mfa
-*.synth-0210510.invalid/auth/mfa
 *.synth-0210511.invalid/auth/mfa
-*.synth-0210512.invalid/auth/mfa
 *.synth-0210513.invalid/auth/mfa
 *.synth-0210514.invalid/auth/mfa
 *.synth-0210515.invalid/auth/mfa
@@ -12111,7 +12025,6 @@ video.bitbucket.dev/policy/update
 *.synth-0210687.invalid/auth/mfa
 *.synth-0210688.invalid/auth/mfa
 *.synth-0210689.invalid/auth/mfa
-*.synth-0210690.invalid/auth/mfa
 *.synth-0210691.invalid/auth/mfa
 *.synth-0210692.invalid/auth/mfa
 *.synth-0210693.invalid/auth/mfa
@@ -12135,7 +12048,6 @@ video.bitbucket.dev/policy/update
 *.synth-0210714.invalid/auth/mfa
 *.synth-0210715.invalid/auth/mfa
 *.synth-0210716.invalid/auth/mfa
-*.synth-0210717.invalid/auth/mfa
 *.synth-0210718.invalid/auth/mfa
 *.synth-0210719.invalid/auth/mfa
 *.synth-0210720.invalid/auth/mfa
@@ -12211,7 +12123,6 @@ video.bitbucket.dev/policy/update
 *.synth-0210809.invalid/auth/mfa
 *.synth-0210810.invalid/auth/mfa
 *.synth-0210811.invalid/auth/mfa
-*.synth-0210812.invalid/auth/mfa
 *.synth-0210813.invalid/auth/mfa
 *.synth-0210814.invalid/auth/mfa
 *.synth-0210815.invalid/auth/mfa
@@ -12267,7 +12178,6 @@ video.bitbucket.dev/policy/update
 *.synth-0210879.invalid/auth/mfa
 *.synth-0210880.invalid/auth/mfa
 *.synth-0210881.invalid/auth/mfa
-*.synth-0210882.invalid/auth/mfa
 *.synth-0210883.invalid/auth/mfa
 *.synth-0210884.invalid/auth/mfa
 *.synth-0210885.invalid/auth/mfa
@@ -12386,7 +12296,6 @@ video.bitbucket.dev/policy/update
 *.synth-0211023.invalid/auth/mfa
 *.synth-0211024.invalid/auth/mfa
 *.synth-0211025.invalid/auth/mfa
-*.synth-0211027.invalid/auth/mfa
 *.synth-0211028.invalid/auth/mfa
 *.synth-0211029.invalid/auth/mfa
 *.synth-0211030.invalid/auth/mfa
@@ -12455,7 +12364,6 @@ video.bitbucket.dev/policy/update
 *.synth-0211114.invalid/auth/mfa
 *.synth-0211116.invalid/auth/mfa
 *.synth-0211117.invalid/auth/mfa
-*.synth-0211118.invalid/auth/mfa
 *.synth-0211119.invalid/auth/mfa
 *.synth-0211120.invalid/auth/mfa
 *.synth-0211121.invalid/auth/mfa
@@ -12804,7 +12712,6 @@ video.bitbucket.dev/policy/update
 *.synth-0211521.invalid/auth/mfa
 *.synth-0211522.invalid/auth/mfa
 *.synth-0211523.invalid/auth/mfa
-*.synth-0211524.invalid/auth/mfa
 *.synth-0211525.invalid/auth/mfa
 *.synth-0211527.invalid/auth/mfa
 *.synth-0211528.invalid/auth/mfa
@@ -12828,7 +12735,6 @@ video.bitbucket.dev/policy/update
 *.synth-0211550.invalid/auth/mfa
 *.synth-0211551.invalid/auth/mfa
 *.synth-0211552.invalid/auth/mfa
-*.synth-0211553.invalid/auth/mfa
 *.synth-0211554.invalid/auth/mfa
 *.synth-0211555.invalid/auth/mfa
 *.synth-0211556.invalid/auth/mfa
@@ -12941,7 +12847,6 @@ video.bitbucket.dev/policy/update
 *.synth-0211686.invalid/auth/mfa
 *.synth-0211687.invalid/auth/mfa
 *.synth-0211688.invalid/auth/mfa
-*.synth-0211691.invalid/auth/mfa
 *.synth-0211692.invalid/auth/mfa
 *.synth-0211693.invalid/auth/mfa
 *.synth-0211694.invalid/auth/mfa
@@ -12950,7 +12855,6 @@ video.bitbucket.dev/policy/update
 *.synth-0211702.invalid/auth/mfa
 *.synth-0211703.invalid/auth/mfa
 *.synth-0211704.invalid/auth/mfa
-*.synth-0211705.invalid/auth/mfa
 *.synth-0211706.invalid/auth/mfa
 *.synth-0211707.invalid/auth/mfa
 *.synth-0211708.invalid/auth/mfa
@@ -12992,7 +12896,6 @@ video.bitbucket.dev/policy/update
 *.synth-0211752.invalid/auth/mfa
 *.synth-0211753.invalid/auth/mfa
 *.synth-0211754.invalid/auth/mfa
-*.synth-0211755.invalid/auth/mfa
 *.synth-0211756.invalid/auth/mfa
 *.synth-0211757.invalid/auth/mfa
 *.synth-0211758.invalid/auth/mfa
@@ -13002,7 +12905,6 @@ video.bitbucket.dev/policy/update
 *.synth-0211762.invalid/auth/mfa
 *.synth-0211763.invalid/auth/mfa
 *.synth-0211764.invalid/auth/mfa
-*.synth-0211765.invalid/auth/mfa
 *.synth-0211766.invalid/auth/mfa
 *.synth-0211767.invalid/auth/mfa
 *.synth-0211768.invalid/auth/mfa
@@ -13043,7 +12945,6 @@ video.bitbucket.dev/policy/update
 *.synth-0211807.invalid/auth/mfa
 *.synth-0211809.invalid/auth/mfa
 *.synth-0211810.invalid/auth/mfa
-*.synth-0211811.invalid/auth/mfa
 *.synth-0211812.invalid/auth/mfa
 *.synth-0211814.invalid/auth/mfa
 *.synth-0211815.invalid/auth/mfa
@@ -13142,7 +13043,6 @@ video.bitbucket.dev/policy/update
 *.synth-0211924.invalid/auth/mfa
 *.synth-0211925.invalid/auth/mfa
 *.synth-0211927.invalid/auth/mfa
-*.synth-0211929.invalid/auth/mfa
 *.synth-0211930.invalid/auth/mfa
 *.synth-0211931.invalid/auth/mfa
 *.synth-0211932.invalid/auth/mfa
@@ -13249,7 +13149,6 @@ video.bitbucket.dev/policy/update
 *.synth-0212056.invalid/auth/mfa
 *.synth-0212057.invalid/auth/mfa
 *.synth-0212058.invalid/auth/mfa
-*.synth-0212059.invalid/auth/mfa
 *.synth-0212060.invalid/auth/mfa
 *.synth-0212061.invalid/auth/mfa
 *.synth-0212062.invalid/auth/mfa
@@ -13390,7 +13289,6 @@ video.bitbucket.dev/policy/update
 *.synth-0212231.invalid/auth/mfa
 *.synth-0212232.invalid/auth/mfa
 *.synth-0212233.invalid/auth/mfa
-*.synth-0212234.invalid/auth/mfa
 *.synth-0212235.invalid/auth/mfa
 *.synth-0212236.invalid/auth/mfa
 *.synth-0212237.invalid/auth/mfa
@@ -13479,7 +13377,6 @@ video.bitbucket.dev/policy/update
 *.synth-0212333.invalid/auth/mfa
 *.synth-0212334.invalid/auth/mfa
 *.synth-0212335.invalid/auth/mfa
-*.synth-0212337.invalid/auth/mfa
 *.synth-0212338.invalid/auth/mfa
 *.synth-0212339.invalid/auth/mfa
 *.synth-0212340.invalid/auth/mfa
@@ -13542,7 +13439,6 @@ video.bitbucket.dev/policy/update
 *.synth-0212407.invalid/auth/mfa
 *.synth-0212408.invalid/auth/mfa
 *.synth-0212409.invalid/auth/mfa
-*.synth-0212410.invalid/auth/mfa
 *.synth-0212411.invalid/auth/mfa
 *.synth-0212412.invalid/auth/mfa
 *.synth-0212413.invalid/auth/mfa
@@ -13828,7 +13724,6 @@ video.bitbucket.dev/policy/update
 *.synth-0212749.invalid/auth/mfa
 *.synth-0212751.invalid/auth/mfa
 *.synth-0212752.invalid/auth/mfa
-*.synth-0212753.invalid/auth/mfa
 *.synth-0212754.invalid/auth/mfa
 *.synth-0212755.invalid/auth/mfa
 *.synth-0212757.invalid/auth/mfa
@@ -14349,7 +14244,6 @@ video.bitbucket.dev/policy/update
 *.synth-0213376.invalid/auth/mfa
 *.synth-0213377.invalid/auth/mfa
 *.synth-0213378.invalid/auth/mfa
-*.synth-0213379.invalid/auth/mfa
 *.synth-0213380.invalid/auth/mfa
 *.synth-0213381.invalid/auth/mfa
 *.synth-0213382.invalid/auth/mfa
@@ -14398,7 +14292,6 @@ video.bitbucket.dev/policy/update
 *.synth-0213432.invalid/auth/mfa
 *.synth-0213433.invalid/auth/mfa
 *.synth-0213434.invalid/auth/mfa
-*.synth-0213436.invalid/auth/mfa
 *.synth-0213437.invalid/auth/mfa
 *.synth-0213438.invalid/auth/mfa
 *.synth-0213439.invalid/auth/mfa
@@ -14631,7 +14524,6 @@ video.bitbucket.dev/policy/update
 *.synth-0213707.invalid/auth/mfa
 *.synth-0213708.invalid/auth/mfa
 *.synth-0213709.invalid/auth/mfa
-*.synth-0213710.invalid/auth/mfa
 *.synth-0213711.invalid/auth/mfa
 *.synth-0213712.invalid/auth/mfa
 *.synth-0213713.invalid/auth/mfa
@@ -15012,7 +14904,6 @@ video.bitbucket.dev/policy/update
 *.synth-0214158.invalid/auth/mfa
 *.synth-0214159.invalid/auth/mfa
 *.synth-0214161.invalid/auth/mfa
-*.synth-0214162.invalid/auth/mfa
 *.synth-0214163.invalid/auth/mfa
 *.synth-0214164.invalid/auth/mfa
 *.synth-0214166.invalid/auth/mfa
@@ -15266,7 +15157,6 @@ video.bitbucket.dev/policy/update
 *.synth-0214460.invalid/auth/mfa
 *.synth-0214461.invalid/auth/mfa
 *.synth-0214462.invalid/auth/mfa
-*.synth-0214463.invalid/auth/mfa
 *.synth-0214464.invalid/auth/mfa
 *.synth-0214465.invalid/auth/mfa
 *.synth-0214466.invalid/auth/mfa
@@ -15368,7 +15258,6 @@ video.bitbucket.dev/policy/update
 *.synth-0214579.invalid/auth/mfa
 *.synth-0214580.invalid/auth/mfa
 *.synth-0214582.invalid/auth/mfa
-*.synth-0214583.invalid/auth/mfa
 *.synth-0214584.invalid/auth/mfa
 *.synth-0214585.invalid/auth/mfa
 *.synth-0214586.invalid/auth/mfa
@@ -15622,7 +15511,6 @@ video.bitbucket.dev/policy/update
 *.synth-0214883.invalid/auth/mfa
 *.synth-0214885.invalid/auth/mfa
 *.synth-0214886.invalid/auth/mfa
-*.synth-0214887.invalid/auth/mfa
 *.synth-0214888.invalid/auth/mfa
 *.synth-0214889.invalid/auth/mfa
 *.synth-0214890.invalid/auth/mfa
@@ -15665,7 +15553,6 @@ video.bitbucket.dev/policy/update
 *.synth-0214935.invalid/auth/mfa
 *.synth-0214936.invalid/auth/mfa
 *.synth-0214937.invalid/auth/mfa
-*.synth-0214938.invalid/auth/mfa
 *.synth-0214940.invalid/auth/mfa
 *.synth-0214941.invalid/auth/mfa
 *.synth-0214942.invalid/auth/mfa
@@ -15942,7 +15829,6 @@ video.bitbucket.dev/policy/update
 *.synth-0215250.invalid/auth/mfa
 *.synth-0215251.invalid/auth/mfa
 *.synth-0215252.invalid/auth/mfa
-*.synth-0215253.invalid/auth/mfa
 *.synth-0215254.invalid/auth/mfa
 *.synth-0215255.invalid/auth/mfa
 *.synth-0215257.invalid/auth/mfa
@@ -16118,7 +16004,6 @@ video.bitbucket.dev/policy/update
 *.synth-0215471.invalid/auth/mfa
 *.synth-0215473.invalid/auth/mfa
 *.synth-0215474.invalid/auth/mfa
-*.synth-0215475.invalid/auth/mfa
 *.synth-0215476.invalid/auth/mfa
 *.synth-0215478.invalid/auth/mfa
 *.synth-0215479.invalid/auth/mfa
@@ -16318,7 +16203,6 @@ video.bitbucket.dev/policy/update
 *.synth-0215702.invalid/auth/mfa
 *.synth-0215704.invalid/auth/mfa
 *.synth-0215705.invalid/auth/mfa
-*.synth-0215707.invalid/auth/mfa
 *.synth-0215708.invalid/auth/mfa
 *.synth-0215709.invalid/auth/mfa
 *.synth-0215710.invalid/auth/mfa
@@ -16333,7 +16217,6 @@ video.bitbucket.dev/policy/update
 *.synth-0215719.invalid/auth/mfa
 *.synth-0215720.invalid/auth/mfa
 *.synth-0215721.invalid/auth/mfa
-*.synth-0215722.invalid/auth/mfa
 *.synth-0215723.invalid/auth/mfa
 *.synth-0215724.invalid/auth/mfa
 *.synth-0215725.invalid/auth/mfa
@@ -16586,7 +16469,6 @@ video.bitbucket.dev/policy/update
 *.synth-0216022.invalid/auth/mfa
 *.synth-0216023.invalid/auth/mfa
 *.synth-0216024.invalid/auth/mfa
-*.synth-0216025.invalid/auth/mfa
 *.synth-0216026.invalid/auth/mfa
 *.synth-0216027.invalid/auth/mfa
 *.synth-0216028.invalid/auth/mfa
@@ -17528,7 +17410,6 @@ datadog.online/rpc
 sentinelone.nz/signout
 find.elastic.il/logout
 static.tautech.com/notify
-opsgenie.gov/transforms/
 shieldnet.security/api/v2/
 ns1.sigmasystems.app/healthz
 sso.guardnet.dk/rpc
@@ -17679,7 +17560,6 @@ kb.salesforce.ro/static/js/app.min.js
 test.cyberdefend.org/oauth/token
 sso.centurylink.com/update/install
 oracle.com/content/
-databridge.tr/metrics
 secure.etabridge.se/api/v1/auth
 facebook.co/reputation
 netguard.com/oauth/token
@@ -17713,7 +17593,6 @@ pitech.com/sso
 ml.omegaprotect.nl/worker
 kappatech.net/api/v3/analytics
 cyberark.net/notify
-monitor.rackspace.be/attachments/
 mysql.group/portal/tokens
 akamai.org/content/
 sentrilink.net/media/
@@ -18011,7 +17890,6 @@ watchgate.dk/api/v1/sessions
 analytics.securelink.digital/search
 build.sumologic.org/oauth/token
 feed.sentinelone.com/live
-extranet.grafana.org/worker
 intel.bd/update/manifest
 barriertech.com/import
 broadcast.sigmasystems.ng/blocklist
@@ -18109,7 +17987,6 @@ lambdacloud.nl/graphql
 collect.netflix.fr/job
 search.slack.org/batch
 xinet.hu/portal/profile
-*.community.lumen.tw/sso
 git.bitbucket.com/queue
 ns1.apexsystems.com/assets/fonts/inter.woff2
 shieldnet.net/api/v2/
@@ -18535,7 +18412,6 @@ splunk.online/api/v2/
 pull.twilio.co/enroll
 intranetpro.com/export
 splunk.de/update/install
-ci.safesurf.com/static/images/logo.png
 pay.heroku.com/attachments/
 patch.sap.com/ping
 search.checkpoint.co/callback
@@ -18891,7 +18767,6 @@ samsung.org:4443/update/check
 account.google.net/config/update
 sentrilink.solutions/v1/telemetry
 us-west.zscaler.com/threat/feed
-manage.barriertech.de/ping
 storage.threatblock.se/stats
 location.infinitytech.nz/api/v2/data
 metrics.alphatech.com/docs/reference
@@ -18915,7 +18790,6 @@ kafka.pt/batch
 techsolutions.com/admin/
 pagerduty.io/notify
 rabbitmq.au/logout
-apple.com/portal/billing
 spectrum.es/static/images/logo.png
 digitalocean.it/signout
 cassandra.hu/stats
@@ -19166,7 +19040,6 @@ twilio.com/live
 xfinity.dev/api/v1/
 cdn.apple.com/download/installer
 okta.com/healthz
-admin.slack.io/admin/dashboard
 omegaprotect.net/media/
 privacyshield.com/oauth/revoke
 akamai.com/cdn/release/latest/manifest.json
@@ -19314,7 +19187,6 @@ affiliate.vercel.za:4443/status
 mx.cloudflare.tz/reports/
 update.dell.com/health
 backup.kafka.tz/threat/feed
-cd.etabridge.at/api/v1/
 slack.tech/export
 sigmacloud.ke/api/v2/data
 subscription.redis.co/ca/cert
@@ -19325,7 +19197,6 @@ help.pulsar.org/api/v1/auth
 dell.io/health
 push.postgres.com/v1/telemetry
 store.paloaltonetworks.br/find
-broadcast.primesystems.online/login
 checkout.xfinity.io/api/v1/users
 xinet.org/crl
 bastiontech.ar/admin/dashboard
@@ -19414,7 +19285,6 @@ xfinity.net/assets/fonts/inter.woff2
 payments.ansible.nz/root/cert
 support.sentrilink.co/admin/
 primesystems.net/provision
-facebook.com/docs/changelog
 *.sigmasystems.security/v1/telemetry
 console.nexustech.co/portal/billing
 backup.nexustech.tw/media/
@@ -19536,7 +19406,6 @@ guardnet.cn/update/check
 login.beyondtrust.org/api/v3/analytics
 sony.com/cron
 affiliate.ansible.com/stats
-nats.org/search
 archive.safesurf.tech/realtime
 comcast.tr/ready
 download.betanet.com/portal/home
@@ -20015,7 +19884,6 @@ assets.cylance.tw/lookup
 postgres.co/api/v1/auth
 web.betanet.io/ca/cert
 bitbucket.io/status
-stripe.net/graphql
 google.enterprise/v1/telemetry
 psitech.eg/threat/feed
 release.tmobile.gh/files/
@@ -20033,7 +19901,6 @@ ad.opsgenie.be/validate
 images.duo.app/download/agent
 psitech.ve/auth/oidc/callback
 netbridge.es/v1/ip/reputation
-support.redis.ru/webhook
 pulsar.nl/docs/api
 beyondtrust.org/websocket
 *.linkedin.global/enroll
@@ -20068,7 +19935,6 @@ shopify.kr/api/v1/accounts
 ssl.duo.net/exports/
 login.newrelic.tr/stats
 netprotect.gh/ocsp
-fencewall.com/threat/indicators
 cyberdefend.com/check
 duo.ro/update/manifest
 lambdacloud.gh/threat/feed
@@ -20240,7 +20106,6 @@ rss.att.net/admin/dashboard
 intranet.paloaltonetworks.ch/v2/url/check
 datadog.bd/reputation
 okta.fr/portal/tokens
-twilio.co/metrics
 blob.cloudbridge.net/portal/home
 att.com/reports/
 intranet.privacyshield.cz/docs/reference
@@ -20313,7 +20178,6 @@ internal.activemq.ch/query
 accenture.com/threat/feed
 docs.muprotect.ng/scan
 cloudflare.ng/cron
-storage.nats.group/signin
 apple.net/api/v2/reports
 events.grafana.co/scan
 cloudflare.net/export
@@ -20487,7 +20351,6 @@ palantir.com/download/certificate
 inference.sentinelone.systems/metrics
 netguard.no/logout
 sentrilink.net/find
-digitalocean.com/queue
 backup.sentrycloud.com/cdn/release/latest/manifest.json
 kb.cloudflare.net/find
 download.alphatech.net/ping
@@ -20671,7 +20534,6 @@ prod.netlify.kr/query
 vultr.business/portal/tokens
 puppet.com/batch
 fencewall.com/intermediate/cert
-help.carbonblack.ng/provision
 central.beyondtrust.tw/content/
 docs.sigmacloud.tz/graphql
 zscaler.org/allowlist
@@ -20987,7 +20849,6 @@ elastic.tz/ca/cert
 auth.comcast.com/bootstrap
 backup.safesurf.no/blocklist
 sigmasystems.io/api/v3/collect
-newrelic.com/api/v1/sessions
 intranet.sumologic.net/allowlist
 sentinelone.ae/attachments/
 mariadb.de/api/v1/accounts
@@ -21497,3 +21358,125 @@ ip.cloudflare.mx/docs/guide
 manage.quantumnet.com/auth/saml/callback
 tmobile.de/import
 sumologic.services:9090/portal/tokens
+upsilonnet.com/enroll
+fencewall.tw/download/installer
+elastic.net/crl
+azure.net/config
+psitech.org/reports/
+bitbucket.net:8080/job
+vpn.slack.cn/update/check
+support.digitalocean.ar/logout
+feed.datadog.ru/docs/guide
+netlify.pl/check
+bulwarkcloud.kr/notify
+charter.co/import
+omegaprotect.gov/crl
+prod.phisystems.org/files/
+stream.zoom.org/v2/url/check
+nvidia.com/graphql
+shop.slack.net/batch
+smtp.terraform.com/download/agent
+cox.ke/sse
+insight.mongodb.net/v1/ip/reputation
+opsgenie.io/portal/tokens
+terraform.sa/signout
+dashboard.mysql.tw/admin/dashboard
+mysql.com/allowlist
+geo.barriertech.ng/update/install
+south.netflix.net/attachments/
+beacon.sentinelone.net/docs/changelog
+*.map.securelink.ro/download/agent
+invoice.stripe.net:8443/download/certificate
+monitor.activemq.com/sso
+fortressnet.org/imports/
+confluence.group/transforms/
+azure.sa/portal/profile
+install.checkpoint.com/static/images/logo.png
+rss.fastly.com/ca/cert
+north.sigmacloud.com/api/v2/data
+control.slack.dk/status
+portal.azure.at/docs/guide
+gateway.xfinity.net/threat/feed
+community.rampartnet.co/health
+cox.net/analytics/event
+cd.phisystems.hk/verify
+metrics.sumologic.solutions/logout
+netflix.enterprise/import
+github.il/api/v3/collect
+crowdstrike.com/v3/domain/lookup
+centurylink.kr/queue
+billing.samsung.net/worker
+sentrycloud.net/imports/
+privacyshield.net/v1/telemetry
+pay.betanet.org/policy/update
+microsoft.sg/signin
+kb.opsgenie.mx/update/manifest
+privacyshield.io/queue
+infinitytech.pt/docs/api
+help.omegaprotect.com/api/v3/collect
+deltasec.at/reports/
+tmobile.io/update/check
+jira.com/worker
+uber.br/media/
+profile.slack.enterprise/content/
+splunk.group/portal/profile
+guardnet.services/import
+inference.fencewall.no/static/css/main.min.css
+checkpoint.cl/v1/telemetry
+globalnet.com/download/agent
+index.tmobile.at/config
+kb.palantir.co.uk/admin/dashboard
+oracle.io/signout
+prod.nvidia.com/provision
+azure.com/sso
+data.alphatech.co.uk/media/
+palantir.org/api/v1/users
+stream.netprotect.net/v3/domain/lookup
+fencewall.com/healthz
+crowdstrike.se/import
+mx.microsoft.digital/validate
+fortinet.net/check
+video.omegaprotect.es:8080/media/
+model.charter.dev/api/v1/sessions
+threatblock.nl/v1/ip/reputation
+terraform.nz/oauth/authorize
+uat.shieldnet.org/batch
+storage.nats.tr/download
+rampartnet.network/task
+bitbucket.com/imports/
+etabridge.dev/upload
+dell.be/imports/
+video.okta.io/docs/api
+lambdacloud.com/import
+mysql.com/query
+pixel.lumen.za:8888/worker
+cdn.terraform.de/graphql
+gammacloud.edu/auth/saml/callback
+subscription.mongodb.za/attachments/
+zoom.network/bootstrap
+mx.netbridge.com/v3/domain/lookup
+ci.barriertech.com/queue
+betanet.mx/signout
+llm.redis.security/analytics/collect
+meeting.facebook.io/static/css/main.min.css
+extranet.microsoft.fr/batch
+elastic.fi/realtime
+analytics.uber.pk/crl
+store.intel.com/hook
+nats.online/admin/settings
+thycotic.co.uk/query
+sso.okta.org/api/v1/users
+beacon.intel.business/metrics
+databridge.co.uk/v2/events/batch
+mx.infinitytech.co/logout
+test.vultr.co/api/v3/telemetry
+payments.sigmacloud.net:9443/reputation
+upsilonnet.net/batch
+betanet.com/attachments/
+extranet.sentrycloud.nz/imports/
+jenkins.app/task
+maxcdn.nl/api/v2/data
+twilio.io/bootstrap
+ap-northeast.vultr.in/auth/oidc/callback
+dashboard.sigmasystems.org/attachments/
+checkout.dell.com/upload
