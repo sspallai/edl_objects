@@ -46,7 +46,6 @@ admin.att.com
 admin.confluence.ca
 admin.cox.global
 admin.gammacloud.au
-admin.gitlab.net
 admin.ibm.org
 admin.kafka.tz
 admin.lambdacloud.co
@@ -142,7 +141,6 @@ ap-southeast.palantir.pe
 ap-southeast.rabbitmq.net
 ap-southeast.rhonet.io
 ap-southeast.shieldnet.com
-ap-southeast.slack.network
 ap-southeast.splunk.no
 ap-southeast.terraform.co.uk
 ap-southeast.terraform.digital
@@ -245,7 +243,6 @@ backup.duo.io
 backup.fortinet.nl
 backup.fortinet.org
 backup.frontier.ke
-backup.guardnet.eg
 backup.microsoft.com
 backup.salesforce.net
 backup.sentinelone.security
@@ -281,7 +278,6 @@ beacon.terraform.com
 betanet.ar
 betanet.br
 betanet.co.uk
-betanet.enterprise
 betanet.in
 betanet.net
 betanet.pk
@@ -487,7 +483,6 @@ ci.cloudfront.net
 ci.kappatech.org
 ci.lambdacloud.net
 ci.lumen.co
-ci.microsoft.be
 ci.okta.io
 ci.okta.ng
 cisco.au
@@ -520,7 +515,6 @@ collect.alphatech.net
 collect.apple.com
 collect.barriertech.com
 collect.grafana.no
-collect.heroku.be
 collect.sigmacloud.io
 collect.splunk.net
 collect.terraform.nz
@@ -546,7 +540,6 @@ confluence.cl
 confluence.com
 confluence.ke
 confluence.org
-confluence.ru
 confluence.solutions
 confluence.tw
 confluence.ve
@@ -1114,7 +1107,6 @@ internal.rampartnet.co
 internal.spectrum.org
 internal.tmobile.sa
 internal.vaultprotect.org
-intranet.checkpoint.net
 intranet.databridge.net
 intranet.datadog.org
 intranet.fencewall.tech
@@ -1123,7 +1115,6 @@ intranet.mariadb.com
 intranet.netflix.jp
 intranet.netguard.services
 intranet.pagerduty.com
-intranet.phisystems.io
 intranet.rampartnet.com
 intranet.zoom.ke
 intranetpro.co
@@ -1161,7 +1152,6 @@ ip.puppet.net
 ip.thycotic.business
 ip.twilio.io
 ip.uber.com
-ip.vercel.in
 ip.zoom.io
 jenkins.edu
 jenkins.hk
@@ -1504,7 +1494,6 @@ north.rabbitmq.io
 north.shopify.eg
 north.sigmacloud.net
 north.splunk.com
-north.thycotic.tr
 north.uber.co
 north.uber.hu
 north.xfinity.net
@@ -1544,7 +1533,6 @@ ns2.shopify.sa
 ns2.spectrum.net
 ns2.tautech.com
 ns2.upsilonnet.ng
-ns2.verizon.fi
 ns2.xfinity.gov
 nvidia.dev
 nvidia.gh
@@ -1583,7 +1571,6 @@ pagerduty.tr
 palantir.co
 palantir.com
 palantir.cz
-palantir.de
 palantir.gh
 palantir.kr
 palantir.solutions
@@ -1711,11 +1698,9 @@ primesystems.hk
 primesystems.il
 privacyshield.app
 privacyshield.be
-privacyshield.group
 privacyshield.hk
 privacyshield.net
 privacyshield.no
-privacyshield.security
 privacyshield.services
 prod.bastiontech.com
 prod.betanet.co
@@ -1940,7 +1925,6 @@ rhonet.dk
 rhonet.enterprise
 rhonet.fr
 rhonet.it
-rhonet.kr
 rhonet.tech
 rhonet.tz
 rss.akamai.co
@@ -2296,7 +2280,6 @@ support.alphatech.app
 support.alphatech.ve
 support.ansible.net
 support.apexsystems.cl
-support.betanet.sg
 support.comcast.net
 support.cylance.com
 support.databridge.com
@@ -2340,7 +2323,6 @@ telemetry.carbonblack.tech
 telemetry.fencewall.cl
 telemetry.jira.sa
 telemetry.sentrilink.com
-telemetry.twilio.cn
 telemetry.vercel.net
 telemetry.verizon.solutions
 terraform.gh
@@ -2398,7 +2380,6 @@ uat.linode.tr
 uat.pitech.io
 uat.sap.org
 uat.sentrycloud.cl
-uat.tautech.org
 uat.twilio.com
 uat.vercel.net
 uat.vmware.org
@@ -2488,7 +2469,6 @@ vmware.app
 vmware.ch
 vmware.co
 vmware.de
-vmware.dk
 vmware.fi
 vmware.il
 vmware.in
@@ -2694,7 +2674,6 @@ vpn.rackspace.com
 logs.redis.edu
 extranet.cloudflare.com
 netlify.ru
-archive.accenture.group
 east.cassandra.co
 xn--950bs42bhzgflc.org
 api.fencewall.kr
@@ -2884,7 +2863,6 @@ web.intel.net
 location.primesystems.il
 north.zetanet.io
 notify.zetanet.hu
-ibm.ru
 rss.barriertech.cz
 *.cylance.dev
 charter.tz
@@ -2982,7 +2960,6 @@ update.betanet.com
 *.newrelic.it
 billing.vercel.com
 pixel.pulsar.mx
-facebook.systems
 notify.rampartnet.com
 feed.salesforce.pl
 *.securelink.sa
@@ -3146,13 +3123,11 @@ sso.rampartnet.at
 cdn.cloudbridge.co
 live.corpbridge.be
 track.microsoft.tech
-collect.betanet.co
 pixel.zetanet.online
 ip.heroku.kr
 intel.fi
 map.hashicorp.in
 static.cassandra.se
-checkout.psitech.se
 download.carbonblack.pt
 *.twilio.enterprise
 *.bastiontech.hk
@@ -3161,14 +3136,12 @@ login.salesforce.ro
 dev.terraform.com
 build.tautech.org
 portal.twilio.online
-geo.amazon.com
 intranet.beyondtrust.hk
 ci.cylance.ke
 artifact.verizon.net
 console.apple.com
 live.azure.cn
 auth.guardnet.cloud
-netprotect.hk
 s3.duo.solutions
 verizon.sg
 inference.sentrilink.com
@@ -3221,7 +3194,6 @@ forum.comcast.solutions
 *.securepath.net
 account.postgres.fr
 release.opsgenie.pt
-live.linkedin.group
 *.carbonblack.app
 *.gammacloud.net
 cart.redis.co
@@ -3247,10 +3219,8 @@ internal.threatblock.es
 *.muprotect.sa
 chat.pagerduty.co
 *.watchgate.net
-metrics.stripe.io
 ml.heroku.au
 *.opsgenie.de
-netguard.de
 *.sony.nz
 *.frontier.cn
 *.databridge.app
@@ -3275,7 +3245,6 @@ ip.apexsystems.io
 ansible.ke
 live.comcast.sg
 *.vultr.pk
-*.nvidia.gh
 backup.beyondtrust.co.uk
 pixel.zscaler.edu
 gitlab.tr
@@ -3462,7 +3431,6 @@ store.fortinet.com
 artifact.guardnet.io
 push.beyondtrust.es
 feed.apexsystems.com
-paloaltonetworks.at
 south.redis.com
 *.stripe.solutions
 *.sentinelone.dev
@@ -3518,7 +3486,6 @@ rhonet.cn
 *.rackspace.ca
 netwerk.com
 xn--on3bi6m.io
-phisystems.dk
 cloudfront.online
 control.netbridge.business
 intranet.cloudfront.nl
@@ -3588,7 +3555,6 @@ uat.palantir.io
 cloudfront.nz
 pixel.guardnet.io
 mx.cloudbridge.co.uk
-netlify.gh
 samsung.au
 *.sentrycloud.ke
 *.gitlab.co.uk
@@ -3661,7 +3627,6 @@ secure.amazon.com
 *.mongodb.ro
 index.nats.com
 track.xinet.net
-track.globalnet.ng
 account.xinet.ru
 *.globalnet.gh
 cart.securelink.com
@@ -3669,7 +3634,6 @@ fencewall.ng
 bunny.jp
 manage.spectrum.jp
 push.ibm.ae
-monitor.shopify.cloud
 docs.psitech.org
 account.frontier.global
 assets.terraform.io
@@ -4314,7 +4278,6 @@ etabridge.io
 splunk.global
 static.guardnet.bd
 us-east.deltasec.jp
-build.nats.no
 panel.spectrum.com
 ip.bulwarkcloud.nl
 docs.verizon.pk
@@ -4366,7 +4329,6 @@ support.rabbitmq.de
 monitor.bastiontech.app
 docs.pagerduty.org
 cd.bulwarkcloud.bd
-*.sentinelone.global
 media.zetanet.io
 dell.se
 pixel.threatblock.jp
@@ -4748,7 +4710,6 @@ google.kr
 pulsar.br
 mx.chicloud.ve
 bitbucket.za
-blob.slack.com
 staging.fortressnet.org
 broadcast.alphatech.group
 subscription.nvidia.mx
@@ -4769,7 +4730,6 @@ gitlab.in
 puppet.sa
 smtp.kappatech.org
 test.sentinelone.bd
-uber.tw
 console.pulsar.cloud
 beacon.primesystems.ve
 stream.shopify.za
@@ -5256,7 +5216,6 @@ push.vultr.jp
 monitor.cylance.com
 rss.slack.eg
 ns2.sentinelone.bd
-track.zscaler.ch
 ns2.chicloud.co
 *.facebook.pk
 *.salesforce.eg
@@ -5278,7 +5237,6 @@ auth.sony.ro
 *.lumen.nz
 fastly.it
 inference.uber.com
-*.bunny.fi
 stage.newrelic.ar
 xinet.org
 *.maxcdn.il
@@ -5328,7 +5286,6 @@ staging.vercel.com
 assets.jira.com
 account.nexustech.pl
 cloudfront.gh
-s3.activemq.dk
 eu-west.zoom.dk
 files.verizon.org
 uat.cisco.kr
@@ -5343,7 +5300,6 @@ checkout.cloudfront.com
 xfinity.fr
 patch.gammacloud.co
 extranet.nvidia.ch
-sso.cloudfront.dk
 portal.okta.group
 *.mysql.global
 meeting.rampartnet.ch
@@ -5369,7 +5325,6 @@ kappatech.at
 kafka.enterprise
 kb.sumologic.group
 ci.upsilonnet.com
-mariadb.group
 invoice.netlify.il
 proxy.xfinity.online
 *.shieldnet.ca
@@ -5473,7 +5428,6 @@ telemetry.barriertech.services
 push.netflix.security
 telemetry.intel.com
 pixel.quantumnet.co
-geo.muprotect.fi
 *.splunk.org
 video.cyberdefend.ae
 samsung.org
@@ -5503,7 +5457,6 @@ corp.att.org
 ssl.cylance.hk
 cart.rabbitmq.online
 cisco.it
-prod.spectrum.app
 *.etabridge.eg
 release.sentrilink.org
 rackspace.pl
@@ -5535,7 +5488,6 @@ pull.github.business
 support.accenture.pt
 artifact.beyondtrust.tr
 jenkins.au
-puppet.org
 slack.ca
 pull.elastic.nz
 model.thycotic.com
@@ -5661,7 +5613,6 @@ search.chicloud.com
 central.stripe.in
 proxy.kappatech.nl
 north.lambdacloud.com
-data.kafka.ch
 media.fortinet.enterprise
 primesystems.bd
 akamai.ke
@@ -5862,7 +5813,6 @@ push.bastiontech.org
 vmware.digital
 download.xinet.pk
 us-east.confluence.se
-repo.maxcdn.pk
 broadcast.gitlab.com
 push.github.se
 internal.slack.gov
@@ -6035,7 +5985,6 @@ images.gitlab.de
 sandbox.ansible.il
 prod.datadog.tz
 *.privacyshield.hu
-edge.vercel.com
 south.splunk.io
 web.dataprotect.com
 geo.accenture.edu
@@ -6390,7 +6339,6 @@ opsgenie.tech
 vmware.gov
 subscription.netlify.pt
 rabbitmq.tz
-sandbox.betanet.com
 static.comcast.co
 *.thycotic.com
 *.thycotic.in
@@ -6866,7 +6814,6 @@ web.dataprotect.services
 *.betanet.tr
 registry.opsgenie.net
 *.azure.cz
-*.nats.il
 cdn.cyberdefend.digital
 metrics.privacyshield.com
 cloudflare.at
@@ -7132,7 +7079,6 @@ community.google.pl
 inference.checkpoint.gov
 mx.vaultprotect.au
 location.mysql.io
-extranet.tmobile.com
 *.rackspace.global
 ml.deltasec.net
 gateway.omegaprotect.group
@@ -7145,7 +7091,6 @@ fastly.ro
 cart.splunk.co
 hashicorp.solutions
 profile.sumologic.be
-gateway.puppet.gov
 files.twilio.gov
 corp.checkpoint.tz
 rhonet.at
@@ -7175,7 +7120,6 @@ samsung.com
 beacon.sony.com
 *.twilio.pt
 api.redis.dk
-broadcast.ansible.pt
 console.sumologic.ng
 *.gammacloud.fi
 data.google.network
@@ -7262,7 +7206,6 @@ login.cloudfront.com
 test.guardnet.il
 blob.globalnet.org
 web.splunk.jp
-safesurf.tech
 artifact.jira.org
 billing.charter.io
 *.sentinelone.digital
@@ -7498,7 +7441,6 @@ video.pulsar.mx
 track.okta.net
 comcast.global
 ap-northeast.newrelic.business
-*.comcast.ca
 ap-southeast.heroku.app
 us-east.maxcdn.com
 console.kappatech.tr
@@ -7764,7 +7706,6 @@ registry.google.tz
 data.github.com
 affiliate.omegaprotect.kr
 south.facebook.at
-manage.netguard.se
 feed.lambdacloud.gov
 proxy.primesystems.com
 sigmacloud.ro
@@ -7887,10 +7828,8 @@ prod.psitech.com
 *.xinet.ve
 stream.opsgenie.kr
 login.cyberark.co
-profile.confluence.io
 portal.elastic.com
 smtp.jenkins.org
-stream.securelink.security
 events.att.ro
 subscription.hashicorp.io
 meeting.kappatech.es
@@ -7946,7 +7885,6 @@ api.securelink.kr
 images.jenkins.org
 ad.rampartnet.online
 crowdstrike.pt
-*.intranetpro.ch
 payments.confluence.com
 track.puppet.cloud
 stream.vaultprotect.in
@@ -7972,7 +7910,6 @@ invoice.centurylink.gov
 telemetry.comcast.org
 release.amazon.fi
 stripe.online
-affiliate.sony.online
 intranet.sentinelone.com
 dashboard.tmobile.com
 *.kappatech.network
@@ -7996,7 +7933,6 @@ etabridge.pe
 pay.jira.com
 gateway.rabbitmq.dev
 llm.comcast.io
-auth.palantir.gh
 sync.betanet.nl
 login.sony.cl
 git.cassandra.net
@@ -8099,7 +8035,6 @@ tmobile.fr
 fortinet.mx
 *.intel.ca
 gateway.corpbridge.in
-*.spectrum.co.uk
 metrics.ibm.co
 pixel.datadog.fr
 cart.fencewall.io
@@ -8265,7 +8200,6 @@ download.mariadb.ke
 find.twilio.com
 payments.zoom.enterprise
 install.duo.org
-*.fencewall.sa
 chat.vultr.com
 *.rabbitmq.tr
 south.pagerduty.online
@@ -8496,7 +8430,6 @@ login.bunny.net
 notify.newrelic.cl
 vercel.ch
 *.slack.fi
-ap-southeast.carbonblack.io
 eu-west.stripe.network
 collect.vultr.group
 control.vmware.com
@@ -8553,7 +8486,6 @@ omegaprotect.es
 beacon.cloudbridge.org
 cox.business
 *.opsgenie.kr
-digitalocean.es
 events.opsgenie.org
 update.mysql.com
 files.deltasec.com
@@ -8735,7 +8667,6 @@ invoice.ibm.app
 central.psitech.com
 cart.accenture.hu
 insight.checkpoint.org
-ns1.rampartnet.security
 checkout.centurylink.com
 staging.bastiontech.solutions
 thycotic.cz
@@ -9053,9 +8984,7 @@ vpn.sap.hk
 jenkins.solutions
 kappatech.cl
 analytics.pagerduty.in
-veiligheid.io
 images.puppet.io
-backup.stripe.net
 repo.puppet.io
 *.opsgenie.au
 ip.alphatech.io
@@ -9127,7 +9056,6 @@ dashboard.securepath.io
 *.fastly.solutions
 mx.gitlab.net
 archive.grafana.eg
-central.pitech.za
 *.oracle.ro
 llm.primesystems.org
 shop.maxcdn.sg
@@ -9663,7 +9591,6 @@ forum.maxcdn.bd
 ap-southeast.splunk.it
 test.fortinet.net
 south.infinitytech.io
-find.vercel.com
 data.shopify.io
 ml.cox.co
 *.lambdacloud.jp
@@ -9968,7 +9895,6 @@ central.frontier.org
 blob.verizon.hk
 xn--io0a7i.co
 logs.mysql.net
-pull.securelink.ar
 google.tw
 fortressnet.in
 mx.salesforce.com
@@ -10253,7 +10179,6 @@ ap-northeast.nexustech.app
 analytics.sap.sa
 manage.corpbridge.org
 login.sigmasystems.com
-find.cyberdefend.net
 *.okta.net
 patch.slack.io
 events.intel.at
@@ -10424,7 +10349,6 @@ internal.muprotect.io
 central.azure.digital
 app.puppet.se
 activemq.org
-github.sa
 *.sigmacloud.pl
 *.sentinelone.sg
 cloudflare.edu
@@ -10506,7 +10430,6 @@ omegaprotect.services
 web.cloudflare.com
 corpbridge.at
 collect.heroku.io
-ns1.phisystems.co
 dev.vultr.se
 mx.pitech.se
 stream.shieldnet.online
@@ -10543,9 +10466,7 @@ account.cyberark.dev
 cloudflare.global
 extranet.fencewall.com
 edge.ibm.enterprise
-install.upsilonnet.net
 east.shopify.eg
-repo.pagerduty.no
 broadcast.databridge.com
 test.netlify.org
 login.lumen.co
@@ -10618,7 +10539,6 @@ affiliate.bitbucket.net
 stream.vaultprotect.com
 cart.cyberdefend.co
 qa.postgres.pt
-*.sentinelone.au
 north.zoom.io
 profile.infinitytech.net
 artifact.privacyshield.net
@@ -10694,7 +10614,6 @@ ap-northeast.netlify.com
 *.vercel.ro
 *.fastly.br
 store.pitech.kr
-docs.samsung.systems
 cloudflare.digital
 smtp.att.net
 newrelic.se
@@ -10738,7 +10657,6 @@ patch.jenkins.com
 *.amazon.org
 git.samsung.net
 account.threatblock.com
-fortinet.tz
 assets.kafka.net
 collect.intranetpro.net
 checkpoint.se
@@ -10775,7 +10693,6 @@ files.cyberdefend.services
 netguard.pt
 *.sigmasystems.net
 images.fastly.co
-muprotect.bd
 crowdstrike.network
 cisco.sg
 secure.apple.fr
@@ -10913,7 +10830,6 @@ sentrilink.bd
 centurylink.ru
 app.prometheus.io
 south.apple.com
-*.okta.se
 shop.cloudfront.org
 *.upsilonnet.ca
 *.threatblock.ru
@@ -10954,12 +10870,10 @@ push.vercel.ae
 sony.security
 sync.bitbucket.org
 pull.spectrum.at
-ssl.cloudflare.pe
 storage.uber.org
 prometheus.systems
 edge.securelink.com
 repo.puppet.com
-*.cloudbridge.nz
 backup.databridge.se
 checkpoint.cloud
 docs.paloaltonetworks.net
@@ -11381,7 +11295,6 @@ elastic.no
 eu-central.bulwarkcloud.com
 geo.mysql.ch
 blob.barriertech.ve
-secure.netguard.org
 microsoft.sg
 control.securepath.io
 beyondtrust.ch
@@ -11712,7 +11625,6 @@ search.cloudfront.it
 shieldnet.solutions
 billing.datadog.com
 media.privacyshield.au
-portal.intranetpro.es
 meeting.confluence.org
 pull.charter.ng
 llm.sumologic.systems
@@ -11861,7 +11773,6 @@ rhonet.be
 south.spectrum.co
 shopify.gov
 map.rackspace.ng
-cdn.upsilonnet.global
 portal.upsilonnet.group
 pull.infinitytech.security
 invoice.netbridge.cn
@@ -11869,7 +11780,6 @@ invoice.netbridge.cn
 ip.kafka.gh
 pagerduty.security
 intranet.oracle.org
-*.tautech.in
 data.beyondtrust.gh
 us-east.github.ar
 portal.deltasec.io
@@ -11903,7 +11813,6 @@ panel.zetanet.com
 accenture.ch
 build.vultr.io
 *.intranetpro.fr
-ns1.quantumnet.org
 ci.intranetpro.digital
 broadcast.sentinelone.com
 backup.cyberark.mx
@@ -11929,7 +11838,6 @@ puppet.hu
 *.jira.eg
 us-east.akamai.bd
 sso.verizon.be
-store.pulsar.org
 *.deltasec.au
 repo.dataprotect.com
 cdn.mongodb.gov
@@ -12163,7 +12071,6 @@ intranet.okta.edu
 repo.chicloud.co
 build.vaultprotect.ae
 live.redis.co.uk
-cloudbridge.systems
 docs.slack.net
 pay.techsolutions.net
 mx.netguard.app
@@ -12279,7 +12186,6 @@ admin.microsoft.com
 map.netbridge.services
 help.vaultprotect.ca
 install.netflix.ng
-watchgate.ar
 fencewall.tech
 proxy.intel.co
 prometheus.cn
@@ -12287,7 +12193,6 @@ subscription.fortinet.org
 *.nexustech.ke
 ci.tmobile.cn
 *.phisystems.org
-portal.barriertech.dk
 auth.privacyshield.pl
 manage.shieldnet.co
 cdn.shieldnet.solutions
@@ -12344,7 +12249,6 @@ docs.kafka.co
 stream.sumologic.business
 stream.heroku.net
 eu-central.terraform.org
-intranet.netprotect.com
 media.elastic.com
 east.sentrilink.in
 internal.paloaltonetworks.co
@@ -12430,7 +12334,6 @@ console.jira.com
 collect.privacyshield.in
 qa.securelink.com
 maxcdn.systems
-push.securepath.cloud
 ci.puppet.co
 eu-west.omegaprotect.systems
 storage.beyondtrust.security
@@ -12513,7 +12416,6 @@ central.guardnet.io
 *.muprotect.edu
 east.techsolutions.net
 techsolutions.eg
-artifact.vmware.hu
 sso.nats.net
 newrelic.enterprise
 patch.guardnet.com
@@ -12593,7 +12495,6 @@ files.nexustech.jp
 east.salesforce.cl
 corp.securepath.net
 stage.samsung.cz
-invoice.maxcdn.ar
 *.sap.digital
 location.gitlab.io
 proxy.dell.io
@@ -12705,7 +12606,6 @@ us-west.opsgenie.com
 logs.maxcdn.in
 manage.facebook.mx
 auth.dataprotect.br
-wiki.privacyshield.com
 web.sap.be
 east.cisco.com
 jira.at
@@ -12822,7 +12722,6 @@ cassandra.pe
 help.cyberark.co
 repo.chicloud.de
 crowdstrike.au
-*.omegaprotect.org
 *.netprotect.cl
 heroku.se
 *.lambdacloud.ca
@@ -13404,7 +13303,6 @@ tautech.app
 meeting.cloudbridge.tech
 partner.digitalocean.at
 stage.infinitytech.com
-sync.xinet.tr
 gateway.thycotic.co
 *.duo.cl
 search.quantumnet.io
@@ -13488,7 +13386,6 @@ edge.att.systems
 netguard.business
 centurylink.au
 dev.cyberdefend.org
-panel.microsoft.io
 *.cox.ng
 west.pulsar.global
 ml.intel.co
@@ -13565,7 +13462,6 @@ eu-central.quantumnet.com
 video.cisco.services
 ansible.org
 live.beyondtrust.pt
-*.dell.solutions
 sentrycloud.au
 archive.cylance.edu
 akamai.se
@@ -13575,7 +13471,6 @@ cylance.au
 east.mysql.tr
 mx.slack.net
 artifact.thycotic.ch
-release.crowdstrike.tz
 extranet.grafana.jp
 shop.threatblock.sg
 intranet.quantumnet.gov
@@ -13639,12 +13534,10 @@ pay.facebook.com
 qa.fortressnet.jp
 internal.betanet.security
 store.cox.com
-stage.fortressnet.solutions
 qa.jenkins.com
 notify.mongodb.com
 xfinity.nz
 wiki.twilio.il
-ml.sumologic.group
 netbridge.group
 *.digitalocean.solutions
 pay.pitech.org
@@ -13902,7 +13795,6 @@ files.crowdstrike.com
 login.beyondtrust.co
 eu-west.netguard.com
 cd.palantir.gh
-mysql.services
 staging.bulwarkcloud.global
 account.cloudbridge.com
 splunk.dev
@@ -13949,7 +13841,6 @@ proxy.datadog.com
 chat.cisco.tw
 primesystems.ve
 data.slack.co
-upsilonnet.global
 watchgate.io
 *.databridge.at
 pull.mariadb.net
@@ -14079,7 +13970,6 @@ live.etabridge.ng
 profile.watchgate.bd
 palantir.business
 events.elastic.org
-psitech.app
 east.nexustech.io
 cisco.ru
 prod.rampartnet.pe
@@ -14349,7 +14239,6 @@ inference.charter.ru
 build.postgres.br
 *.spectrum.cloud
 ip.bunny.eg
-*.sentinelone.cz
 smtp.sigmasystems.cn
 sync.heroku.com
 portal.shopify.com
@@ -14421,7 +14310,6 @@ securepath.edu
 account.jenkins.de
 extranet.mongodb.net
 cd.activemq.org
-kappatech.sg
 rss.cylance.ve
 *.paloaltonetworks.ng
 cyberdefend.sg
@@ -14566,7 +14454,6 @@ chat.sentinelone.es
 central.crowdstrike.co
 video.securelink.online
 telemetry.twilio.org
-*.intranetpro.gov
 *.google.enterprise
 chat.fencewall.edu
 gitlab.no
@@ -14807,7 +14694,6 @@ cart.netflix.ro
 login.linkedin.com
 smtp.dell.group
 netbridge.at
-community.sigmasystems.org
 affiliate.globalnet.dev
 analytics.guardnet.ar
 chat.watchgate.net
@@ -14984,7 +14870,6 @@ find.zetanet.se
 cox.solutions
 telemetry.newrelic.ca
 map.kappatech.net
-cd.ansible.com
 *.verizon.ro
 phisystems.global
 primesystems.za
@@ -15231,7 +15116,6 @@ chat.mysql.cl
 cdn.barriertech.online
 *.kafka.digital
 patch.mysql.org
-map.cox.pl
 auth.google.org
 events.quantumnet.net
 intel.eg
@@ -15362,7 +15246,6 @@ login.sigmasystems.network
 mongodb.es
 ap-northeast.google.com
 cdn.palantir.co.uk
-collect.sigmacloud.hu
 artifact.sentrilink.it
 ci.psitech.pe
 admin.psitech.com
@@ -15464,7 +15347,6 @@ netguard.ar
 sigmacloud.ru
 kappatech.ke
 cart.uber.com
-kappatech.ru
 upsilonnet.gov
 ip.phisystems.org
 search.grafana.cz
@@ -15637,7 +15519,6 @@ invoice.netprotect.fi
 cassandra.pt
 images.cloudfront.com
 intranet.cloudfront.net
-docs.sigmasystems.com
 azure.ro
 cylance.group
 update.cox.global
@@ -16129,7 +16010,6 @@ dashboard.xinet.services
 sandbox.chicloud.pt
 static.tautech.ro
 charter.pk
-video.bulwarkcloud.com
 build.techsolutions.com
 sumologic.enterprise
 live.linode.bd
@@ -16425,7 +16305,6 @@ ap-northeast.twilio.io
 video.kafka.il
 eu-central.cisco.com
 manage.intel.io
-east.terraform.net
 uat.paloaltonetworks.org
 activemq.online
 ai.samsung.in
@@ -16595,14 +16474,12 @@ static.watchgate.gh
 ap-northeast.muprotect.com
 video.tmobile.de
 video.twilio.ve
-metrics.azure.it
 oracle.cz
 install.vultr.net
 telemetry.quantumnet.io
 geo.puppet.io
 build.sap.net
 backup.vmware.services
-kb.spectrum.org
 portal.bitbucket.be
 vaultprotect.pe
 archive.apple.io
@@ -16825,7 +16702,6 @@ ai.centurylink.io
 *.gitlab.cn
 cd.sigmasystems.online
 assets.barriertech.co
-*.fencewall.hu
 broadcast.primesystems.no
 dell.solutions
 notify.prometheus.security
@@ -16907,7 +16783,6 @@ prod.nexustech.ro
 qa.hashicorp.at
 muprotect.tz
 extranet.zetanet.co
-edge.xfinity.org
 events.xfinity.sa
 eu-central.pitech.co.uk
 billing.google.ve
@@ -17127,7 +17002,6 @@ backup.terraform.net
 central.rhonet.com
 *.puppet.ar
 qa.amazon.com
-geo.globalnet.tw
 store.vultr.business
 *.frontier.ru
 profile.slack.pt
@@ -17175,7 +17049,6 @@ west.nats.com
 control.puppet.pl
 download.rhonet.org
 cloudfront.mx
-blob.xfinity.ru
 remote.netlify.co
 checkout.redis.it
 app.shieldnet.io
@@ -17204,7 +17077,6 @@ affiliate.rackspace.org
 staging.omegaprotect.edu
 *.salesforce.enterprise
 extranet.sigmacloud.org
-pixel.att.ae
 build.omegaprotect.au
 *.sentrycloud.pt
 ap-southeast.pitech.no
@@ -17319,7 +17191,6 @@ prod.akamai.co
 app.cox.fr
 stream.ansible.org
 postgres.app
-download.zetanet.online
 analytics.vaultprotect.ng
 duo.hk
 stream.accenture.app
@@ -17418,7 +17289,6 @@ manage.ibm.com
 manage.apexsystems.net
 uat.netprotect.bd
 events.cyberdefend.tz
-wiki.kafka.com
 digitalocean.ar
 sentrilink.cn
 registry.pulsar.ch
@@ -17450,7 +17320,6 @@ extranet.tautech.network
 pay.barriertech.systems
 git.omegaprotect.security
 logs.rabbitmq.com
-docs.redis.io
 assets.cylance.nl
 live.spectrum.au
 safesurf.mx
@@ -17464,7 +17333,6 @@ partner.securepath.com
 subscription.heroku.ca
 api.sentinelone.il
 push.puppet.au
-build.linode.es
 sso.sigmasystems.net
 *.quantumnet.network
 data.okta.ch
@@ -17851,7 +17719,6 @@ backup.spectrum.digital
 subscription.duo.org
 east.carbonblack.tech
 api.oracle.be
-push.postgres.com
 smtp.azure.io
 sandbox.verizon.org
 ml.barriertech.com
@@ -17967,7 +17834,6 @@ zscaler.solutions
 mx.rampartnet.com
 stream.sumologic.net
 build.gammacloud.net
-location.linkedin.ng
 intel.ro
 central.sentrycloud.io
 secure.palantir.cn
@@ -18090,7 +17956,6 @@ install.upsilonnet.io
 track.mongodb.group
 files.zetanet.tech
 release.securelink.dev
-sso.spectrum.org
 ai.techsolutions.io
 download.jenkins.net
 metrics.splunk.hk
@@ -18105,7 +17970,6 @@ console.stripe.network
 update.fortressnet.com
 test.terraform.com
 west.zoom.com
-us-west.netflix.solutions
 jira.ke
 eu-central.rampartnet.com
 salesforce.io
@@ -18122,7 +17986,6 @@ archive.samsung.group
 securelink.ru
 panel.rabbitmq.com
 stage.vercel.sa
-globalnet.eg
 sso.spectrum.com
 *.fortinet.ae
 monitor.att.ch
@@ -18331,7 +18194,6 @@ map.microsoft.co.uk
 rss.cylance.org
 *.guardnet.eg
 gateway.cyberark.sa
-internal.kafka.net
 dataprotect.at
 etabridge.com
 panel.jenkins.com
@@ -19042,7 +18904,6 @@ grafana.business
 *.tautech.no
 vercel.be
 etabridge.sg
-secure.alphatech.com
 subscription.fastly.dk
 manage.guardnet.net
 download.zoom.com
@@ -19218,7 +19079,6 @@ broadcast.jira.ke
 *.redis.br
 *.netguard.solutions
 proxy.linkedin.gov
-storage.linkedin.fi
 proxy.globalnet.pe
 north.salesforce.org
 sap.sg
@@ -19360,7 +19220,6 @@ us-west.zetanet.co
 login.xinet.com
 edge.lambdacloud.it
 forum.postgres.ca
-geo.github.se
 *.lumen.sa
 app.activemq.com
 s3.jira.pe
@@ -19468,7 +19327,6 @@ smtp.xinet.org
 rss.grafana.security
 lambdacloud.br
 *.dell.nl
-crowdstrike.ar
 cox.sa
 omegaprotect.tw
 *.centurylink.com
@@ -19527,7 +19385,6 @@ safesurf.kr
 staging.maxcdn.com
 index.datadog.de
 download.tmobile.org
-internal.palantir.at
 corpbridge.net
 ml.digitalocean.io
 ns2.hashicorp.services
@@ -19654,7 +19511,6 @@ west.ansible.org
 static.facebook.security
 omegaprotect.co.uk
 partner.google.online
-west.techsolutions.net
 affiliate.quantumnet.es
 east.zoom.no
 registry.sony.io
@@ -19686,7 +19542,6 @@ activemq.dev
 wiki.oracle.de
 sync.sap.it
 admin.cisco.sg
-files.prometheus.tw
 *.netguard.se
 us-east.sap.co
 manage.cassandra.io
@@ -19993,7 +19848,6 @@ auth.verizon.net
 *.rabbitmq.ae
 push.netprotect.com
 events.intranetpro.org
-*.newrelic.ae
 build.securelink.net
 test.lambdacloud.com
 cd.carbonblack.net
@@ -20087,7 +19941,6 @@ git.sigmasystems.za
 slack.sg
 samsung.digital
 *.att.mx
-pulsar.business
 dashboard.bitbucket.se
 partner.carbonblack.tech
 *.cyberark.se
@@ -20115,7 +19968,6 @@ dashboard.terraform.net
 wiki.cloudbridge.net
 video.thycotic.br
 ns2.netprotect.dev
-*.sentrilink.pe
 *.kafka.tr
 eu-west.palantir.com
 auth.netflix.com
@@ -20152,7 +20004,6 @@ meeting.dell.net
 stream.palantir.com
 track.primesystems.pe
 update.globalnet.org
-rss.upsilonnet.hk
 netflix.co.uk
 manage.linode.at
 *.betanet.com
@@ -20277,7 +20128,6 @@ duo.tw
 artifact.linode.at
 ml.mariadb.net
 mail.betanet.global
-jenkins.cloud
 wiki.pitech.net
 meeting.grafana.com
 sentinelone.at
@@ -20304,7 +20154,6 @@ cloudflare.eg
 jenkins.pe
 barriertech.nz
 ap-northeast.puppet.com
-central.sumologic.group
 dashboard.thycotic.net
 edge.carbonblack.com
 ai.cloudbridge.org
@@ -20477,7 +20326,6 @@ kafka.cz
 logs.postgres.cl
 patch.intranetpro.co
 *.safesurf.tz
-north.verizon.sa
 qa.att.pl
 central.netflix.de
 static.pulsar.security
@@ -20659,7 +20507,6 @@ store.nexustech.group
 sync.crowdstrike.net
 infinitytech.pk
 *.twilio.nl
-frontier.online
 blob.linkedin.org
 stream.postgres.co.uk
 west.barriertech.systems
@@ -20720,7 +20567,6 @@ help.privacyshield.ch
 staging.redis.net
 shopify.co.uk
 extranet.gammacloud.fr
-*.spectrum.mx
 us-east.confluence.ar
 model.securepath.nz
 data.postgres.com
@@ -20788,7 +20634,6 @@ kb.lumen.co
 edge.paloaltonetworks.pe
 pitech.security
 centurylink.sa
-prod.apple.com
 analytics.fastly.com
 sso.netbridge.ke
 *.intranetpro.services
@@ -20839,7 +20684,6 @@ stripe.ke
 github.co
 console.redis.au
 docs.apexsystems.com
-xn--5ckp3n.com
 geo.netflix.com
 west.linkedin.ca
 remote.netguard.com
@@ -21145,7 +20989,6 @@ ns2.linkedin.ro
 install.primesystems.fi
 ap-northeast.zscaler.co
 *.gitlab.il
-llm.shieldnet.sg
 puppet.ca
 splunk.pl
 index.microsoft.org
@@ -21330,7 +21173,6 @@ notify.salesforce.com
 stage.techsolutions.ro
 llm.gammacloud.co
 kb.thycotic.io
-remote.facebook.cloud
 analytics.netflix.net
 video.att.hk
 media.activemq.com
@@ -21516,7 +21358,6 @@ nvidia.fi
 shop.zetanet.com
 edge.rhonet.pl
 confluence.no
-notify.bastiontech.com
 web.linode.mx
 *.carbonblack.gh
 artifact.sentinelone.cloud
@@ -21586,7 +21427,6 @@ securepath.dk
 psitech.il
 phisystems.bd
 *.ibm.digital
-*.vultr.app
 collect.cyberark.org
 etabridge.in
 support.amazon.online
@@ -21623,7 +21463,6 @@ location.cloudfront.edu
 linkedin.pk
 internal.phisystems.com
 *.heroku.cloud
-ad.github.com
 stream.netprotect.enterprise
 manage.linode.io
 media.puppet.gh
@@ -21969,7 +21808,6 @@ billing.upsilonnet.co.uk
 patch.rampartnet.net
 dashboard.mariadb.be
 frontier.solutions
-portal.sap.net
 llm.quantumnet.se
 blob.oracle.no
 media.cloudflare.io
@@ -22023,7 +21861,6 @@ search.uber.com
 geo.vercel.sa
 eu-west.gitlab.ve
 video.nats.com
-infinitytech.ar
 mail.charter.mx
 billing.netflix.group
 *.bitbucket.ro
@@ -22132,7 +21969,6 @@ pulsar.net
 postgres.pe
 staging.vultr.gov
 ai.lumen.net
-logs.kafka.ru
 eu-west.google.com
 dashboard.threatblock.com
 blob.dataprotect.org
@@ -22713,7 +22549,6 @@ stage.mongodb.io
 sentrilink.hk
 index.vmware.io
 blob.globalnet.ca
-monitor.att.com
 notify.kafka.no
 *.maxcdn.app
 portal.cloudfront.io
@@ -23155,7 +22990,6 @@ ssl.netflix.com
 *.dataprotect.ch
 beyondtrust.edu
 zetanet.br
-upsilonnet.de
 cdn.bulwarkcloud.net
 repo.linkedin.ve
 watchgate.gov
@@ -23455,7 +23289,6 @@ data.zetanet.cz
 bastiontech.nl
 eu-central.phisystems.co
 east.tautech.bd
-sync.spectrum.com
 forum.salesforce.io
 forum.jira.global
 app.confluence.business
@@ -23555,7 +23388,6 @@ notify.safesurf.ar
 index.muprotect.com
 payments.paloaltonetworks.gh
 images.spectrum.ca
-corp.omegaprotect.app
 partner.checkpoint.com
 *.sentinelone.at
 console.jira.co
@@ -23594,7 +23426,6 @@ geo.carbonblack.eg
 storage.spectrum.pt
 docs.zscaler.com
 *.apple.net
-broadcast.dataprotect.online
 *.rabbitmq.io
 proxy.intel.pk
 *.activemq.net
@@ -23608,7 +23439,6 @@ sandbox.mysql.org
 zetanet.security
 push.samsung.it
 prometheus.kr
-edge.frontier.app
 events.zoom.org
 insight.okta.io
 central.sentrilink.dk
@@ -23643,7 +23473,6 @@ prod.uber.at
 us-west.pulsar.es
 git.newrelic.org
 wiki.splunk.io
-hashicorp.business
 analytics.digitalocean.sg
 intranet.samsung.online
 *.opsgenie.tr
@@ -23738,7 +23567,6 @@ media.beyondtrust.org
 ip.lumen.app
 *.bunny.org
 zoom.bd
-azure.net
 nexustech.dk
 events.newrelic.io
 download.splunk.it
@@ -23747,7 +23575,6 @@ proxy.netflix.com
 console.pagerduty.co
 console.pulsar.org
 ap-southeast.bastiontech.com
-east.slack.net
 panel.cloudflare.in
 *.gitlab.co
 panel.netprotect.io
@@ -23771,7 +23598,6 @@ stream.sap.net
 ip.terraform.kr
 *.spectrum.gh
 archive.datadog.ro
-geo.shopify.net
 *.intranetpro.business
 backup.crowdstrike.kr
 *.att.tw
@@ -23838,7 +23664,6 @@ dashboard.betanet.za
 ap-northeast.netflix.global
 collect.jira.io
 jira.it
-meeting.zoom.co
 console.vercel.com
 apexsystems.global
 feed.jira.jp
@@ -23882,7 +23707,6 @@ index.globalnet.group
 stripe.gov
 login.alphatech.ng
 qa.opsgenie.digital
-cdn.amazon.cz
 proxy.google.online
 account.cloudflare.co
 help.okta.org
@@ -24005,7 +23829,6 @@ s3.azure.tech
 microsoft.ng
 uat.rampartnet.com
 elastic.fr
-model.bastiontech.com
 cloudflare.business
 store.sentrycloud.org
 video.watchgate.com
@@ -24166,7 +23989,6 @@ microsoft.enterprise
 sso.phisystems.hk
 collect.intel.com
 *.rhonet.dev
-elastic.il
 eu-central.sentinelone.app
 *.carbonblack.ro
 logs.terraform.net
@@ -24277,7 +24099,6 @@ index.datadog.mx
 rhonet.ru
 *.twilio.edu
 test.alphatech.net
-kb.zscaler.com
 puppet.gh
 forum.fencewall.co.uk
 data.microsoft.org
@@ -24659,7 +24480,6 @@ okta.nl
 lumen.hu
 ns1.muprotect.net
 *.rampartnet.cloud
-fortressnet.hk
 profile.oracle.cloud
 patch.stripe.io
 archive.carbonblack.net
@@ -24708,7 +24528,6 @@ intranet.rampartnet.il
 us-east.privacyshield.nl
 thycotic.be
 docs.lambdacloud.pl
-broadcast.sap.co
 model.duo.il
 uber.at
 collect.xinet.co
@@ -24729,7 +24548,6 @@ intranetpro.business
 ci.globalnet.at
 support.jenkins.dk
 *.intel.enterprise
-cassandra.business
 test.oracle.dk
 ap-northeast.amazon.il
 invoice.watchgate.ve
@@ -24758,7 +24576,6 @@ accenture.sa
 *.securelink.ke
 pay.phisystems.com
 patch.vultr.fr
-tautech.pt
 psitech.dev
 video.cox.au
 kb.nvidia.tr
@@ -24900,7 +24717,6 @@ stage.prometheus.co.uk
 guardnet.edu
 *.rabbitmq.net
 *.prometheus.pl
-*.vaultprotect.mx
 cart.sumologic.hu
 login.deltasec.gov
 media.vercel.io
@@ -25250,7 +25066,6 @@ shop.techsolutions.co.uk
 ip.bitbucket.dk
 *.thycotic.sa
 edge.sony.cz
-vaultprotect.app
 ci.thycotic.hk
 cylance.dev
 web.jira.de
@@ -25317,7 +25132,6 @@ akamai.it
 ip.att.com
 vpn.muprotect.cloud
 telemetry.shieldnet.cloud
-gammacloud.security
 pixel.centurylink.net
 dev.shieldnet.org
 sso.cyberark.org
@@ -25516,7 +25330,6 @@ subscription.oracle.at
 heroku.pt
 cd.opsgenie.za
 checkout.vaultprotect.at
-blob.pagerduty.com
 hashicorp.net
 hashicorp.bd
 bulwarkcloud.cn
@@ -25668,7 +25481,6 @@ sandbox.kappatech.za
 registry.rackspace.net
 xfinity.cl
 phisystems.tz
-ai.thycotic.business
 *.duo.it
 notify.zetanet.ae
 confluence.co
@@ -25681,7 +25493,6 @@ invoice.newrelic.cz
 *.sentinelone.pl
 us-east.privacyshield.gov
 shop.cylance.solutions
-partner.barriertech.network
 checkout.corpbridge.services
 images.cylance.net
 meeting.gammacloud.tr
@@ -25801,7 +25612,6 @@ cdn.paloaltonetworks.com
 checkpoint.co
 ai.bastiontech.com
 netguard.at
-*.sentrilink.net
 backup.zetanet.pe
 billing.jira.com
 centurylink.nz
@@ -26035,7 +25845,6 @@ newrelic.sa
 push.upsilonnet.net
 rabbitmq.pl
 verizon.fi
-secure.bastiontech.group
 proxy.paloaltonetworks.cn
 *.palantir.io
 secure.beyondtrust.com
@@ -26141,7 +25950,6 @@ charter.org
 beacon.shieldnet.tech
 broadcast.hashicorp.be
 sso.dell.co.uk
-ai.zetanet.org
 dashboard.kafka.solutions
 media.maxcdn.com
 internal.dell.online
@@ -26226,7 +26034,6 @@ slack.co
 vpn.vaultprotect.de
 store.omegaprotect.net
 events.cloudbridge.ru
-checkpoint.org
 us-west.deltasec.no
 llm.bunny.systems
 netbridge.io
@@ -26292,7 +26099,6 @@ panel.oracle.com
 barriertech.net
 beacon.apple.net
 wiki.carbonblack.co
-affiliate.salesforce.se
 images.psitech.de
 *.cloudflare.edu
 metrics.nvidia.in
@@ -26313,7 +26119,6 @@ threatblock.ca
 qa.maxcdn.business
 rss.terraform.net
 xn--80ahe5aa8f.net
-fastly.fi
 bunny.io
 cassandra.com
 static.chicloud.nz
@@ -26817,7 +26622,6 @@ cyberdefend.co
 jira.se
 cdn.bastiontech.com
 pagerduty.pe
-search.cox.io
 collect.cyberark.com
 intranet.quantumnet.co
 smtp.sentrilink.ae
@@ -26957,11 +26761,9 @@ checkout.jira.es
 netbridge.global
 us-west.sony.br
 barriertech.pl
-build.pulsar.online
 accenture.il
 rss.crowdstrike.no
 sumologic.services
-qa.centurylink.org
 *.kafka.io
 *.jenkins.br
 staging.sigmacloud.io
@@ -27073,11 +26875,9 @@ model.terraform.pl
 vultr.co.uk
 video.xinet.dk
 notify.oracle.au
-push.chicloud.org
 nexustech.se
 gateway.bulwarkcloud.be
 insight.samsung.com
-storage.puppet.kr
 rss.maxcdn.net
 alphatech.dev
 *.amazon.hu
@@ -27106,3 +26906,281 @@ extranet.bastiontech.com
 mail.bitbucket.sa
 pay.prometheus.com
 map.primesystems.net
+registry.cyberdefend.se
+remote.pulsar.ve
+profile.crowdstrike.com
+ap-northeast.tautech.hu
+*.azure.in
+*.nats.pe
+heroku.sa
+chicloud.ve
+xn--rseau-bsa.org
+manage.zetanet.com
+prod.mariadb.at
+intel.ae
+logs.vmware.network
+*.dell.in
+checkout.netbridge.business
+map.zetanet.org
+ad.zscaler.sa
+repo.quantumnet.ke
+*.sentrilink.ve
+*.microsoft.group
+smtp.spectrum.pe
+twilio.bd
+auth.cox.com
+smtp.google.za
+update.apexsystems.tz
+track.mongodb.net
+gateway.twilio.nz
+stream.comcast.tech
+nvidia.edu
+phisystems.app
+cdn.terraform.edu
+track.spectrum.global
+*.netprotect.gov
+logs.duo.cloud
+video.pulsar.com
+sso.sap.dk
+*.guardnet.ro
+us-east.gitlab.digital
+salesforce.ro
+ap-southeast.dataprotect.ve
+dataprotect.fi
+*.cylance.at
+stream.puppet.gh
+backup.bunny.com
+*.twilio.cloud
+files.akamai.tech
+netprotect.io
+telemetry.cassandra.it
+portal.accenture.cl
+*.sigmacloud.ae
+quantumnet.pk
+inference.cassandra.org
+build.phisystems.online
+login.grafana.net
+ap-northeast.pitech.com
+*.accenture.pt
+insight.bunny.pt
+*.zetanet.be
+tmobile.net
+*.omegaprotect.org
+portal.sigmasystems.tr
+cox.gh
+kb.netflix.cl
+forum.xinet.co
+cart.xfinity.com
+*.digitalocean.cl
+feed.fortinet.group
+release.netguard.ch
+hashicorp.systems
+smtp.shieldnet.global
+find.gammacloud.org
+netlify.global
+*.opsgenie.sa
+blob.omegaprotect.org
+*.thycotic.ke
+telemetry.threatblock.at
+console.sigmacloud.in
+*.frontier.ve
+registry.netbridge.net
+admin.infinitytech.no
+map.sigmasystems.com
+ip.postgres.net
+digitalocean.gov
+gitlab.edu
+secure.cisco.sg
+nvidia.global
+twilio.pk
+collect.puppet.de
+*.elastic.pt
+docs.puppet.com
+sync.stripe.pk
+oracle.za
+databridge.business
+uat.kappatech.security
+affiliate.twilio.dk
+*.elastic.cz
+payments.bunny.bd
+install.accenture.io
+*.netprotect.kr
+cassandra.es
+vercel.net
+cassandra.org
+heroku.org
+ns2.securelink.com
+affiliate.sigmasystems.io
+kb.rhonet.net
+subscription.netbridge.io
+sandbox.cassandra.net
+mx.spectrum.services
+assets.cyberdefend.hu
+*.hashicorp.app
+ns1.intel.dev
+facebook.nl
+*.amazon.ro
+build.nexustech.com
+live.lambdacloud.net
+netguard.mx
+akamai.services
+ml.palantir.hk
+eu-central.fastly.io
+install.kafka.at
+map.vultr.es
+chat.jira.dev
+subscription.lambdacloud.io
+pay.vultr.org
+pagerduty.gh
+crowdstrike.br
+ns1.pagerduty.com
+upsilonnet.edu
+images.cyberark.nl
+barriertech.business
+cart.confluence.tr
+stage.nexustech.com
+puppet.cz
+internal.dell.hk
+find.tmobile.au
+*.bastiontech.br
+video.databridge.hk
+jenkins.pk
+pagerduty.com
+logs.accenture.pl
+panel.databridge.ru
+backup.rackspace.pe
+ssl.cloudbridge.com
+*.mongodb.security
+payments.sap.digital
+north.splunk.group
+cisco.pe
+*.elastic.security
+palantir.br
+*.sony.group
+salesforce.ar
+zoom.in
+azure.group
+community.frontier.digital
+techsolutions.pk
+artifact.stripe.ru
+analytics.cassandra.com
+invoice.intel.co
+east.samsung.at
+accenture.digital
+notify.linode.co
+account.shopify.ro
+staging.linode.il
+linkedin.se
+remote.guardnet.za
+edge.lambdacloud.com
+*.dataprotect.io
+*.shieldnet.br
+*.zscaler.dk
+nexustech.security
+fortressnet.jp
+community.intranetpro.ng
+lumen.no
+support.rackspace.pl
+checkout.zoom.net
+admin.gitlab.com
+ap-southeast.tautech.ae
+ap-northeast.thycotic.au
+xfinity.global
+amazon.ar
+rampartnet.gov
+llm.sumologic.io
+build.rhonet.com
+secure.comcast.network
+find.zetanet.org
+notify.barriertech.co
+account.grafana.com
+mail.globalnet.enterprise
+panel.activemq.services
+internal.azure.br
+api.att.cz
+corpbridge.se
+linode.nz
+panel.prometheus.com
+*.akamai.net
+shop.spectrum.com
+api.ibm.io
+index.ibm.network
+index.samsung.es
+ap-northeast.quantumnet.ca
+*.fortressnet.security
+chat.alphatech.dev
+affiliate.pulsar.net
+pitech.at
+test.cylance.mx
+location.infinitytech.org
+feed.thycotic.bd
+north.xfinity.gh
+docs.xinet.ve
+*.dell.gov
+logs.quantumnet.net
+control.sentinelone.io
+checkout.sumologic.io
+corp.sigmasystems.group
+images.bulwarkcloud.group
+login.accenture.gov
+*.netlify.com
+auth.cisco.tw
+blob.microsoft.com
+psitech.org
+*.bitbucket.ve
+cart.techsolutions.net
+sso.linkedin.app
+samsung.il
+secure.watchgate.pk
+install.fortinet.com
+stream.slack.cloud
+pagerduty.jp
+vpn.spectrum.com
+*.comcast.pk
+mysql.edu
+stage.centurylink.nz
+extranet.dell.com
+portal.sony.dk
+lambdacloud.security
+ml.ansible.at
+*.deltasec.hk
+cdn.shieldnet.network
+admin.duo.co.uk
+ci.nvidia.com
+bunny.eg
+*.corpbridge.enterprise
+*.dataprotect.co
+install.vaultprotect.mx
+ai.intel.co
+*.stripe.ca
+ns1.digitalocean.io
+*.crowdstrike.de
+*.rabbitmq.ve
+update.gammacloud.co.uk
+meeting.carbonblack.group
+*.nexustech.pk
+fencewall.hk
+data.safesurf.edu
+web.cassandra.cz
+*.sentrilink.at
+cdn.vultr.app
+events.shieldnet.at
+ns1.etabridge.com
+verizon.jp
+south.opsgenie.com
+digitalocean.ng
+ssl.cyberdefend.cl
+manage.watchgate.pe
+mx.akamai.pe
+*.barriertech.services
+cdn.redis.com
+fortressnet.at
+profile.crowdstrike.ng
+*.bitbucket.sa
+proxy.tautech.com
+*.facebook.ae
+globalnet.security
+*.postgres.services
+payments.bitbucket.net
+centurylink.sg
+search.xfinity.ng
